@@ -2,8 +2,6 @@
 title: About
 ---
 
-# About
-
 **Location**: Reno, Nevada, USA
 
 **Founded**: May 3-5, 2013
