@@ -5,7 +5,9 @@ title: About
 # About
 
 **Location**: Reno, Nevada, USA
+
 **Founded**: May 3-5, 2013
+
 **Year Round Staff**: 8 people
 
 **Our History**: The seed of the idea, we came back from Further Confusion, and we were all post-con jazzed up. We knew what we wanted to see at a convention, and while wandering the Grand Sierra Resort, we were struck by the large accommodating hallways, how everything was in one central location and the extra amenities available. We figured, we should do a convention here!
