@@ -1,3 +1,6 @@
+---
+title: Convention Map
+---
 ## Floor 1 - Casino Level
 
 ### Grand Ballroom / Summit Pavilion
