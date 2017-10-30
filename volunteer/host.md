@@ -1,15 +1,17 @@
 ---
 title: Host an Event
 ---
+Help us help you entertain our other fellow citizens and guests.
+
+<a class="button" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe1TvbLGnfsaW58Jw0jkSVvffsdtG9UBiYNO7qHKgfR7w3Q0w/viewform">Host a Panel or Event</a>
+
+---
 
 ## Submit a Panel
 
 BLFC is highly dependent on the community in order to provide skillfully presented panels. We are happily accepting applications from panelists and are actively looking for presenters with skills and knowledge that they are eager to share.
 
 If you wish to run a panel or have an idea for a panel, go ahead and click the button below and apply to host one, or <a href="/contact/">contact the panels lead</a>.
-
-Help us help you entertain our other fellow citizens and guests.
-<a class="button" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe1TvbLGnfsaW58Jw0jkSVvffsdtG9UBiYNO7qHKgfR7w3Q0w/viewform">Host a Panel or Event</a>
 
 While BLFC does not have panel "tracks," we do encourage panelists of all types to participate in our convention.
 
