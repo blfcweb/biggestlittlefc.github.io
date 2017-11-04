@@ -31,7 +31,13 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 
 
 /* ---- HEADER ---- */
-#header {}
+#header {
+	background-color: #0B0306;
+	box-shadow: 
+	color: #fff;
+	text-shadow: -2px -1px 1px rgba( 0, 0, 0, 0.75 );
+	box-shadow: -7px 0 5px rgba( 0, 0, 0, 0.75 );
+}
 #logo {}
 #main-menu {}
 #main-menu li a {padding:3px 5px;color:#222;}
