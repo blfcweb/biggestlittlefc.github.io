@@ -1,10 +1,18 @@
 ---
 items:
-  - facebook: "https://www.facebook.com/BiggestLittleFurryConvention"
-  - twitter: "https://twitter.com/BiggestLittleFC"
-  - tumblr: "http://biggestlittlefc.tumblr.com/"
-  - furaffinity: "http://www.furaffinity.net/user/biggestlittlefurcon"
-  - youtube: "https://www.youtube.com/c/BiggestlittlefurconOrg"
-  - google-plus: "https://plus.google.com/106338588646241282653/posts"
-  - telegram: "https://telegram.me/biggestlittlefc"
-  - instagram: "https://www.instagram.com/biggestlittlefurcon/"
+  - name: facebook
+    url: "https://www.facebook.com/BiggestLittleFurryConvention"
+  - name: twitter
+    url: "https://twitter.com/BiggestLittleFC"
+  - name: tumblr
+    url: "http://biggestlittlefc.tumblr.com/"
+  - name: furaffinity
+    url: "http://www.furaffinity.net/user/biggestlittlefurcon"
+  - name: youtube
+    url: "https://www.youtube.com/c/BiggestlittlefurconOrg"
+  - name: googleplus
+    url: "https://plus.google.com/106338588646241282653/posts"
+  - name: telegram
+    url: "https://telegram.me/biggestlittlefc"
+  - name: instagram
+    url: "https://www.instagram.com/biggestlittlefurcon/"
