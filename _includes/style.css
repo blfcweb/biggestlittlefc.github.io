@@ -31,20 +31,20 @@ ul, ol {
 	padding: 0 0 0 40px;
 }
 blockquote {
-	border-left:1px solid #696969;
-	padding-left:10px;
+	border-left: 1px solid #696969;
+	padding-left: 10px;
 	margin: 1em 40px;
 }
 button,input,select,textarea {
-	padding:5px;
-	margin:5px 0;
-	max-width:100%;
+	padding: 5px;
+	margin: 5px 0;
+	max-width: 100%;
 }
 a, a:link, a:visited {
-	color:#38002D;
+	color: #38002D;
 }
 a:hover, a:focus, a:active {
-	color:#75005C;
+	color: #75005C;
 }
 hr {
 	-moz-box-sizing: content-box;
@@ -56,21 +56,17 @@ hr {
 }
 button, a.button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 8px 15px;
-	display:inline-block;
-	color:#fff;
-	background-color:#38002D;
-}
-.button:empty {
-	opacity:0.1;
-	cursor:default;
+	display: inline-block;
+	color: #fff;
+	background-color: #38002D;
 }
 .page-wrapper {
-	width:calc(100% - 20px);
-	min-width:320px;
-	max-width:1280px;
-	margin:0 auto;
-	padding:20px;
-	position:relative;
+	width: calc(100% - 20px);
+	min-width: 320px;
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 20px;
+	position: relative;
 }
 
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
@@ -80,15 +76,13 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	text-shadow: -2px -1px 1px rgba( 0, 0, 0, 0.75 );
 	box-shadow: -7px 0 5px rgba( 0, 0, 0, 0.75 );
 }
-#logo {}
-#mobile-toggle {
-	background-color:transparent;
-	background-image: url("img/icon-menu.png");
-	border-radius: 0;
-	height: 32px;
-	width: 38px;
+#site-title {
+	font-size: 22px;
+	padding: 10px 0;
+	display: block;
+	text-transform: uppercase;
+	color: #fff;
 }
-#mobile-nav {}
 
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #footer {
