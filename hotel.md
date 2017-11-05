@@ -1,5 +1,6 @@
 ---
 title: Hotel
+description: Book your room for BLFC at our host hotel, the Grand Sierra Resort. 
 ---
 <div class="page-wrapper"><div id="hotel-thehotel" class="fullwidth textcenter chunk-imgbg" style="margin:0;background-image:url(/wp-content/uploads/hotel_bap.jpg);"><div class="skivdiv-content"><p><a href="http://www.grandsierraresort.com/" target="_blank"><img class="aligncenter" src="https://www.goblfc.org/wp-content/uploads/grand-sierra-resort-logo-512x150.png" alt="grand-sierra-resort-logo"></a></p>
 <h3>2500 East 2nd Street, Reno, NV 89595</h3>
