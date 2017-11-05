@@ -1,18 +1,26 @@
 ---
 items:
-  - name: facebook
+  - slug: facebook
+    name: Facebook
     url: "https://www.facebook.com/BiggestLittleFurryConvention"
-  - name: twitter
+  - slug: twitter
+    name: Twitter
     url: "https://twitter.com/BiggestLittleFC"
-  - name: tumblr
+  - slug: tumblr
+    name: Tumblr
     url: "http://biggestlittlefc.tumblr.com/"
-  - name: furaffinity
+  - slug: furaffinity
+    name: FurAffinity
     url: "http://www.furaffinity.net/user/biggestlittlefurcon"
-  - name: youtube
+  - slug: youtube
+    name: YouTube
     url: "https://www.youtube.com/c/BiggestlittlefurconOrg"
-  - name: googleplus
+  - slug: google-plus
+    name: Google Plus
     url: "https://plus.google.com/106338588646241282653/posts"
-  - name: telegram
+  - slug: telegram
+    name: Telegram
     url: "https://telegram.me/biggestlittlefc"
-  - name: instagram
+  - slug: instagram
+    name: Instagram
     url: "https://www.instagram.com/biggestlittlefurcon/"

@@ -16,7 +16,7 @@
 
 		<ul id="footer-social">
 			{% for item in site.data.social.items %}
-				<li><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
+				<li><a class="fa fa-{{ item.slug }}" href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
 			{% endfor %}
 		</ul>
 
