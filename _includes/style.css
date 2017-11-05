@@ -41,10 +41,10 @@ button,input,select,textarea {
 	max-width: 100%;
 }
 a, a:link, a:visited {
-	color: #38002D;
+	color: #75005C;
 }
 a:hover, a:focus, a:active {
-	color: #75005C;
+	color: #38002D;
 }
 hr {
 	-moz-box-sizing: content-box;
@@ -105,6 +105,9 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	padding: 0;
 	margin: 0;
 }
+ul#footer-social {
+	padding: 30px 0;
+}
 #footer li {
 	list-style: none;
 	line-height: 1em;
@@ -112,6 +115,13 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 #footer a {
 	color: inherit;
+	transition: color 0.5s ease-in-out 0s;
+}
+#footer a:hover {
+	color: #75005C;
+}
+#footer .fa::before {
+	font-size: 17px;
 }
 #footer-social li {
 	display: inline-block;
