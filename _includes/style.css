@@ -71,35 +71,34 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
-	background-color: #0B0306;
-	border-radius: 0 0 150% 150% / 40px;
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
-	box-shadow: -7px 0 5px rgba(0,0,0,0.75);
 	color: #fff;
-	position: relative;
-	z-index: 10;
+}
+#header a {
+	color: inherit;
 }
 #header-wrapper {
-	max-width: 320px;
-	margin: 0 auto;
+	padding: 10px 0;
+	background-color: #0B0306;
+	border-radius: 0 0 150% 150% / 40px;
+	box-shadow: -7px 0 5px rgba(0,0,0,0.75);
 	position: relative;
-	padding: 10px 50px 10px 0;
+	z-index: 10;
 }
 #site-title {
 	font-size: 20px;
 	padding: 0;
 	display: block;
 	text-transform: uppercase;
-	color: #fff;
 }
 #menu-toggle {
-	width: 34px;
+	width: 31px;
 	font-size: 10px;
 	text-transform: uppercase;
 	line-height: 1.5em;
 	position: absolute;
-	right: 0;
-	top: 10px;
+	right: 2%;
+	top: 7px;
 	transition: color 0.25s ease-in-out 0s;
 }
 #menu-toggle label {
@@ -111,6 +110,17 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 #menu-toggle i {
 	font-size: 27px;
+}
+#menu-main {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.9);
+	z-index: -1;
+	padding: 60px 35px 30px 100px;
+	text-align: right;
+	z-index: -1;
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #footer {
