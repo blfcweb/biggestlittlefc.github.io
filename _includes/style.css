@@ -2,20 +2,20 @@
 	font-family: 'Josefin Sans';
 	font-style: normal;
 	font-weight: 400;
-	src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url(/assets/theme/josefin-sans-400-latin.woff2) format('woff2');
+	src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url(/assets/fonts/josefin-sans-400-latin.woff2) format('woff2');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 @font-face {
 	font-family: 'Josefin Sans';
 	font-style: normal;
 	font-weight: 600;
-	src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url(/assets/theme/josefin-sans-600-latin.woff2) format('woff2');
+	src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url(/assets/fonts/josefin-sans-600-latin.woff2) format('woff2');
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 html {
 	background-color: #000;
 	color: #fff;
-	font: 14px / 1.75em 'Josefin Sans', sans-serif;
+	font: 400 14px / 1.75em 'Josefin Sans', sans-serif;
 }
 body {
 	background: #050002;
