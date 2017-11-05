@@ -46,6 +46,14 @@ a, a:link, a:visited {
 a:hover, a:focus, a:active {
 	color:#75005C;
 }
+hr {
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	height: 0;
+	color: #4F0B42;
+	border: none;
+	border-bottom: 1px solid;
+}
 button, a.button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 8px 15px;
 	display:inline-block;
