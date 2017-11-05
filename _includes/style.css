@@ -120,7 +120,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	z-index: -1;
 	padding: 60px 35px 30px 100px;
 	text-align: right;
-	z-index: -1;
+	overflow: auto;
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #footer {

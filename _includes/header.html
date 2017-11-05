@@ -24,7 +24,14 @@
 				{% endfor %}
 			</ul>
 		</div>
-  	{% endfor %}
+	{% endfor %}
+
+		<ul id="header-social">
+			{% for item in site.data.social.items %}
+				<li><a class="fa fa-{{ item.slug }}" href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
+			{% endfor %}
+		</ul>
+
 	</nav>
 
 </header>
