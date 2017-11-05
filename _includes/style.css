@@ -73,17 +73,45 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 #header {
 	background-color: #0B0306;
 	color: #fff;
-	text-shadow: -2px -1px 1px rgba( 0, 0, 0, 0.75 );
-	box-shadow: -7px 0 5px rgba( 0, 0, 0, 0.75 );
+	text-shadow: -2px -1px 1px rgba(0,0,0,0.75);
+	box-shadow: -7px 0 5px rgba(0,0,0,0.75);
+	border-radius: 0 0 150% 150% / 40px;
+	position: relative;
+	z-index: 10;
+}
+#header-wrapper {
+	max-width: 320px;
+	margin: 0 auto;
+	position: relative;
+	padding: 10px 50px 10px 0;
 }
 #site-title {
-	font-size: 22px;
-	padding: 10px 0;
+	font-size: 20px;
+	padding: 15px 0 0;
 	display: block;
 	text-transform: uppercase;
 	color: #fff;
 }
-
+#menu-toggle {
+	width: 34px;
+	font-size: 10px;
+	text-transform: uppercase;
+	line-height: 1.5em;
+	position: absolute;
+	right: 0;
+	top: 10px;
+	transition: color 0.25s ease-in-out 0s;
+}
+#menu-toggle label {
+	display: block;
+	cursor: pointer;
+}
+#menu-toggle:hover {
+	color: #75005C;	
+}
+#menu-toggle i {
+	font-size: 27px;
+}
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #footer {
 	color: #fff;
