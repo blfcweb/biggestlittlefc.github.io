@@ -14,17 +14,20 @@
 		</div>
 	</div>
 
-	<nav id="menu-main" style="display: none;">
-	{% for item in site.data.menu-footer.toc %}
-		<div class="menu-group">
-			<h3>{{ item.title }}</h3>
-			<ul>
-				{% for entry in item.subfolderitems %}
-				<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-				{% endfor %}
-			</ul>
+	<nav id="menu-main">
+
+		<div id="menu-wrapper">
+		{% for item in site.data.menu-footer.toc %}
+			<div class="menu-group">
+				<h3>{{ item.title }}</h3>
+				<ul>
+					{% for entry in item.subfolderitems %}
+					<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		{% endfor %}
 		</div>
-	{% endfor %}
 
 		<ul id="header-social">
 			{% for item in site.data.social.items %}
