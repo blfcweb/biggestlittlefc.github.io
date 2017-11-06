@@ -121,6 +121,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	top: 0;
 	right: 0;
 	bottom: 0;
+	height: 100%;
 	z-index: -1;
 	text-align: right;
 	overflow: auto;
