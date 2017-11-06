@@ -3,14 +3,14 @@
 
 		{% for item in site.data.menu-footer.toc %}
 			<div class="one_fourth">
-    			<h3>{{ item.title }}</h3>
+				<h3>{{ item.title }}</h3>
 				<ul>
 					{% for entry in item.subfolderitems %}
 					<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
 					{% endfor %}
 				</ul>
 			</div>
-  		{% endfor %}
+		{% endfor %}
 
 		<div class="clear"></div>
 
@@ -22,5 +22,9 @@
 
 		<div id="footer-copyright" role="contentinfo">© 2012 - 2018 Reno Area Anthropomorphic Arts and Recreations, a 501(c)7 not-for-profit. All rights reserved.</div>
 
-	  </div>
+	</div>
+
+	<script id="jQuery" src="/assets/js/jquery-3.2.1.min.js"></script>
+	<script id="BLFC-script" src="/assets/js/script.js"></script>
+
 </footer>
