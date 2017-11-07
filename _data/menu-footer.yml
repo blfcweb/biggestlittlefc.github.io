@@ -3,70 +3,71 @@ toc:
   - title: Attend
     subfolderitems:
       - page: Registration
-        url: "#"
+        url: "/register/"
       - page: Hotel
-        url: "#"
+        url: "/hotel/"
       - page: Travel Directions
-        url: "#"
+        url: "/travel/"
       - page: Restaurants
-        url: "#"
+        url: "/restaurants/"
       - page: Con Map
-        url: "#"
+        url: "/map/"
       - page: Policies
-        url: "#"
+        url: "/policies/"
   - title: Theme
     subfolderitems:
       - page: Theme
-        url: "#"
-      - page: Story
-        url: "#"
-      - page: Guidelines
-        url: "#"
-      - page: Con Book
-        url: "#"
+        url: "/theme/"
+#      - page: Story
+#        url: "/"
+#      - page: Guidelines
+#        url: "/"
+#      - page: Con Book
+#        url: "/"
       - page: Theme Credits
-        url: "#"
-      - page: Past Years
-        url: "#"
+        url: "/theme/credits/"
+#      - page: Past Years
+#        url: "/"
   - title: Events
     subfolderitems:
       - page: All events
-        url: "#"
+        url: "/events/"
       - page: Art Show
-        url: "#"
+        url: "/artshow/"
       - page: Bazaar
-        url: "#"
+        url: "/bazaar/"
       - page: Dance Comp.
-        url: "#"
+        url: "/events/dance-comp/"
       - page: Dance
-        url: "#"
+        url: "/events/dance/"
       - page: Dealers Den
-        url: "#"
+        url: "/dealers/"
       - page: Competitions
-        url: "#"
+        url: "/events/competitions/"
       - page: Fursuit Festival
-        url: "#"
+        url: "/events/fursuit-festivals/"
       - page: Fursuit Dance Auction
-        url: "#"
+        url: "/events/fursuit-charity-dance-auction/"
       - page: Meet ‘n Greets
-        url: "#"
+        url: "/events/meet-n-greets/"
       - page: Panels
-        url: "#"
+        url: "/events/panels/"
   - title: About
     subfolderitems:
       - page: About BLFC
-        url: "#"
+        url: "/about/"
       - page: Charity
-        url: "#"
+        url: "/charity/"
       - page: Con Store
-        url: "#"
+        url: "https://squareup.com/store/goblfc"
+        target: "_blank"
       - page: Volunteering
-        url: "#"
+        url: "/volunteer/"
       - page: Submit Art
-        url: "#"
+        url: "/volunteer/art/"
       - page: Host an Event
-        url: "#"
+        url: "/volunteer/host/"
       - page: Con book design
-        url: "#"
-      - page: Contact
-        url: "#"
+        url: "/volunteer/conbook/"
+#      - page: Contact
+#        url: "/"
