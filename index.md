@@ -1,11 +1,11 @@
 ---
-layout: default
 title: "Biggest Little Fur Con | Reno, NV"
+layout: fullwidth
 ---
 
 <div id="home-stage" class="big-chunk textcenter">
 
-<h1>BLFC <small>The Musical</small></h1>
+<h1>BLFC <br><small>The Musical</small></h1>
 
 <hr>
 
