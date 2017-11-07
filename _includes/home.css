@@ -1,0 +1,27 @@
+#home-stage {
+	height: 80vh;
+	border-bottom: 2px solid #262626;
+	border-radius: 0 0 70% 70% / 20px;
+}
+.home-title {
+    padding: 20vh 0 50px;
+    font-size: 90px;
+    line-height: 1em;
+    font-weight: 400;
+    margin: 0;
+}
+.home-announcement {
+	color: #D9B272;
+	text-transform: uppercase;
+	font-size: 50px;
+	font-weight: 400;
+	line-height: 1em;
+	margin: 8vh 0;
+}
+a.home-button {
+	color: #D9B272;
+	font-size: 20px;
+	line-height: 1em;
+	display: block;
+	text-transform: uppercase;
+}
