@@ -1,6 +1,7 @@
 ---
 title: "Biggest Little Fur Con | Reno, NV"
 layout: fullwidth
+page_class: home
 ---
 
 <div id="home-stage" class="big-chunk textcenter">
