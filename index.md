@@ -5,7 +5,9 @@ page_class: home
 ---
 
 <div id="home-stage" class="big-chunk textcenter">
-
+<div id="home-curtain-left"></div>
+<div id="home-curtain-right"></div>
+<div id="home-curtain-main"></div>
 <h1 class="home-title">BLFC <br><small>The Musical</small></h1>
 
 <hr>

@@ -1,3 +1,6 @@
+.home body {
+	min-height: 1730px;
+}
 .home #header {
 	position: fixed;
 	width: 100%;
@@ -16,6 +19,27 @@
 	min-height: 550px;
 	height: 78vh;
 }
+#home-curtain-left, #home-curtain-right {
+	content: '';
+	display: block;
+	position: fixed;
+	top: 90px;
+	background: url('/assets/theme/curtain_left.png') no-repeat scroll 0 0 / contain;
+	width: 35vh;
+	height: 70vh;
+	z-index: 20;
+}
+#home-curtain-right {
+	right: 0;
+	transform: scaleX(-1);
+}
+#home-curtain-main {
+	background: url(/assets/theme/curtain_main.png) no-repeat scroll 0 0 / contain;
+	height: 80vh;
+	position: relative;
+	width: 100%;
+	z-index: 11;
+}
 #home-stage {
 	border-bottom: 2px solid #262626;
 	border-radius: 0 0 70% 70% / 20px;
@@ -32,22 +56,7 @@
 	position: fixed;
 	z-index: 10;
 }
-#home-stage::before, #home-stage::after {
-	content: '';
-	display: block;
-	position: absolute;
-	top: 90px;
-	background: url('/assets/theme/curtain_left.png') no-repeat scroll 0 0 / contain;
-	width: 35vh;
-	height: 70vh;
-	z-index: 20;
-}
-#home-stage::after {
-	right: 0;
-	transform: scaleX(-1);
-}
-#home-stage::before {
-}
+
 .home-title {
 	padding: 20vh 0 50px;
 	font-size: 90px;
@@ -72,4 +81,10 @@ a.home-button {
 }
 .home #footer {
 	padding-top: 70px;
+	position: fixed;
+	width: 100%;
+	top: 77vh;
+}
+.home hr {
+	max-width: 50%;
 }
