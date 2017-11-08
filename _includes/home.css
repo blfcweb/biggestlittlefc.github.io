@@ -34,9 +34,9 @@
 	transform: scaleX(-1);
 }
 #home-curtain-main {
-	background: url(/assets/theme/curtain_main.png) no-repeat scroll 0 0 / contain;
+	background: url(/assets/theme/curtain_main.png) repeat-x scroll 0 0 / contain;
 	height: 80vh;
-	position: relative;
+	position: absolute;
 	width: 100%;
 	z-index: 11;
 }

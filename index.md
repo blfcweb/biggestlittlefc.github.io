@@ -3,11 +3,11 @@ title: "Biggest Little Fur Con | Reno, NV"
 layout: fullwidth
 page_class: home
 ---
-
-<div id="home-stage" class="big-chunk textcenter">
 <div id="home-curtain-left"></div>
 <div id="home-curtain-right"></div>
 <div id="home-curtain-main"></div>
+<div id="home-stage" class="big-chunk textcenter">
+
 <h1 class="home-title">BLFC <br><small>The Musical</small></h1>
 
 <hr>
