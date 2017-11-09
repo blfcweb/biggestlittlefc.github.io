@@ -138,11 +138,11 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	transform: translateX(100%);
 }
 #menu-toggle #menu-trigger:hover ~ #menu-main {
-	-webkit-transform: translateX(10%);
-	transform: translateX(10%);
+	-webkit-transform: translateX(90%);
+	transform: translateX(90%);
 }
-#menu-toggle #menu-trigger:checked ~ #menu-main {
-	-webkit-transform: translateX(100%);
+#menu-toggle #menu-trigger:checked ~ #menu-main, #menu-toggle #menu-main:hover {
+	-webkit-transform: translateX(0%);
 	transform: translateX(0%);
 }
 #menu-main h3 {
