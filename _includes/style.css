@@ -80,10 +80,10 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 #header a {
 	color: inherit;
 }
-#header a, #menu-toggle {
+#header a, #menu-toggle label {
 	transition: color 0.25s ease-in-out 0s;
 }
-#header a:hover, #menu-toggle:hover {
+#header a:hover, #menu-toggle label:hover {
 	color: #75005C;	
 }
 #header-wrapper {
@@ -111,7 +111,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	display: block;
 	cursor: pointer;
 }
-#menu-toggle i {
+#menu-toggle label i {
 	font-size: 27px;
 }
 #menu-main {
