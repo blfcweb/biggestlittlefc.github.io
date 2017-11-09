@@ -95,7 +95,6 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 #site-title {
 	font-size: 20px;
 	padding: 0;
-	display: block;
 	text-transform: uppercase;
 }
 #menu-toggle {
@@ -162,8 +161,14 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 #menu-main .menu-group {
 	padding-right: 30px;
 }
+#menu-main .menu-group ul {
+	margin: 0;
+}
 #menu-main .menu-group li {
-	display: none;
+	font-size: 0;
+	list-style: none;
+	height: 0;
+	line-height: 25px;
 }
 #header-social {
 	background-color: #38002D;
