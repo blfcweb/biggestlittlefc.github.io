@@ -137,9 +137,13 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	-webkit-transform: translateX(100%);
 	transform: translateX(100%);
 }
+#menu-toggle #menu-trigger:hover ~ #menu-main {
+	-webkit-transform: translateX(10%);
+	transform: translateX(10%);
+}
 #menu-toggle #menu-trigger:checked ~ #menu-main {
+	-webkit-transform: translateX(100%);
 	transform: translateX(0%);
-	transition: transform 0.6s, visibility 0s 0.6s;
 }
 #menu-main h3 {
 	font-size: 30px;
