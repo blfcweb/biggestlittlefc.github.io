@@ -163,12 +163,13 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 #menu-main .menu-group ul {
 	margin: 0;
+	padding: 20px 0;
 }
 #menu-main .menu-group li {
-	font-size: 0;
+	font-size: 16px;
 	list-style: none;
-	height: 0;
 	line-height: 25px;
+	text-transform: none;
 }
 #header-social {
 	background-color: #38002D;
