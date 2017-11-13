@@ -30,17 +30,20 @@ page_class: home
 			});
 		}
 
-		if ( wScroll > $('#home-curtain-end').offset().top / 2 ) {
-			$('#page-content').addClass()
+		$('#home-stage-content *').children().hide();
+		if ( wScroll > wHeight / 2 ) {
+			$('#home-stage-content').each(function(i){
+				$(this).children().delay(i*500).fadeIn(1000);
+			});
 		}
 
 		if ( wScroll > wHeight - 1 ) {
 			$('#page-content').addClass('home-scroll');
-			console.log('Dooooowwnn');
+			//console.log('Dooooowwnn');
 		}
 		if ( wScroll < wHeight + 1 ) {
 			$('#page-content').removeClass('home-scroll');
-			console.log('and uuup');
+			//console.log('and uuup');
 		}
 
 
