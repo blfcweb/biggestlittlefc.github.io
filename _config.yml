@@ -7,3 +7,5 @@ keywords: Furry, Anthropomorphic, Anthro, Convention, Gathering, Event, Con, Ani
 
 permalink: pretty
 theme: minima
+includes:
+- assets
