@@ -34,11 +34,11 @@ page_class: home
 			$('#page-content').addClass()
 		}
 
-		if ( wScroll > wHeight ) {
+		if ( wScroll > wHeight - 1 ) {
 			$('#page-content').addClass('home-scroll');
 			console.log('Dooooowwnn');
 		}
-		if ( wScroll < wHeight ) {
+		if ( wScroll < wHeight + 1 ) {
 			$('#page-content').removeClass('home-scroll');
 			console.log('and uuup');
 		}
@@ -47,3 +47,26 @@ page_class: home
 
 	});
 </script>
+
+
+<div id="home-content" class="textcenter">
+	<h2>Is this your first time to BLFC?</h2>
+	<p>BLFC is one of the top Furry Conventions around, getting worldwide attendance of more than 5k a year. We know it can be a bit overwhelming at first, so here is a quick how to.</p>
+	<ul>
+		<li>
+			<h3>Register</h3>
+			<p>First step is to get registered. Registration is available at con, but there are several benefits to registering early.</p>
+			<a class="button" href="https://reg.goblfc.org">Register Now</a>
+		</li>
+		<li>
+			<h3>Get a room</h3>
+			<p>BLFC takes place at the Grand Sierra Resort and has a good selection of rooms for the duration of your stay.</p>
+			<a class="button" href="/hotel/">Book a room</a>
+		</li>
+		<li>
+			<h3>Get here</h3>
+			<p>We are located in the lovely Reno, Nevada. You can get here from any direction one wide open roads.</p>
+			<a class="button" href="/travel/">Travel Directions</a>
+		</li>
+	</ul>
+</div>

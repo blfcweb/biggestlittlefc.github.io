@@ -86,20 +86,15 @@ a.home-button {
 	display: block;
 	text-transform: uppercase;
 }
-.home #footer {
-	padding-top: 70px;
-	position: fixed;
-	width: 100%;
-	top: 77vh;
-}
-.home hr {
-	max-width: 50%;
+
+#home-content {
+	margin-top: 100vh;
 }
 
 /* UNDO fixed position */ 
 #page-content.home-scroll #home-curtain-left,
 #page-content.home-scroll #home-curtain-right,
-#page-content.home-scroll #home-stage,
-#page-content.home-scroll #footer  {
+#page-content.home-scroll #home-stage {
 	position: relative;
+	margin-top:100vh;
 }
