@@ -76,10 +76,6 @@
 	padding: 150px 15vh 0;
 	height: 100%;
 }
-#home-stage-content * {
-	opacity: 0;
-	margin-left: -30px;
-}
 #home-stage-content img {
 	max-height: calc(100% - 50px);
 }
@@ -94,10 +90,6 @@ a.home-button {
 	padding-top: 200vh;
 	max-width: 900px;
 	margin: 0 auto;
-}
-#home-content * {
-	opacity: 0;
-	margin-left: -30px;
 }
 #home-content li {
 	padding: 30px;
