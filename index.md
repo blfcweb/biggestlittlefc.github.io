@@ -7,9 +7,10 @@ page_class: home
 <div id="home-curtain-right"></div>
 <div id="home-curtain-main"></div>
 <div id="home-curtain-end"></div>
+<div id="home-scroll-notice">{% include /assets/theme/graphic-scrollnotice.svg %}</div>
 <div id="home-stage" class="big-chunk textcenter">
 	<div id="home-stage-content">
-		<img src="/assets/theme/home-logo.png">
+		<img src="/assets/theme/home-logo.png" alt="BLFC the Musical | Coming May 2018">
 
 		<a class="home-button" href="https://reg.goblfc.org/" target="_blank">Join us &amp; register today</a>
 	</div>
