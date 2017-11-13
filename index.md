@@ -36,6 +36,11 @@ page_class: home
 				$(this).children().delay(i*500).fadeIn(1000);
 			});
 		}
+		if ( wScroll < wHeight / 2 ) {
+			$('#home-stage-content').each(function(i){
+				$(this).children().delay(i*500).fadeOut(1000);
+			});
+		}
 
 		if ( wScroll > wHeight - 1 ) {
 			$('#page-content').addClass('home-scroll');
