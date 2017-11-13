@@ -16,7 +16,7 @@
 	z-index: -5;
 }
 .home #page-content {
-	height: 100vh;
+	min-height: 100vh;
 }
 #home-curtain-left, #home-curtain-right {
 	content: '';
@@ -88,13 +88,13 @@ a.home-button {
 }
 
 #home-content {
-	margin-top: 100vh;
+	padding-top: 200vh;
 }
 
 /* UNDO fixed position */ 
 #page-content.home-scroll #home-curtain-left,
 #page-content.home-scroll #home-curtain-right,
 #page-content.home-scroll #home-stage {
-	position: relative;
+	position: absolute;
 	margin-top:100vh;
 }
