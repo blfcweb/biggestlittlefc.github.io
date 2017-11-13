@@ -86,11 +86,14 @@ a.home-button {
 	display: block;
 	text-transform: uppercase;
 }
-
 #home-content {
 	padding-top: 200vh;
+	max-width: 900px;
+	margin: 0 auto;
 }
-
+#home-content li {
+	padding: 30px;
+}
 /* UNDO fixed position */ 
 #page-content.home-scroll #home-curtain-left,
 #page-content.home-scroll #home-curtain-right,

@@ -52,7 +52,7 @@ page_class: home
 <div id="home-content" class="textcenter">
 	<h2>Is this your first time to BLFC?</h2>
 	<p>BLFC is one of the top Furry Conventions around, getting worldwide attendance of more than 5k a year. We know it can be a bit overwhelming at first, so here is a quick how to.</p>
-	<ul class="nobull">
+	<ol class="nobull">
 		<li class="one_third">
 			<h3>Register</h3>
 			<p>First step is to get registered. Registration is available at con, but there are several benefits to registering early.</p>
@@ -68,5 +68,6 @@ page_class: home
 			<p>We are located in the lovely Reno, Nevada. You can get here from any direction one wide open roads.</p>
 			<a class="button" href="/travel/">Travel Directions</a>
 		</li>
-	</ul>
+	</ol>
+	<div class="clear"></div>
 </div>
