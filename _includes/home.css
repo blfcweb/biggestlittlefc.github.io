@@ -39,7 +39,7 @@
 	transition: opacity 0.5s ease-in-out 0s;
 }
 #home-scroll-notice path {
-	fill: #4F0B42;
+	fill: #D9B272;
 	filter: drop-shadow(-2px 2px 1px #000);
 }
 #home-curtain-right {
