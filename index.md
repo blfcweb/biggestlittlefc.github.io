@@ -9,7 +9,7 @@ page_class: home
 
 <div id="home-scroll-notice">{% include graphic-scrollnotice.svg %}</div>
 <div id="home-stage" class="big-chunk textcenter">
-	<div id="home-stage-content" class="fade-content">
+	<div id="home-stage-content">
 		<img src="/assets/theme/home-logo.png" alt="BLFC the Musical | Coming May 2018">
 
 		<a class="home-button" href="https://reg.goblfc.org/" target="_blank">Join us &amp; register today</a>
@@ -17,42 +17,29 @@ page_class: home
 </div>
 
 <script>
-	$(window).scroll(function(){
+$(window).scroll(function(){
 
-		var wScroll = $(this).scrollTop();
-		var wHeight = $(window).height();
+	var wScroll = $(this).scrollTop();
+	var wHeight = $(window).height();
 
-
-		// scroll notice fade out
+	// scroll notice fade out
 		if ( wScroll > 10 ) {
 			$('#home-scroll-notice').css({
 				'opacity' : '0'
 			});
 		}
 
-		// after curtain raised, make elements scroll with page
-			if ( wScroll > wHeight - 1 ) {
-				$('#page-content').addClass('home-scroll');
-				//console.log('Dooooowwnn');
-			}
-			if ( wScroll < wHeight + 1 ) {
-				$('#page-content').removeClass('home-scroll');
-				//console.log('and uuup');
-			}
-
-		$('#home-stage-content').children().removeClass('fade-content');
-		if ( wScroll > wHeight / 3 ) {
-			$('#home-stage-content').addClass('fade-content');
+	// after curtain raised, make elements scroll with page
+		if ( wScroll > wHeight - 1 ) {
+			$('#page-content').addClass('home-scroll');
+			//console.log('Dooooowwnn');
 		}
-		if ( wScroll < wHeight / 3 ) {
-			$('#home-stage-content').removeClass('fade-content');
+		if ( wScroll < wHeight + 1 ) {
+			$('#page-content').removeClass('home-scroll');
+			//console.log('and uuup');
 		}
 
-
-
-
-
-	});
+});
 </script>
 
 
