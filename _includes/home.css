@@ -76,6 +76,15 @@
 	padding: 150px 15vh 0;
 	height: 100%;
 }
+#home-stage-content * {
+	opacity: 0;
+	margin-left: -30px;
+}
+.fade-content * {
+	transition: all 0.75s ease-in-out 0;
+	opacity: 1;
+	margin-left: 0;
+}
 #home-stage-content img {
 	max-height: calc(100% - 50px);
 }
