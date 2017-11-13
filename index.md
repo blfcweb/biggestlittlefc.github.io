@@ -23,16 +23,23 @@ page_class: home
 		var wHeight = $(window).height();
 
 		$('#home-curtain-main').css({
-			'transform' : 'translate(0, ' + wScroll / 0.5 + '%)'
+			'transform' : 'translate(0, -' + wScroll / 0.9 + '%)'
 		});
 
 		$('#home-stage-content').css({
-			'transform' : 'translate(0, ' + wScroll / 2 + '%)'
+			'transform' : 'translate(0, -' + wScroll / 4 + '%)'
 		});
+
+		if ( wScroll > 10 ) {
+			$('#home-scroll-notice').css({
+				'opacity' : '0';
+			});
+		}
 
 		if ( wScroll > $('#home-curtain-end').offset().top ) {
 			console.log("What's up, Doc?");
 		}
+
 
 	});
 </script>

@@ -29,6 +29,19 @@
 	z-index: 20;
 	max-width: 45vh;
 }
+#home-scroll-notice {
+	width: 160px;
+	position: absolute;
+	top: 85vh;
+	z-index: 100;
+	height: 100px;
+	right: 15vw;
+	transition: opacity 0.5s ease-in-out 0.5s;
+}
+#home-scroll-notice path {
+	fill: red;
+	filter: drop-shadow(-2px 2px 1px #000);
+}
 #home-curtain-right {
 	right: 0;
 	transform: scaleX(-1);
