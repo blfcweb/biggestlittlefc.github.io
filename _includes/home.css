@@ -23,10 +23,11 @@
 	display: block;
 	position: fixed;
 	top: 90px;
-	background: url('/assets/theme/curtain_left.png') no-repeat scroll 0 0 / 100% 100%;
-	width: 35vh;
+	background: url("/assets/theme/curtain_left.png") no-repeat scroll 0 0/100% 100%;
+	width: 35vw;
 	height: 90vh;
 	z-index: 20;
+	max-width: 45vh;
 }
 #home-curtain-right {
 	right: 0;
