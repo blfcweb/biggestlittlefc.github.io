@@ -33,7 +33,7 @@
 	transform: scaleX(-1);
 }
 #home-curtain-main {
-	background: url('/assets/theme/curtain_main.png') repeat-x scroll 0 0 / contain;
+	background: url("/assets/theme/curtain_main.png") repeat-x scroll 0 0 / auto 100%;
 	height: 100vh;
 	position: absolute;
 	width: 100%;
@@ -54,21 +54,12 @@
 	position: fixed;
 	z-index: 10;
 }
-
-.home-title {
-	padding: 20vh 0 50px;
-	font-size: 90px;
-	line-height: 1em;
-	font-weight: 400;
-	margin: 0;
+#home-stage-content {
+	padding: 150px 15vh 0;
+	height: 100%;
 }
-.home-announcement {
-	color: #D9B272;
-	text-transform: uppercase;
-	font-size: 50px;
-	font-weight: 400;
-	line-height: 1em;
-	margin: 8vh 0;
+#home-stage-content img {
+	max-height: calc(100% - 50px);
 }
 a.home-button {
 	color: #D9B272;
