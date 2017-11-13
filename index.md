@@ -5,8 +5,8 @@ page_class: home
 ---
 <div id="home-curtain-left"></div>
 <div id="home-curtain-right"></div>
-<div id="home-curtain-main"></div>
-<div id="home-curtain-end"></div>
+<div id="home-curtain-main"><div id="home-curtain-end"></div></div>
+
 <div id="home-scroll-notice">{% include graphic-scrollnotice.svg %}</div>
 <div id="home-stage" class="big-chunk textcenter">
 	<div id="home-stage-content">
@@ -22,13 +22,7 @@ page_class: home
 		var wScroll = $(this).scrollTop();
 		var wHeight = $(window).height();
 
-		$('#home-curtain-main').css({
-			'transform' : 'translate(0, -' + wScroll / 0.9 + '%)'
-		});
 
-		$('#home-stage-content').css({
-			'transform' : 'translate(0, -' + wScroll / 4 + '%)'
-		});
 
 		if ( wScroll > 10 ) {
 			$('#home-scroll-notice').css({
@@ -36,9 +30,17 @@ page_class: home
 			});
 		}
 
-		if ( wScroll > $('#home-curtain-end').offset().top ) {
-			console.log("What's up, Doc?");
+		if ( wScroll > $('#home-curtain-end').offset().top / 2 ) {
+			$('#page-content').addClass()
 		}
+
+		if ( wScroll > $('#home-curtain-end').offset().top  ) {
+			$('#page-content').addClass('home-scroll');
+		}
+		if ( wScroll < $('#home-curtain-end').offset().top  ) {
+			$('#page-content').removeClass('home-scroll');
+		}
+
 
 
 	});
