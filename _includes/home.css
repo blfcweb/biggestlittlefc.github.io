@@ -1,5 +1,5 @@
 .home body {
-	min-height: 1730px;
+	min-height: 200vh;
 }
 .home #header {
 	position: fixed;
@@ -16,17 +16,16 @@
 	z-index: -5;
 }
 .home #page-content {
-	min-height: 550px;
-	height: 78vh;
+	height: 100vh;
 }
 #home-curtain-left, #home-curtain-right {
 	content: '';
 	display: block;
 	position: fixed;
 	top: 90px;
-	background: url('/assets/theme/curtain_left.png') no-repeat scroll 0 0 / contain;
+	background: url('/assets/theme/curtain_left.png') no-repeat scroll 0 0 / 100% 100%;
 	width: 35vh;
-	height: 70vh;
+	height: 90vh;
 	z-index: 20;
 }
 #home-curtain-right {
@@ -34,8 +33,8 @@
 	transform: scaleX(-1);
 }
 #home-curtain-main {
-	background: url(/assets/theme/curtain_main.png) repeat-x scroll 0 0 / contain;
-	height: 80vh;
+	background: url('/assets/theme/curtain_main.png') repeat-x scroll 0 0 / contain;
+	height: 100vh;
 	position: absolute;
 	width: 100%;
 	z-index: 11;
@@ -50,8 +49,7 @@
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#050002', endColorstr='#1d0323',GradientType=0 );
 	margin-bottom: -13px;
 	position: relative;
-	height: 80vh;
-	min-height: 550px;
+	height: 97vh;
 	width: 100%;
 	position: fixed;
 	z-index: 10;
