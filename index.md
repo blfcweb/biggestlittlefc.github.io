@@ -30,7 +30,7 @@ page_class: home
 			});
 		}
 
-		$('#home-stage-content *').children().hide();
+		$('#home-stage-content').children().hide();
 		if ( wScroll > wHeight / 2 ) {
 			$('#home-stage-content').each(function(i){
 				$(this).children().delay(i*500).fadeIn(1000);
