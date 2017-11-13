@@ -32,7 +32,7 @@ page_class: home
 
 		if ( wScroll > 10 ) {
 			$('#home-scroll-notice').css({
-				'opacity' : '0';
+				'opacity' : '0'
 			});
 		}
 
