@@ -34,11 +34,13 @@ page_class: home
 			$('#page-content').addClass()
 		}
 
-		if ( wScroll > $('#home-curtain-end').offset().top  ) {
+		if ( wScroll > wHeight ) {
 			$('#page-content').addClass('home-scroll');
+			console.log('Dooooowwnn');
 		}
-		if ( wScroll < $('#home-curtain-end').offset().top  ) {
+		if ( wScroll < wHeight ) {
 			$('#page-content').removeClass('home-scroll');
+			console.log('and uuup');
 		}
 
 
