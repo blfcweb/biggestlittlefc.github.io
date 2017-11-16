@@ -1,114 +1,92 @@
 ---
 title: Registration
 ---
-<div id="reg-atcon" class="one_full"><h2><span>Registration</span></h2><div class="page-wrapper"><p>If you registered before May 15th, bring your photo ID to pre-reg. If you can't remember, <a href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">click "Did I pre-register?"</a> to find out.<br>
-Otherwise:</p>
-<ol>
-<li><strong>Before getting in line,</strong> <a class="button" href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">Log in to registration</a> using your smartphone or one of our kiosks to create an account and complete the registration process. If you have an account from a prior year, please re-use it.</li>
-<li>Please pay online with a credit card if you can; it makes the lines go faster. We also accept cash.</li>
-<li>Enter the line labeled "at-con registration" and get your badge from the cashier.</li>
-</ol>
-<p><small>Boring legal stuff:</small></p><small>
-<ul>
-<li>No part of your registration is tax-deductible, not even Patron memberships.</li>
-<li>BLFC reserves the right to revoke your registration (generally only if you violate the code of conduct).</li>
-<li>By registering, you also agree to be responsible for bids you make in the art show, charity auction, and bachelor auction.</li>
-</ul>
-</small><p><small></small></p>
-<div class="clear"></div></div></div>
+If you registered before May 15th, bring your photo ID to pre-reg. If you can't remember, <a href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">click "Did I pre-register?"</a> to find out. Otherwise:
 
-<div id="reg-hours" class="one_full textcenter"><h2><span>Hours &amp; Location</span></h2><div class="page-wrapper"><p>If you arrive after these hours, you can register at Con Ops, which is the window to the left of the Grand Ballroom.</p>
-<div class="one_fourth">
-<h3><span>Thursday<br>
-3PM-12AM</span></h3>
-<div class="skivdiv-content">
-<p>At-con: Nevada Room<br>Pre-reg: Nevada Room</p>
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Friday<br>
-10AM-11PM</span></h3>
-<div class="skivdiv-content">
-<p>At-con: Window across from Nevada Foyer<br>Pre-reg: Window to the left of Grand Ballroom</p>
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Saturday<br>
-10AM-8PM</span></h3>
-<div class="skivdiv-content">
-<p>At-con: Window across from Nevada Foyer<br>Pre-reg: Window to the left of Grand Ballroom</p>
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Sunday<br>
-11AM-2PM</span></h3>
-<div class="skivdiv-content">
-<p>At-con &amp; Pre-reg: Window to the left of Grand Ballroom</p>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear"></div></div></div>
+   1. <strong>Before getting in line,</strong> <a class="button" href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">Log in to registration</a> using your smartphone or one of our kiosks to create an account and complete the registration process. If you have an account from a prior year, please re-use it.
+   2. Please pay online with a credit card if you can; it makes the lines go faster. We also accept cash.
+   3. Enter the line labeled "at-con registration" and get your badge from the cashier.
 
-<!--[one_full id="reg-atconbadges" title="At-Con badges" class="textcenter"]-->
-<div id="reg-atconbadges" class="one_full textcenter"><h2><span>At-Con Pricing</span></h2><div class="page-wrapper"><p>We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a weekend badge for a reduced price.<br>
-<strong>Patron and Sponsor badges are not offered at-con.</strong></p>
-<div class="one_fourth">
-<h3><span>Thursday-Sunday<br>
-$60</span></h3>
-<div class="skivdiv-content">
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Friday-Sunday<br>
-$60</span></h3>
-<div class="skivdiv-content">
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Saturday-Sunday<br>
-$45</span></h3>
-<div class="skivdiv-content">
-<div class="clear"></div>
-</div>
-</div>
-<div class="one_fourth">
-<h3><span>Sunday<br>
-$25</span></h3>
-<div class="skivdiv-content">
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear"></div></div></div>
+<small>Boring legal stuff:</small>
+<small>
 
-<div id="reg-PreReg" class="one_full hide"><h2><span>Pre-Registration</span></h2><div class="page-wrapper"><p class="textcenter"><a class="button aligncenter" href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">Pre-register today!</a></p>
-<p>Important: Patron and Sponsor are only available until May 5th. <strong>No upgrades at-con</strong>.</p>
-<p>Why pre-register?</p>
-<ul>
-<li>SWAG! <strong>(Patron and Sponsor will not be available after May 5th).</strong></li>
-<li>SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and <strong>not sold separately.</strong></li>
-<li>Choose your badge art (instead of getting random art)</li>
-<li>Simpler, faster process at-con</li>
-</ul>
-<p><strong>Important:</strong> Patron and Sponsor are <strong>not available after May 5th</strong>. Swag and other Patron/Sponsor benefits are available during pre-reg <strong>ONLY</strong>.</p>
-<p>Make sure your pre-registration info matches your photo ID; you must use your photo ID to claim your pre-registration. Make sure you pick your favorite badge art before May 5th.</p>
-<div class="clear"></div></div></div>
+	- No part of your registration is tax-deductible, not even Patron memberships.
+	- BLFC reserves the right to revoke your registration (generally only if you violate the code of conduct).
+	- By registering, you also agree to be responsible for bids you make in the art show, charity auction, and bachelor auction.
 
-<div id="swag" class="one_full hide"><h2><span>Swag!</span></h2><div class="page-wrapper"><p>This year, Sponsors get a full-print t-shirt (seen to the right), with print all the way around, front and back!<br>
-Patrons also get a "shard containment device" (a backpack cooler), useful for every con you go to!<br>
-If you want these swag items, <strong>you must upgrade by May 5th.</strong> No upgrades at-con.</p>
-<p></p><center><a target="_blank" href="https://reg.goblfc.org/img/swag/Patron1.jpg"><img src="https://reg.goblfc.org/img/swag/Patron1.jpg" width="30%"></a><a target="_blank" href="https://reg.goblfc.org/img/swag/Sponsor1.jpg"><img src="https://reg.goblfc.org/img/swag/Sponsor1.jpg" width="60%"></a></center><p></p>
-<div class="clear"></div></div></div>
 
-<div id="reg-Levels" class="one_full hide"><h2><span>Membership Levels</span></h2><div class="page-wrapper">
+<hr>
 
-<div class="one_third pricing-column"><div class="skivdiv-content">
-<h3>Patron <small>Not available after May 5th.</small></h3>
-<div class="pricing-price">$150 <!--<small>$150 after March 19th.</small>--></div>
+## Hours &amp; Location
+
+If you arrive after these hours, you can register at Con Ops, which is the window to the left of the Grand Ballroom.
+
+### Thursday 3PM-12AM
+
+At-con: Nevada Room
+Pre-reg: Nevada Room
+
+### Friday 10AM-11PM
+
+At-con: Window across from Nevada Foyer
+Pre-reg: Window to the left of Grand Ballroom
+
+### Saturday 10AM-8PM
+At-con: Window across from Nevada Foyer
+Pre-reg: Window to the left of Grand Ballroom
+
+### Sunday 11AM-2PM
+
+At-con &amp; Pre-reg: Window to the left of Grand Ballroom
+
+<hr>
+
+## At-Con Pricing
+
+We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a weekend badge for a reduced price.
+
+**Patron and Sponsor badges are not offered at-con.**
+
+
+### Thursday-Sunday - $60
+
+### Friday-Sunday - $60
+
+### Saturday-Sunday - $45
+
+### Sunday - $25
+
+
+
+## Pre-Registration
+
+<a class="button aligncenter" href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">Pre-register today!</a>
+
+Important: Patron and Sponsor are only available until May 5th. <strong>No upgrades at-con</strong>.
+
+### Why pre-register?
+
+	- SWAG! <strong>(Patron and Sponsor will not be available after May 5th).</strong>
+	- SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and <strong>not sold separately.</strong>
+	- Choose your badge art (instead of getting random art)
+	- Simpler, faster process at-con
+
+<strong>Important:</strong> Patron and Sponsor are <strong>not available after May 5th</strong>. Swag and other Patron/Sponsor benefits are available during pre-reg <strong>ONLY</strong>.
+
+Make sure your pre-registration info matches your photo ID; you must use your photo ID to claim your pre-registration. Make sure you pick your favorite badge art before May 5th.
+
+## Swag!
+
+This year, Sponsors get a full-print t-shirt (seen to the right), with print all the way around, front and back!
+Patrons also get a "shard containment device" (a backpack cooler), useful for every con you go to!
+If you want these swag items, <strong>you must upgrade by May 5th.</strong> No upgrades at-con.
+
+<a target="_blank" href="https://reg.goblfc.org/img/swag/Patron1.jpg"><img src="https://reg.goblfc.org/img/swag/Patron1.jpg" width="30%"></a><a target="_blank" href="https://reg.goblfc.org/img/swag/Sponsor1.jpg"><img src="https://reg.goblfc.org/img/swag/Sponsor1.jpg" width="60%"></a>
+
+## Membership Levels
+
+### Patron <small>Not available after May 5th.</small> - $150 
+
 <a class="pricing-button" href="https://reg.goblfc.org">Register Today</a>
 <ul>
  	<li><img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small></li>
