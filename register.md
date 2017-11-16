@@ -48,13 +48,13 @@ We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a w
 **Patron and Sponsor badges are not offered at-con.**
 
 
-### Thursday-Sunday - $60
+### Thursday-Sunday - ${{ site.prices.attendee }}
 
-### Friday-Sunday - $60
+### Friday-Sunday - ${{ site.prices.attendee }}
 
-### Saturday-Sunday - $45
+### Saturday-Sunday - ${{ site.prices.saturday }}
 
-### Sunday - $25
+### Sunday - ${{ site.prices.sunday }}
 
 
 
@@ -85,7 +85,7 @@ If you want these swag items, <strong>you must upgrade by May 5th.</strong> No u
 
 ## Membership Levels
 
-### Patron <small>Not available after May 5th.</small> - $150 
+### Patron <small>Not available after May 5th.</small> - ${{ site.prices.patron }}
 
 <a class="pricing-button" href="https://reg.goblfc.org">Register Today</a>
 <ul>
@@ -106,7 +106,7 @@ If you want these swag items, <strong>you must upgrade by May 5th.</strong> No u
 <div class="clear"></div></div></div>
 <div class="one_third pricing-column"><div class="skivdiv-content">
 <h3>Sponsor <small>Not available after May 5th.</small></h3>
-<div class="pricing-price">$110 <!--<small>$110 after March 19th.</small>--></div>
+<div class="pricing-price">${{ site.prices.sponsor }}</div>
 <a class="pricing-button" href="https://reg.goblfc.org">Register Today</a>
 <ul>
  	<li><img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small></li>
@@ -126,7 +126,7 @@ If you want these swag items, <strong>you must upgrade by May 5th.</strong> No u
 
 <div class="one_third last pricing-column"><div class="skivdiv-content">
 <h3>Attendee <small>The only option at-con.</small></h3>
-<div class="pricing-price">$60 <!--<small>$60 after March 19th.</small>--></div>
+<div class="pricing-price">${{ site.prices.prereg-attendee }} <!--<small>${{ site.prices.attendee }} after March 19th.</small>--></div>
 <a class="pricing-button" href="https://reg.goblfc.org">Register Today</a>
 <ul>
  	<li><img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small></li>
