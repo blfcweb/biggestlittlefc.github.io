@@ -174,6 +174,7 @@ Click the titles below to expand.
 - BLFC reserves the right to revoke your registration (generally only if you violate the code of conduct).
 - By registering, you also agree to be responsible for bids you make in the art show, charity auction, and bachelor auction.
 
+<div class="accordion-list">
 
 Under 18 Years Old?
 : **16 - 17 years old**
@@ -191,85 +192,48 @@ Under 18 Years Old?
 
 
 
-<div class="chunk-accordion">
-<h3 class="accordion-title">Can I still pay online?</h3>
-<div class="accordion-content">
+Can I still pay online?
+: **Please do!** [Log in to registration][reglink] and complete a registration for this year, and then enter the "at-con registration" line when you arrive.
 
-**Please do!** [Log in to registration][reglink] and complete a registration for this year, and then enter the "at-con registration" line when you arrive.
+  Each person who pays online makes the registration line go a little bit faster.
 
-Each person who pays online makes the registration line go a little bit faster.
 
-</div>
-</div>
+Can I pick badge art at-con?
+:  **You cannot pick at-con**; you must choose in the pre-registration system.
+  You can change your choice until April 30th, so always pick your current favorite from the available choices.
 
-<div class="chunk-accordion">
-<h3 class="accordion-title">Can I pick badge art at-con?</h3>
-<div class="accordion-content">
 
-**You cannot pick at-con**; you must choose in the pre-registration system.
-You can change your choice until April 30th, so always pick your current favorite from the available choices.
+How can I confirm I'm registered?
+: Paid registrations are sent a confirmation email, but your spam filter may have eaten it. To check manually, [click "Did I pre-register?"][reglink] to find out.
 
-</div>
-</div>
 
-<div class="chunk-accordion">
-<h3 class="accordion-title">How can I confirm I'm registered?</h3>
-<div class="accordion-content">
+Will there be one-day registration?
+: There are no one-day badges. Instead, the weekend badge price is reduced on Saturday and Sunday.
 
-Paid registrations are sent a confirmation email, but your spam filter may have eaten it. To check manually, [click "Did I pre-register?"][reglink] to find out.
 
-</div>
-</div>
+What is acceptable ID?
+: Any government-issued photo I.D. ( Driver's License, State I.D., or Passport ).
 
-<div class="chunk-accordion">
-<h3 class="accordion-title">Will there be one-day registration?</h3>
-<div class="accordion-content">
 
-There are no one-day badges. Instead, the weekend badge price is reduced on Saturday and Sunday.
+Can I get a refund?
+: Until March 5th. See "if I can't make it" below.
 
-</div>
-</div>
 
-<div class="chunk-accordion">
-<h3 class="accordion-title">What is acceptable ID?</h3>
-<div class="accordion-content">
 
-Any government-issued photo I.D. ( Driver's License, State I.D., or Passport ).
+
+What if I can't make it?
+: If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten *instead* of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
+
+
+
+Upgrading?
+:
+  You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
+  <!--
+  The upgrade window has passed. Only Attendee registrations are now available.
+  -->
 
 </div>
-</div>
-
-<div class="chunk-accordion">
-<h3 class="accordion-title">Can I get a refund?</h3>
-<div class="accordion-content">
-
-Until March 5th. See "if I can't make it" below.
-
-</div>
-</div>
-
-<div class="chunk-accordion">
-<h3 class="accordion-title">What if I can't make it?</h3>
-<div class="accordion-content">
-
-If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten *instead* of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
-
-</div>
-</div>
-
-<div class="chunk-accordion">
-<h3 class="accordion-title">Upgrading?</h3>
-<div class="accordion-content">
-
-<!--
-You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
--->
-
-The upgrade window has passed. Only Attendee registrations are now available.
-
-</div>
-</div>
-
 
 
 [reglink]: https://reg.goblfc.org/
