@@ -167,25 +167,25 @@ Click the titles below to expand.
 
 <div class="chunk-accordion">
 	<h3 class="accordion-title">Under 18 Years Old?</h3>
-	<div class="accordion-content">
-**16 - 17 years old**
+	<div class="accordion-content" markdown="1">
+		**16 - 17 years old**
 
-- A signed, notarized <a href="https://reg.goblfc.org/BLFCParentalConsentForm.pdf">parental consent form</a> is required. *Bring the original, not a copy.*
-- You must bring a photo ID.
-- You do not need to attend with a parent.
+		- A signed, notarized <a href="https://reg.goblfc.org/BLFCParentalConsentForm.pdf">parental consent form</a> is required. *Bring the original, not a copy.*
+		- You must bring a photo ID.
+		- You do not need to attend with a parent.
 
 
-**15 and under**
+		**15 and under**
 
-- You must attend with a parent, and they must stay with you at all times.
-- The parent must buy a badge.
-- All badges are free for children 15 and under, with a paid parent badge.
+		- You must attend with a parent, and they must stay with you at all times.
+		- The parent must buy a badge.
+		- All badges are free for children 15 and under, with a paid parent badge.
 	</div>
 </div>
 
 <div class="chunk-accordion">
 	<h3 class="accordion-title">Can I still pay online?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		*Please do!* [Log in to registration][reglink] and complete a registration for this year, and then enter the "at-con registration" line when you arrive.
 
@@ -194,9 +194,9 @@ Click the titles below to expand.
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">Can I pick badge art at-con?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		*You cannot pick at-con*; you must choose in the pre-registration system.
 		You can change your choice until April 30th, so always pick your current favorite from the available choices.
@@ -204,54 +204,54 @@ Click the titles below to expand.
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">How can I confirm I'm registered?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		Paid registrations are sent a confirmation email, but your spam filter may have eaten it. To check manually, [click "Did I pre-register?"][reglink] to find out.
 
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">Will there be one-day registration?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		There are no one-day badges. Instead, the weekend badge price is reduced on Saturday and Sunday.
 
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">What is acceptable ID?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		Any government-issued photo I.D. ( Driver's License, State I.D., or Passport ).
 
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">Can I get a refund?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		Until March 5th. See "if I can't make it" below.
 
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">What if I can't make it?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten <em>instead</em> of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
 
 	</div>
 </div>
 
-<div class="chunk-accordion">
+<div class="chunk-accordion" markdown="1">
 	<h3 class="accordion-title">Upgrading?</h3>
-	<div class="accordion-content">
+	<div class="accordion-content" markdown="1">
 
 		{::comment}
 		You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
