@@ -187,8 +187,10 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 #header-social li {
 	display: inline-block;
-	padding: 10px;
 	font-size: 0px;
+}
+#header-social a {
+	padding: 10px;
 }
 #header-social .fa::before {
 	font-size: 17px;
@@ -241,8 +243,10 @@ ul#footer-social {
 }
 #footer-social li {
 	display: inline-block;
-	padding: 10px;
 	font-size: 0px;
+}
+#footer-social a {
+	padding: 10px;
 }
 #footer-copyright {
 	font-size: 10px;
