@@ -179,7 +179,7 @@ Click the titles below to expand.
 Under 18 Years Old?
 : **16 - 17 years old**
 
-  - A signed, notarized <a href="https://reg.goblfc.org/BLFCParentalConsentForm.pdf">parental consent form</a> is required. *Bring the original, not a copy.*
+  - A signed, notarized <a href="https://reg.goblfc.org/BLFCParentalConsentForm.pdf" target="_blank">parental consent form</a> is required. *Bring the original, not a copy.*
   - You must bring a photo ID.
   - You do not need to attend with a parent.
 
