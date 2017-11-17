@@ -6,14 +6,14 @@ title: Registration
 
 <a class="button" href="https://reg.goblfc.org/" target="_blank" rel="noopener noreferrer">Pre-register today!</a>
 
-Important: Patron and Sponsor are only available until [pre-reg cutoff]. <strong>No upgrades at-con</strong>.
+Important: Patron and Sponsor are only available until [pre-reg cutoff]. *No upgrades at-con*.
 
 ### Why pre-register?
 
-	- SWAG! *(Patron and Sponsor will not be available after [pre-reg cutoff]).*</strong>
-	- SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and <strong>not sold separately.</strong>
-	- Choose your badge art (instead of getting random art)
-	- Simpler, faster process at-con
+- SWAG! *(Patron and Sponsor will not be available after [pre-reg cutoff]).*
+- SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and *not sold separately.*
+- Choose your badge art (instead of getting random art)
+- Simpler, faster process at-con
 
 *Important:* Patron and Sponsor are **not available after [pre-reg cutoff]**. Swag and other Patron/Sponsor benefits are available during pre-reg *ONLY*.
 
@@ -29,51 +29,80 @@ This year's SWAG is still being determined.
 
 #### Patron <small>Not available after [pre-reg cutoff].</small>
 
-	{{ site.prices.patron }}
+{{ site.prices.patron }}
 
- 	- <img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Chip.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg02-00BBFF.png">Collectible Poker Chip<small>One every year, collect them all!</small></a>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_gokarts-00BBFF.png">Free go-karts <small>Just show your badge and drive for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_minigolf-00BBFF.png">Free mini-golf <small>Just show your badge and play for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_bowling-00BBFF.png">Free bowling <small>Just show your badge and play for free! (Certain hours only)</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_star-00BBFF.png">Discounted Food Den<small>Half off food sold in the con space only</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_star-00BBFF.png">Exclusivity <small>Patron/sponsor swag not sold separately for one year</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Sponsor1.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg_shirt-00BBFF.png">T-shirt <small>Full-print this year!</small></a>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_credits-00BBFF.png">Name in Credits <small>In our digital con book</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_10_chance-00BBFF.png">10% chance <small>for a free attendance next year</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_gift1-00BBFF.png">Art book <small>Of this year's story</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Patron1.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg_gift2-00BBFF.png">Shard Containment Device <small>(A backpack cooler)</small></a>
+- Attendance
+	<small>Enjoy the convention and events hosted for you!</small>
+- Collectible Poker Chip
+	<small>One every year, collect them all!</small>
+- Free go-karts
+	<small>Just show your badge and drive for free!</small>
+- Free mini-golf
+	<small>Just show your badge and play for free!</small>
+- >Free bowling
+	<small>Just show your badge and play for free! (Certain hours only)</small>
+- Discounted Food Den
+	<small>Half off food sold in the con space only</small>
+- Exclusivity
+	<small>Patron/sponsor swag not sold separately for one year</small>
+- T-shirt
+	<small>Full-print this year!</small>
+- Name in Credits
+	<small>In our digital con book</small>
+- 10% chance
+	<small>for a free attendance next year</small>
+- Art book
+	<small>Of this year's story</small>
+- Shard Containment Device
+	<small>(A backpack cooler)</small>
 
 
 
 ### Sponsor <small>Not available after [pre-reg cutoff].</small>
 
-	{{ site.prices.sponsor }}
+{{ site.prices.sponsor }}
 
- 	- <img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Chip.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg02-00BBFF.png">Collectible Poker Chip <small>One every year, collect them all!</small></a>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_gokarts-00BBFF.png">Free go-karts <small>Just show your badge and drive for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_minigolf-00BBFF.png">Free mini-golf <small>Just show your badge and play for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_bowling-00BBFF.png">Free bowling <small>Just show your badge and play for free! (Certain hours only)</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_star-00BBFF.png">Discounted Food Den<small>Half off food sold in the con space only</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_star-00BBFF.png">Exclusivity <small>Patron/sponsor swag not sold separately for one year</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Sponsor1.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg_shirt-00BBFF.png">T-shirt <small>Full-print this year!</small></a>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_credits-00BBFF.png">Name in Credits <small>In our digital con book</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_5_chance-00BBFF.png">5% chance <small>for a free attendance next year</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_gift1-00BBFF.png">Art book <small>Of this year's story</small>
+- Attendance
+	<small>Enjoy the convention and events hosted for you!</small>
+- Collectible Poker Chip
+	<small>One every year, collect them all!</small>
+- Free go-karts
+	<small>Just show your badge and drive for free!</small>
+- Free mini-golf
+	<small>Just show your badge and play for free!</small>
+- Free bowling
+	<small>Just show your badge and play for free! (Certain hours only)</small>
+- Discounted Food Den
+	<small>Half off food sold in the con space only</small>
+- Exclusivity
+	<small>Patron/sponsor swag not sold separately for one year</small>
+- T-shirt
+	<small>Full-print this year!</small>
+- Name in Credits
+	<small>In our digital con book</small>
+- 5% chance
+	<small>for a free attendance next year</small>
+- Art book
+	<small>Of this year's story</small>
 
 
 
 ### Attendee <small>The only option at-con.</small>
 
-	{{ site.prices.prereg-attendee }}
+{{ site.prices.prereg-attendee }}
 
- 	- <img class="aligncenter" src="/wp-content/uploads/reg01-00BBFF.png">Attendance <small>Enjoy the convention and events hosted for you!</small>
- 	- <a href="https://reg.goblfc.org/img/swag/Chip.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/reg02-00BBFF.png">Collectible Poker Chip <small>One every year, collect them all!</small></a>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_gokarts-00BBFF.png">Free go-karts <small>Just show your badge and drive for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_minigolf-00BBFF.png">Free mini-golf <small>Just show your badge and play for free!</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_bowling-00BBFF.png">Free bowling <small>Just show your badge and play for free! (Certain hours only)</small>
- 	- <img class="aligncenter" src="/wp-content/uploads/reg_star-00BBFF.png">Discounted Food Den<small>Half off food sold in the con space only</small>
+- Attendance
+	<small>Enjoy the convention and events hosted for you!</small>
+- Collectible Poker Chip
+	<small>One every year, collect them all!</small>
+- Free go-karts
+	<small>Just show your badge and drive for free!</small>
+- Free mini-golf
+	<small>Just show your badge and play for free!</small>
+- Free bowling
+	<small>Just show your badge and play for free! (Certain hours only)</small>
+- Discounted Food Den
+	<small>Half off food sold in the con space only</small>
 
 <div class="clear"></div>
 
@@ -124,10 +153,10 @@ We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a w
 
 **Patron and Sponsor badges are not offered at-con.**
 
-	- *Thursday-Sunday* - {{ site.prices.attendee }}
-	- *Friday-Sunday* - {{ site.prices.attendee }}
-	- *Saturday-Sunday* - {{ site.prices.saturday }}
-	- *Sunday* - {{ site.prices.sunday }}
+- *Thursday-Sunday* - {{ site.prices.attendee }}
+- *Friday-Sunday* - {{ site.prices.attendee }}
+- *Saturday-Sunday* - {{ site.prices.saturday }}
+- *Sunday* - {{ site.prices.sunday }}
 
 
 <hr>
@@ -144,9 +173,9 @@ Click the titles below to expand.
 
 ### Boring legal stuff:
 
-	- No part of your registration is tax-deductible, not even Patron memberships.
-	- BLFC reserves the right to revoke your registration (generally only if you violate the code of conduct).
-	- By registering, you also agree to be responsible for bids you make in the art show, charity auction, and bachelor auction.
+- No part of your registration is tax-deductible, not even Patron memberships.
+- BLFC reserves the right to revoke your registration (generally only if you violate the code of conduct).
+- By registering, you also agree to be responsible for bids you make in the art show, charity auction, and bachelor auction.
 
 <div class="chunk-accordion">
 	<h3 class="accordion-title">Under 18 Years Old?</h3>
