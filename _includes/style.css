@@ -69,13 +69,16 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	padding: 20px;
 	position: relative;
 }
-
+#page-content {
+	padding-top: 80px;
+}
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
-	position: relative;
-	z-index: 10;
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
 	color: #fff;
+	position: fixed;
+	width: 100%;
+	z-index: 50;
 }
 #header a {
 	color: inherit;
