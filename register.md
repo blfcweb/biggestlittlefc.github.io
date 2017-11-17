@@ -1,35 +1,44 @@
 ---
 title: Registration
+prices:
+  - patron: "$150"
+  - sponsor: "$110"
+  - prereg-attendee: "$60"
+  - attendee: "$60"
+  - saturday: "$45"
+  - sunday: "$25"
+
+preregend : "TBD"
 ---
 
 ## Pre-Registration
 
 [Pre-register today!][reglink]
 
-Important: Patron and Sponsor are only available until [pre-reg cutoff]. *No upgrades at-con*.
+Important: Patron and Sponsor are only available until {{ page.preregend }}. *No upgrades at-con*.
 
 ### Why pre-register?
 
-- SWAG! *(Patron and Sponsor will not be available after [pre-reg cutoff]).*
+- SWAG! *(Patron and Sponsor will not be available after {{ page.preregend }}).*
 - SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and *not sold separately.*
 - Choose your badge art (instead of getting random art)
 - Simpler, faster process at-con
 
-*Important:* Patron and Sponsor are **not available after [pre-reg cutoff]**. Swag and other Patron/Sponsor benefits are available during pre-reg *ONLY*.
+*Important:* Patron and Sponsor are **not available after {{ page.preregend }}**. Swag and other Patron/Sponsor benefits are available during pre-reg *ONLY*.
 
-Make sure your pre-registration info matches your photo ID; you must use your photo ID to claim your pre-registration. Make sure you pick your favorite badge art before [pre-reg cutoff].
+Make sure your pre-registration info matches your photo ID; you must use your photo ID to claim your pre-registration. Make sure you pick your favorite badge art before {{ page.preregend }}.
 
 ### SWAG!
 
-*SWAG is only available if you pre-reg before [pre-reg cutoff]. There are no upgrades at-con.*
+*SWAG is only available if you pre-reg before {{ page.preregend }}. There are no upgrades at-con.*
 
 This year's SWAG is still being determined.
 
 ### Pre-Reg Levels
 
-#### Patron <small>Not available after [pre-reg cutoff].</small>
+#### Patron <small>Not available after {{ page.preregend }}.</small>
 
-{{ site.prices.patron }}
+{{ page.prices.patron }}
 
 - Attendance
 	<small>Enjoy the convention and events hosted for you!</small>
@@ -58,9 +67,9 @@ This year's SWAG is still being determined.
 
 
 
-### Sponsor <small>Not available after [pre-reg cutoff].</small>
+### Sponsor <small>Not available after {{ page.preregend }}.</small>
 
-{{ site.prices.sponsor }}
+{{ page.prices.sponsor }}
 
 - Attendance
 	<small>Enjoy the convention and events hosted for you!</small>
@@ -89,7 +98,7 @@ This year's SWAG is still being determined.
 
 ### Attendee <small>The only option at-con.</small>
 
-{{ site.prices.prereg-attendee }}
+{{ page.prices.prereg-attendee }}
 
 - Attendance
 	<small>Enjoy the convention and events hosted for you!</small>
@@ -134,7 +143,6 @@ If you arrive after these hours, you can register at Con Ops, which is the windo
 
 ---- 
 
-{:#test}
 
 ## At-Con Pricing
 
@@ -142,11 +150,10 @@ We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a w
 
 **Patron and Sponsor badges are not offered at-con.**
 
-- *Thursday-Sunday* - {{ site.prices.attendee }}
-- *Friday-Sunday* - {{ site.prices.attendee }}
-- *Saturday-Sunday* - {{ site.prices.saturday }}
-- *Sunday* - {{ site.prices.sunday }}
-
+- *Thursday-Sunday* - {{ page.prices.attendee }}
+- *Friday-Sunday* - {{ page.prices.attendee }}
+- *Saturday-Sunday* - {{ page.prices.saturday }}
+- *Sunday* - {{ page.prices.sunday }}
 
 
 
@@ -246,7 +253,7 @@ Until March 5th. See "if I can't make it" below.
 <h3 class="accordion-title">What if I can't make it?</h3>
 <div class="accordion-content">
 
-If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten <em>instead</em> of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
+If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten *instead* of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
 
 </div>
 </div>
@@ -258,6 +265,7 @@ If your last registration payment was less than a year ago, you can have the pay
 {::comment}
 You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
 {:/}
+<!-- TEST -->
 The upgrade window has passed. Only Attendee registrations are now available.
 
 </div>
