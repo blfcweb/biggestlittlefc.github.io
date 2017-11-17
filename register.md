@@ -1,12 +1,12 @@
 ---
 title: Registration
 prices:
-  - patron: "$150"
-  - sponsor: "$110"
-  - prereg-attendee: "$60"
-  - attendee: "$60"
-  - saturday: "$45"
-  - sunday: "$25"
+  patron: "$150"
+  sponsor: "$110"
+  prereg-attendee: "$60"
+  attendee: "$60"
+  saturday: "$45"
+  sunday: "$25"
 
 preregend : "TBD"
 ---
@@ -262,10 +262,12 @@ If your last registration payment was less than a year ago, you can have the pay
 <h3 class="accordion-title">Upgrading?</h3>
 <div class="accordion-content">
 
-{::comment}
+<!--
 You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
-{:/}
-<!-- TEST -->
+-->
+<?
+test 2
+?>
 The upgrade window has passed. Only Attendee registrations are now available.
 
 </div>
