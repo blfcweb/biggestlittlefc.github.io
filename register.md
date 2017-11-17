@@ -227,7 +227,7 @@ What if I can't make it?
 
 
 Upgrading?
-:
+: 
   You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
   <!--
   The upgrade window has passed. Only Attendee registrations are now available.
