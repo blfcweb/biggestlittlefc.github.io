@@ -32,11 +32,11 @@ $(window).scroll(function(){
 
 	// after curtain raised, make elements scroll with page
 		if ( wScroll > wHeight - 1 ) {
-			$('body').addClass('home-scroll');
+			$('#page-content').addClass('home-scroll');
 			//console.log('Dooooowwnn');
 		}
 		if ( wScroll < wHeight + 1 ) {
-			$('body').removeClass('home-scroll');
+			$('#page-content').removeClass('home-scroll');
 			//console.log('and uuup');
 		}
 

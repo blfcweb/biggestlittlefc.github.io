@@ -48,6 +48,7 @@
 	position: absolute;
 	width: 100%;
 	z-index: 11;
+	top: 0;
 }
 #home-curtain-end {
 	position: absolute;
@@ -91,10 +92,10 @@ a.home-button {
 	padding: 30px;
 }
 /* Undo fixed position */ 
-.home-scroll #page-content #home-curtain-top,
-.home-scroll #page-content #home-curtain-left,
-.home-scroll #page-content #home-curtain-right,
-.home-scroll #page-content #home-stage {
+#page-content.home-scroll #home-curtain-top,
+#page-content.home-scroll #home-curtain-left,
+#page-content.home-scroll #home-curtain-right,
+#page-content.home-scroll #home-stage {
 	position: absolute;
 	margin-top:100vh;
 }
