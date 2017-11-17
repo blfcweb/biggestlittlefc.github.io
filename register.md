@@ -115,24 +115,26 @@ This year's SWAG is still being determined.
 
 If you arrive after these hours, you can register at Con Ops, which is the window to the left of the Grand Ballroom.
 
-- {:.one_fourth} *Thursday 3PM-12AM*
+- {:.one_fourth } *Thursday 3PM-12AM*
 	At-con: Nevada Room 
 	Pre-reg: Nevada Room
-- {:.one_fourth} *Friday 10AM-11PM*
+- {:.one_fourth } *Friday 10AM-11PM*
 	At-con: Window across from Nevada Foyer 
 	Pre-reg: Window to the left of Grand Ballroom
-- {:.one_fourth} *Saturday 10AM-8PM*
+- {:.one_fourth } *Saturday 10AM-8PM*
 	At-con: Window across from Nevada Foyer 
 	Pre-reg: Window to the left of Grand Ballroom
-- {:.one_fourth} *Sunday 11AM-2PM*
+- {:.one_fourth } *Sunday 11AM-2PM*
 	At-con &amp; Pre-reg: Window to the left of Grand Ballroom
 
+
+<div class="clear"></div>
 
 
 
 ---- 
 
-
+{:#test}
 
 ## At-Con Pricing
 
@@ -264,4 +266,4 @@ The upgrade window has passed. Only Attendee registrations are now available.
 
 
 [reglink]: https://reg.goblfc.org/
-{:target="_blank" rel="noopener noreferrer"}
+{:title="Register online today!" target="_blank" rel="noopener noreferrer"}
