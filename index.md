@@ -50,7 +50,7 @@ $(window).scroll(function(){
 	<ol class="nobull">
 		<li class="one_fourth">
 			<h3>1. Register</h3>
-			<p>First step is to get registered. Register <em>now</em> to receive SWAG or an upgraded account.</p>
+			<p>First step is to get registered online. Register <em>before the early fur deadline</em> to receive this year's SWAG.</p>
 			<a class="button" href="https://reg.goblfc.org" target="_blank">Register Now</a>
 		</li>
 		<li class="one_fourth">
