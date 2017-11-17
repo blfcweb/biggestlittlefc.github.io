@@ -4,12 +4,12 @@ event_location: Reno, Nevada
 
 
 prices:
-   - patron: 150
-   - sponsor: 110
-   - prereg-attendee: 60
-   - attendee: 60
-   - saturday: 45
-   - sunday: 25
+  - patron: "$150"
+  - sponsor: "$110"
+  - prereg-attendee: "$60"
+  - attendee: "$60"
+  - saturday: "$45"
+  - sunday: "$25"
 
 
 
