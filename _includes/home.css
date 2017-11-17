@@ -95,9 +95,10 @@ a.home-button {
 	padding: 30px;
 }
 /* Undo fixed position */ 
-#page-content.home-scroll #home-curtain-left,
-#page-content.home-scroll #home-curtain-right,
-#page-content.home-scroll #home-stage {
+.home-scroll #page-content #header::after,
+.home-scroll #page-content #home-curtain-left,
+.home-scroll #page-content #home-curtain-right,
+.home-scroll #page-content #home-stage {
 	position: absolute;
 	margin-top:100vh;
 }
