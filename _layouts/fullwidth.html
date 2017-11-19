@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="template-fullwidth{% if page.page_class %} {{page.page_class}}{% endif %}">
-  {% include head.html %}
-  <body>
-    {% include header.html %}
-    <main id="page-content" aria-label="Content">
-        {{ content }}
-    </main>
-    {% include footer.html %}
-  </body>
-</html>
+---
+layout: default
+---
+<h1 id="page-title">{{ page.title | escape }}</h1>
+{{ content }}
