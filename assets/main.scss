@@ -2,8 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-{% include func.css %}
 {% include font-awesome.min.css %}
+{% include func.css %}
 {% include style.css %}
 {% include home.css %}
 {% include responsive.css %}
