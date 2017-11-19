@@ -1,6 +1,9 @@
 .home body {
 	min-height: 200vh;
 }
+.home #page-title {
+	display: none;
+}
 .home #page-content {
 	min-height: 100vh;
 }
