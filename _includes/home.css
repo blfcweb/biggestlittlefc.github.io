@@ -1,5 +1,6 @@
 .home body {
 	min-height: 200vh;
+	background: none;
 }
 .home #page-title {
 	display: none;
