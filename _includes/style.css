@@ -28,6 +28,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	margin-top: 0;
+	line-height: 1em;
+	color:#ffb100;
+}
+h2 {
+	font-size: 35px;
 }
 ul, ol {
 	padding: 0 0 0 40px;
@@ -43,10 +48,10 @@ button,input,select,textarea {
 	max-width: 100%;
 }
 a, a:link, a:visited {
-	color: #75005C;
+	color: #0ba2d1;
 }
 a:hover, a:focus, a:active {
-	color: #38002D;
+	color: #066a92;
 }
 hr {
 	-moz-box-sizing: content-box;
@@ -60,20 +65,20 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	padding: 8px 15px;
 	display: inline-block;
 	color: #fff;
-	background-color: #38002D;
+	background-color: #066a92;
 }
 #page-title {
 	background: url("/assets/theme/bg-page-title.jpg") no-repeat scroll center center/cover;
 	text-align: center;
 	padding: 20vh 0;
 	font-size: 50px;
-	line-height: 1em;
 	text-shadow: -1px 2px 2px rgba(0,0,0,0.8);
 	border-radius: 0 0 70% 70% / 20px;
 	border-bottom: 2px solid #bababa;
 	box-shadow: 0 10px 5px rgba(0,0,0,.5);
 	margin: 0 0 -20px;
 	position: relative;
+	color: #fff;
 }
 .page-wrapper {
 	width: 98vw;
