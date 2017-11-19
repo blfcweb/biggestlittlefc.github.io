@@ -22,4 +22,9 @@ jQuery(document).ready(function($) {
 
 	});
 
+	$('.accordion-list dd').slideUp(0);
+	$('.accordion-list dt').click(function() {
+		$(this).nextAll('dd').slideToggle(400);
+	});
+
 });
