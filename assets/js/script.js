@@ -11,4 +11,30 @@ jQuery(document).ready(function($) {
 		}
 	});
 
+
+	$(window).scroll(function(){
+
+		var wScroll = $(this).scrollTop();
+		var wHeight = $(window).height();
+
+	// scroll notice fade out
+		if ( wScroll > 10 ) {
+			$('#home-scroll-notice').css({
+				'opacity' : '0'
+			});
+		}
+
+	// after curtain raised, make elements scroll with page
+		if ( wScroll > wHeight - 1 ) {
+			$('#page-content').addClass('home-scroll');
+			//console.log('Dooooowwnn');
+		}
+		if ( wScroll < wHeight + 1 ) {
+			$('#page-content').removeClass('home-scroll');
+			//console.log('and uuup');
+		}
+
+
+	});
+
 });
