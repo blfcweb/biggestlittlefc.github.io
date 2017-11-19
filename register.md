@@ -9,7 +9,10 @@ prices:
   sunday: "$TBD"
 
 preregend : "(Date TBD)"
+layout: fullwidth
 ---
+<div class="one-full bg-one">
+<div class="page-wrapper">
 
 ## Pre-Registration
 
@@ -115,10 +118,14 @@ This year's SWAG is still being determined.
 
 <div class="clear"></div>
 
+</div>
+</div>
 
 
-----
 
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## Hours &amp; Location
 
@@ -139,9 +146,13 @@ If you arrive after these hours, you can register at Con Ops, which is the windo
 
 <div class="clear"></div>
 
+</div>
+</div>
 
 
----- 
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
 
 
 ## At-Con Pricing
@@ -157,12 +168,15 @@ We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a w
 
 
 
+<div class="clear"></div>
+</div>
+</div>
 
 
-----
 
 
-
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## FAQ
 
@@ -234,6 +248,12 @@ Upgrading?
   -->
 
 </div>
+
+
+<div class="clear"></div>
+</div>
+</div>
+
 
 
 [reglink]: https://reg.goblfc.org/
