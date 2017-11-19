@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
 		var wScroll = $(this).scrollTop();
 
 		$('body').css({
-			'background-position-y' : '-' + (wScroll / 5) + 'px';
+			'background-position-y' : '-' + (wScroll / 5) + 'px'
 		});
 
 	});
