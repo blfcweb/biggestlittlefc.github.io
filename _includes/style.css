@@ -80,6 +80,9 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	padding: 20px;
 	position: relative;
 }
+.one-full .page-wrapper {
+	padding: 5vw 10vw;
+}
 #page-content {
 	padding-top: 40px;
 }
