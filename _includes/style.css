@@ -145,12 +145,12 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	float: right;
 	-webkit-transition: -webkit-transform 0.3s ease-in-out;
 	transition: -webkit-transform 0.3s ease-in-out;
-	transition: transform 0.3s ease-in-out;
-	transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
 }
 .accordion-list dt.accordion-open::after {
 	-webkit-transform: rotate(-225deg);
 	transform: rotate(-225deg);
+	text-shadow: 1px -1px 1px rgba(0,0,0,0.8);
 }
 .accordion-list dd {
 	margin: 0;
