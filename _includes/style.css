@@ -82,6 +82,26 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 #page-content {
 	padding-top: 80px;
 }
+.bg-one {
+	background: #09000f;
+	background: -moz-linear-gradient(top, #09000f 0%, #1b0029 100%);
+	background: -webkit-linear-gradient(top, #09000f 0%,#1b0029 100%);
+	background: linear-gradient(to bottom, #09000f 0%,#1b0029 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#09000f', endColorstr='#1b0029',GradientType=0 );
+}
+.bg-two {
+	background: #060107;
+}
+.bg-three {
+	background: #1b0029;
+}
+.bg-three {
+	background: #231a21;
+	background: -moz-linear-gradient(left, #231a21 0%, #000000 100%);
+	background: -webkit-linear-gradient(left, #231a21 0%,#000000 100%);
+	background: linear-gradient(to right, #231a21 0%,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#231a21', endColorstr='#000000',GradientType=1 );
+}
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
