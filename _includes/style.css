@@ -134,11 +134,29 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 .accordion-list dt {
 	font-size: 25px;
 	font-weight: 600;
-	padding: 10px 0;
+	padding: 10px 20px;
+	background-color: #413c42;
+	margin: 10px 0 0;
+	cursor: pointer;
+	text-shadow: -1px 1px 1px rgba(0,0,0,0.8);
+}
+.accordion-list dt::after {
+	content: '+';
+	float: right;
+	-webkit-transition: -webkit-transform 0.3s ease-in-out;
+	transition: -webkit-transform 0.3s ease-in-out;
+	transition: transform 0.3s ease-in-out;
+	transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+}
+.accordion-list dt.accordion-open::after {
+	-webkit-transform: rotate(-225deg);
+	transform: rotate(-225deg);
 }
 .accordion-list dd {
 	margin: 0;
 	padding: 10px 30px;
+	background: #101010;
+	text-shadow: -2px 1px 0 #000;
 }
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
