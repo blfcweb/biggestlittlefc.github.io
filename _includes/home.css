@@ -74,11 +74,11 @@
 	z-index: 10;
 }
 #home-stage-content {
-	padding: 150px 15vh 0;
+	padding: 10vh 15vh 0;
 	height: 100%;
 }
 #home-stage-content img {
-	max-height: calc(100% - 50px);
+	height: calc(60vh - 50px);
 }
 a.home-button {
 	color: #D9B272;
