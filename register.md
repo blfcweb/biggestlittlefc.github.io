@@ -1,14 +1,14 @@
 ---
 title: Registration
 prices:
-  patron: "$TBD"
-  sponsor: "$TBD"
-  prereg-attendee: "$TBD"
-  attendee: "$TBD"
-  saturday: "$TBD"
-  sunday: "$TBD"
+  patron: "$135"
+  sponsor: "$90"
+  prereg-attendee: "$50"
+  attendee: "$60"
+  saturday: "$45"
+  sunday: "$20"
 
-preregend : "(Date TBD)"
+preregend : "March 30th"
 layout: fullwidth
 ---
 <div class="one-full bg-one">
