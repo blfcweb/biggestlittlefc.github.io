@@ -3,5 +3,10 @@ layout: default
 ---
 <h1 id="page-title">{{ page.title | escape }}</h1>
 <div class="page-wrapper">
+
+{% if page.status == "LIVE" %}
+  <h2>This content is undergoing revision. Please come back later.</h2>
+{% else %}
   {{ content }}
+{% endif %}
 </div>
