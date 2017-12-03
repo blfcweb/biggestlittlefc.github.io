@@ -4,70 +4,71 @@ toc:
     subfolderitems:
       - page: Registration
         url: "/register/"
-      - page: Hotel
-        url: "/hotel/"
-      - page: Travel Directions
-        url: "/travel/"
-      - page: Restaurants
-        url: "/restaurants/"
-      - page: Con Map
-        url: "/map/"
-      - page: Policies
-        url: "/policies/"
+#      - page: Hotel
+#        url: "/hotel/"
+#      - page: Travel Directions
+#        url: "/travel/"
+#      - page: Restaurants
+#        url: "/restaurants/"
+#      - page: Con Map
+#        url: "/map/"
+#      - page: Policies
+#        url: "/policies/"
   - title: Theme
     subfolderitems:
       - page: Theme
         url: "/theme/"
-#      - page: Story
-#        url: "/"
-#      - page: Guidelines
-#        url: "/"
-#      - page: Con Book
-#        url: "/"
-      - page: Theme Credits
-        url: "/theme/credits/"
-#      - page: Past Years
-#        url: "/"
-  - title: Events
-    subfolderitems:
-      - page: All events
-        url: "/events/"
-      - page: Art Show
-        url: "/artshow/"
-      - page: Bazaar
-        url: "/bazaar/"
-      - page: Dance Comp.
-        url: "/events/dance-comp/"
-      - page: Dance
-        url: "/events/dance/"
-      - page: Dealers Den
-        url: "/dealers/"
-      - page: Competitions
-        url: "/events/competitions/"
-      - page: Fursuit Festival
-        url: "/events/fursuit-festivals/"
-      - page: Fursuit Dance Auction
-        url: "/events/fursuit-charity-dance-auction/"
-      - page: Meet ‘n Greets
-        url: "/events/meet-n-greets/"
-      - page: Panels
-        url: "/events/panels/"
-  - title: About
-    subfolderitems:
-      - page: About BLFC
-        url: "/about/"
-      - page: Charity
-        url: "/charity/"
-      - page: Con Store
-        url: "https://squareup.com/store/goblfc"
-        target: "_blank"
-      - page: Volunteering
-        url: "/volunteer/"
-      - page: Submit Art
-        url: "/volunteer/art/"
-      - page: Host an Event
-        url: "/volunteer/host/"
-      - page: Con book design
-        url: "/volunteer/conbook/"
-#      - page: Contact
-#        url: "/"
+##      - page: Story
+##        url: "/"
+##      - page: Guidelines
+##        url: "/"
+##      - page: Con Book
+##        url: "/"
+#      - page: Theme Credits
+#        url: "/theme/credits/"
+##      - page: Past Years
+##        url: "/"
+#  - title: Events
+#    subfolderitems:
+#      - page: All events
+#        url: "/events/"
+#      - page: Art Show
+#        url: "/artshow/"
+#      - page: Bazaar
+#        url: "/bazaar/"
+#      - page: Dance Comp.
+#        url: "/events/dance-comp/"
+#      - page: Dance
+#        url: "/events/dance/"
+#      - page: Dealers Den
+#        url: "/dealers/"
+#      - page: Competitions
+#        url: "/events/competitions/"
+#      - page: Fursuit Festival
+#        url: "/events/fursuit-festivals/"
+#      - page: Fursuit Dance Auction
+#        url: "/events/fursuit-charity-dance-auction/"
+#      - page: Meet ‘n Greets
+#        url: "/events/meet-n-greets/"
+#      - page: Panels
+#        url: "/events/panels/"
+#  - title: About
+#    subfolderitems:
+#      - page: About BLFC
+#        url: "/about/"
+#      - page: Charity
+#        url: "/charity/"
+#      - page: Con Store
+#        url: "https://squareup.com/store/goblfc"
+#        target: "_blank"
+#      - page: Volunteering
+#        url: "/volunteer/"
+#      - page: Submit Art
+#        url: "/volunteer/art/"
+#      - page: Host an Event
+#        url: "/volunteer/host/"
+#      - page: Con book design
+#        url: "/volunteer/conbook/"
+##      - page: Contact
+##        url: "/"
+#
