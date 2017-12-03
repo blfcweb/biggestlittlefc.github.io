@@ -1,5 +1,6 @@
 ---
 title: Registration
+status: LIVE
 prices:
   patron: "$135"
   sponsor: "$90"
