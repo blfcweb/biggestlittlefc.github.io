@@ -28,10 +28,10 @@ toc:
 #        url: "/theme/credits/"
 ##      - page: Past Years
 ##        url: "/"
-#  - title: Events
-#    subfolderitems:
-#      - page: All events
-#        url: "/events/"
+  - title: Events
+    subfolderitems:
+      - page: All events
+        url: "/events/"
 #      - page: Art Show
 #        url: "/artshow/"
 #      - page: Bazaar
@@ -52,15 +52,15 @@ toc:
 #        url: "/events/meet-n-greets/"
 #      - page: Panels
 #        url: "/events/panels/"
-#  - title: About
-#    subfolderitems:
-#      - page: About BLFC
-#        url: "/about/"
+  - title: About
+    subfolderitems:
+      - page: About BLFC
+        url: "/about/"
 #      - page: Charity
 #        url: "/charity/"
-#      - page: Con Store
-#        url: "https://squareup.com/store/goblfc"
-#        target: "_blank"
+      - page: Con Store
+        url: "https://squareup.com/store/goblfc"
+        target: "_blank"
 #      - page: Volunteering
 #        url: "/volunteer/"
 #      - page: Submit Art
