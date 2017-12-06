@@ -53,11 +53,17 @@ Remodeled in 2017.
 - 5 days: ${{ page.prices.premium5 }} per night, plus taxes and fees
 
 Prices shown are based on average per-night cost. Taxes and fees apply: Add $25/night resort fee, $2/night tourism fee, and 13% tax.
+
 Automated emails may mention a charge for 3rd and 4th roommates, but those are waived if you book in our block.
 
-<div class="chunk-accordion"><h3 class="accordion-title">DEBIT CARD USERS: please click here to read this</h3><div class="accordion-content" style="display: none;"><p>The hotel reserves an extra $50/night when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.<br>
-<em>Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.</em></p>
-</div></div>
+<div class="accordion-list">
+
+**Debit Card Users**\: please click here to read this
+: The hotel holds an extra $50/night from your card when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.
+
+Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.
+
+</div>
 
 <div class="clear"></div></div></div>
 <div id="hospitality" class="one_full"><h2><span>“Hospitality Floor”</span></h2><div class="page-wrapper">
