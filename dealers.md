@@ -47,7 +47,7 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 BLFC offers two types of vendor experiences:
 
 
-### Standard - {{ page.price.standard }}
+### Standard - ${{ page.price.standard }}
 
 - Badge NOT included <small>Must be purchased separately</small>
 - City of Reno Vendor Permit <small>One(1) included. Additional available (see below)</small>
@@ -56,7 +56,7 @@ BLFC offers two types of vendor experiences:
 
 [Apply Today][reglink]
 
-### Booth - {{ page.price.booth }}
+### Booth - ${{ page.price.booth }}
 
  - Badge NOT included <small>Must be purchased separately</small>
  - City of Reno Vendor Permit <small>One(1) included. Additional available (see below)</small>
@@ -78,7 +78,7 @@ BLFC offers two types of vendor experiences:
 
 - **Thursday** - {{ page.setup.thursday }}
 - **Friday** - {{ page.setup.friday }}
-- **Saturday** - {{ page.setup.satday }}
+- **Saturday** - {{ page.setup.saturday }}
 - **Sunday** - {{ page.setup.sunday }}
 
 
@@ -145,4 +145,4 @@ Pets and Animals
 </div>
 
 [reglink]: https://reg.goblfc.org/
-{:title="Sign up as a dealer!" target="_blank" rel="noopener noreferrer"}
+{:title="Sign up as a dealer!" target="_blank" rel="noopener noreferrer" class="button"}
