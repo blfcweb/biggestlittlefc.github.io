@@ -36,11 +36,9 @@ This page will update with the booking link on **{{ page.launchtime }}.**
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
 
-<div id="hotel-price" class="one_full"><h2><span>Existing Reservations</span></h2><div class="page-wrapper">
+## Room Types
 
-<p><a href="https://resweb.passkey.com/Resweb.do?mode=welcome_ei_new&amp;eventID=15651497" target="_blank" class="button aligncenter">Edit Existing Reservation</a></p>
-
-<p>Unlike previous years, rooms on our block now allow up to 4 people at no extra charge. You may get automated emails mentioning a charge for 3rd and 4th roommates, but the hotel tells us that fee is still waived if your reservation is in the convention block.</p>
+Unlike previous years, rooms on our block now allow up to 4 people at no extra charge. You may get automated emails mentioning a charge for 3rd and 4th roommates, but the hotel tells us that fee is still waived if your reservation is in the convention block.
 
 <p>Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily).</p>
 
@@ -64,7 +62,7 @@ This page will update with the booking link on **{{ page.launchtime }}.**
 <div class="one_third"><h3><span>5 days</span></h3><div class="skivdiv-content"><p>$155/night*</p>
 <div class="clear"></div></div></div>
 <div class="clear"></div></div></div>
-\*Prices are based on average per-night cost. Taxes and fees apply. Add $15/night resort fee, $2/night tourism fee, and 13% tax.
+\*Prices are based on average per-night cost. Taxes and fees apply. Add $25/night resort fee, $2/night tourism fee, and 13% tax.
 
 <div class="chunk-accordion"><h3 class="accordion-title">DEBIT CARD USERS: please click here to read this</h3><div class="accordion-content" style="display: none;"><p>The hotel reserves an extra $50/night when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.<br>
 <em>Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.</em></p>
