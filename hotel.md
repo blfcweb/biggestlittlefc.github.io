@@ -5,7 +5,7 @@ description: Book your room for BLFC at our host hotel, the Grand Sierra Resort.
 #hotellink: "https://aws.passkey.com/event/49463635/owner/16854/home"
 hotellink: "https://goo.gl/tbuJFk"
 #hotelbookcode: "RAARF8"
-#hotelphone: "1-800-648-5080"
+hotelphone: "1-800-648-5080"
 prices:
   Premium5: 157
   Premium4: 164
@@ -24,21 +24,17 @@ launchtime: "December 21st at 11am Pacific Standard Time"
 
 ## Book A Room
 
-[Book A Room][hotellink]
-
 This page will update with the booking link on **{{ page.launchtime }}.**
+<!--uncomment this line at 11am
+<a title="Book a Room" target="_blank" rel="noopener noreferrer" href="https://goo.gl/tbuJFk">Book A Room</a>
+-->
 
-<div id="hotel-book" class="one_full textcenter"><h2><span>Book A Room</span></h2><div class="page-wrapper"><p><a href="https://rooms.grandsierraresort.com/" target="_blank" class="button aligncenter">Book a regular-rate room</a></p>
-<ul class="textleft">
-<li>Price is dependent on current rates. All of our reserved fixed-price rooms sold out on August 20th.</li>
-<li>To book by phone, call 800-648-5080 and use booking code {{ page.hotelbookcode }}.</li>
-<li class="hidden"><em>Tip: During the initial booking rush, book your room for just yourself, and after the booking is complete and you have a confirmation, go back and edit it to add roommates and requests.</em></li>
-<li><strong>Credit or debit card must have an expiration date AFTER the con.</strong></li>
-<li class="hidden">If you&nbsp;book&nbsp;a "Grand ROH" (Run Of House) room, type "Two beds" in the requests section if you require two beds.</li>
-<li>Remember that you will be charged a <strong>deposit</strong> for the first night when you book, which is <strong>refunded</strong> if you cancel the room later.</li>
-</ul>
-<div class="clear"></div></div></div>
-
+- **Tip: during the initial booking rush, book your room for just yourself, and after confirmation, edit it to add roommates.**
+- You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
+- Your credit/debit card must have an expiration date AFTER the con.
+- To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
+- To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
+- If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
 
 <div id="hotel-price" class="one_full"><h2><span>Existing Reservations</span></h2><div class="page-wrapper">
 
