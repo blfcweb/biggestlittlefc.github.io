@@ -24,7 +24,7 @@ launchtime: "December 21st at 11am Pacific Standard Time"
 
 ## Book A Room
 
-[Book A Room][hotellink]
+[Book A Room][page.hotellink]
 
 This page will update with the booking link on **{{ page.launchtime }}.**
 
