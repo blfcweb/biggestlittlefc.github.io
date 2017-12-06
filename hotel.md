@@ -26,7 +26,7 @@ This page will update with the booking link on {{ page.launchtime }}.
 <div id="hotel-book" class="one_full textcenter"><h2><span>Book A Room</span></h2><div class="page-wrapper"><p><a href="https://rooms.grandsierraresort.com/" target="_blank" class="button aligncenter">Book a regular-rate room</a></p>
 <ul class="textleft">
 <li>Price is dependent on current rates. All of our reserved fixed-price rooms sold out on August 20th.</li>
-<li>To book by phone, call 800-648-5080 and use booking code RAARF.</li>
+<li>To book by phone, call 800-648-5080 and use booking code {{ page.hotelbookcode }}.</li>
 <li class="hidden"><em>Tip: During the initial booking rush, book your room for just yourself, and after the booking is complete and you have a confirmation, go back and edit it to add roommates and requests.</em></li>
 <li><strong>Credit or debit card must have an expiration date AFTER the con.</strong></li>
 <li class="hidden">If you&nbsp;book&nbsp;a "Grand ROH" (Run Of House) room, type "Two beds" in the requests section if you require two beds.</li>
