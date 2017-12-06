@@ -52,14 +52,14 @@ $('#page-content').removeClass('home-scroll');
 <p>We know it can be a bit overwhelming at first, so here is a quick how-to.</p>
 <ol class="nobull">
 <li class="one_fourth">
-<h3>1. Register</h3>
-<p>First step is to get registered online. Register <em>before the early fur deadline</em> to receive this year's SWAG.</p>
-<a class="button" href="https://reg.goblfc.org" target="_blank">Register Now</a>
-</li>
-<li class="one_fourth">
-<h3>2. Get a room</h3>
+<h3>1. Get a room</h3>
 <p>BLFC takes place at the Grand Sierra Resort and has a good selection of rooms for the duration of your stay.</p>
 <a class="button" href="/hotel/">Book a room</a>
+</li>
+<li class="one_fourth">
+<h3>2. Register</h3>
+<p>First step is to get registered online. Register <em>before the early fur deadline</em> to receive this year's SWAG.</p>
+<a class="button" href="https://reg.goblfc.org" target="_blank">Register Now</a>
 </li>
 <li class="one_fourth">
 <h3>3. Get here</h3>
