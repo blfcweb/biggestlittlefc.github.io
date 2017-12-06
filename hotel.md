@@ -24,7 +24,7 @@ launchtime: "December 21st at 11am Pacific Standard Time"
 
 ## Book A Room
 
-This page will update with the booking link on **{{ page.launchtime }}.**
+This page will update with the booking link on **{{ page.launchtime }}.** The link will appear in this spot.
 <!--uncomment this line at 11am
 <a title="Book a Room" target="_blank" rel="noopener noreferrer" href="https://goo.gl/tbuJFk">Book A Room</a>
 -->
@@ -39,30 +39,21 @@ This page will update with the booking link on **{{ page.launchtime }}.**
 ## Room Types
 
 Unlike previous years, rooms on our block now allow up to 4 people at no extra charge. You may get automated emails mentioning a charge for 3rd and 4th roommates, but the hotel tells us that fee is still waived if your reservation is in the convention block.
+Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily). Thanks to the 2017 remodel, almost all rooms now have a microwave and refrigerator.
 
-<p>Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily).</p>
+### The Summit at Grand Sierra
+Rooms on higher floors. Remodeled in 2013.
+- 3 days: ${{ page.prices.basic3 }} per night, plus taxes and fees
+- 4 days: ${{ page.prices.basic4 }} per night, plus taxes and fees
+- 5 days: ${{ page.prices.basic5 }} per night, plus taxes and fees
 
-<div class="one_half hotel-room-type" style="background-image:url(/wp-content/uploads/hotel_gsr_hotel.jpg)"><div class="skivdiv-content">
-<h4>Grand Rooms</h4>
-<p>Comfortable and spacious rooms, renovated in 2013.</p>
-<div class="one_third"><h3><span>3 days</span></h3><div class="skivdiv-content"><p>$153/night*</p>
-<div class="clear"></div></div></div>
-<div class="one_third"><h3><span>4 days</span></h3><div class="skivdiv-content"><p>$141/night*</p>
-<div class="clear"></div></div></div>
-<div class="one_third"><h3><span>5 days</span></h3><div class="skivdiv-content"><p>$135/night*</p>
-<div class="clear"></div></div></div>
-<div class="clear"></div></div></div>
-<div class="one_half hotel-room-type" style="background-image:url(/wp-content/uploads/hotel_summit_grand.jpg)"><div class="skivdiv-content">
-<h4>Summit Rooms</h4>
-<p>Junior suites, on higher floors, with upgraded furnishings, microwave, and refrigerator.</p>
-<div class="one_third"><h3><span>3 days</span></h3><div class="skivdiv-content"><p>$173/night*</p>
-<div class="clear"></div></div></div>
-<div class="one_third"><h3><span>4 days</span></h3><div class="skivdiv-content"><p>$161/night*</p>
-<div class="clear"></div></div></div>
-<div class="one_third"><h3><span>5 days</span></h3><div class="skivdiv-content"><p>$155/night*</p>
-<div class="clear"></div></div></div>
-<div class="clear"></div></div></div>
-\*Prices are based on average per-night cost. Taxes and fees apply. Add $25/night resort fee, $2/night tourism fee, and 13% tax.
+### The A Hotel
+Remodeled in 2017.
+- 3 days: ${{ page.prices.premium3 }} per night, plus taxes and fees
+- 4 days: ${{ page.prices.premium4 }} per night, plus taxes and fees
+- 5 days: ${{ page.prices.premium5 }} per night, plus taxes and fees
+
+*Prices shown are based on average per-night cost. Taxes and fees apply: Add $25/night resort fee, $2/night tourism fee, and 13% tax.
 
 <div class="chunk-accordion"><h3 class="accordion-title">DEBIT CARD USERS: please click here to read this</h3><div class="accordion-content" style="display: none;"><p>The hotel reserves an extra $50/night when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.<br>
 <em>Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.</em></p>
