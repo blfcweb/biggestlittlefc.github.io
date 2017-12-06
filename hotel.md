@@ -1,16 +1,19 @@
 ---
 title: Hotel
-status: In Progress
+status: LIVE
 description: Book your room for BLFC at our host hotel, the Grand Sierra Resort. 
-#hotellink: https://aws.passkey.com/event/49463635/owner/16854/home
-#hotelbookcode: RAARF8
-#hotelphone: 1-800-648-5080
-price5NightPremium: 157
-price4NightPremium: 164
-price3NightPremium: 176
-price5NightBasic: 137
-price4NightBasic: 144
-price3NightBasic: 156
+#hotellink: "https://aws.passkey.com/event/49463635/owner/16854/home"
+#hotelbookcode: "RAARF8"
+#hotelphone: "1-800-648-5080"
+prices:
+  Premium5: 157
+  Premium4: 164
+  Premium3: 176
+  Basic5: 137
+  Basic4: 144
+  Basic3: 156
+  
+launchtime: "December 21st at 11am Pacific Standard Time"
 ---
 <div class="page-wrapper"><div id="hotel-thehotel" class="fullwidth textcenter chunk-imgbg" style="margin:0;background-image:url(/wp-content/uploads/hotel_bap.jpg);"><div class="skivdiv-content"><p><a href="http://www.grandsierraresort.com/" target="_blank"><img class="aligncenter" src="https://www.goblfc.org/wp-content/uploads/grand-sierra-resort-logo-512x150.png" alt="grand-sierra-resort-logo"></a></p>
 <h3>2500 East 2nd Street, Reno, NV 89595</h3>
@@ -18,6 +21,8 @@ price3NightBasic: 156
 <p><a href="https://www.google.com/maps/place/2500+E+2nd+St/@39.5231615,-119.7797565,17z/data=!3m1!4b1!4m2!3m1!1s0x80993f5b7a9a2d7d:0x801e4538bfd9d6ed" target="_blank"><img src="/wp-content/uploads/maps_google.png" alt="Google Maps" width="50" height="50"></a> <a href="bingmaps:///?vcp=39.52341~-119.778689&amp;vlvl=18&amp;bb=-119.783984~-119.773393_39.525684~39.521136&amp;sty=r&amp;trfc=0&amp;q=2500 East&amp;where=&amp;nc=&amp;sbb=-119.783984~-119.773393_39.525684~39.521136" target="_blank"><img src="/wp-content/uploads/maps_windows.png" alt="Windows 8 Maps" width="50" height="50"></a> <a href="http://www.bing.com/maps/?v=2&amp;cp=39.522690~-119.779091&amp;lvl=16&amp;sty=r&amp;q=2500%20E%202nd%20St%2C%20Reno%2C%20Nevada%2C%20United%20States&amp;form=LMLTCC" target="_blank"><img src="/wp-content/uploads/maps_bing.jpg" alt="Bing Maps" width="50" height="50"></a> <a href="https://maps.yahoo.com/businesses/?lat=39.526901200975125&amp;lon=-119.7805666923523&amp;bb=39.531435987760496%2C-119.79090929031372%2C39.52238266995704%2C-119.77022409439087&amp;n=2500%20E%202nd%20St%2C%20Reno%2C%20NV%2089502&amp;bid=29883366&amp;b=Grand%20Sierra%20Resort%20and%20Casino" target="_blank"><img src="/wp-content/uploads/maps_yahoo.jpg" alt="Yahoo Maps" width="50" height="50"></a></p>
 <div class="clear"></div></div></div>
 
+## Book A Room
+This page will update with the booking link on {{ page.launchtime }}.
 <div id="hotel-book" class="one_full textcenter"><h2><span>Book A Room</span></h2><div class="page-wrapper"><p><a href="https://rooms.grandsierraresort.com/" target="_blank" class="button aligncenter">Book a regular-rate room</a></p>
 <ul class="textleft">
 <li>Price is dependent on current rates. All of our reserved fixed-price rooms sold out on August 20th.</li>
