@@ -7,12 +7,12 @@ hotellink: "https://goo.gl/tbuJFk"
 #hotelbookcode: "RAARF8"
 hotelphone: "1-800-648-5080"
 prices:
-  Premium5: 157
-  Premium4: 164
-  Premium3: 176
-  Basic5: 137
-  Basic4: 144
-  Basic3: 156
+  premium5: 157
+  premium4: 164
+  premium3: 176
+  basic5: 137
+  basic4: 144
+  basic3: 156
   
 launchtime: "December 21st at 11am Pacific Standard Time"
 ---
@@ -38,7 +38,6 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 
 ## Room Types
 
-Unlike previous years, rooms on our block now allow up to 4 people at no extra charge. You may get automated emails mentioning a charge for 3rd and 4th roommates, but the hotel tells us that fee is still waived if your reservation is in the convention block.
 Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily). Thanks to the 2017 remodel, almost all rooms now have a microwave and refrigerator.
 
 ### The Summit at Grand Sierra
@@ -53,7 +52,8 @@ Remodeled in 2017.
 - 4 days: ${{ page.prices.premium4 }} per night, plus taxes and fees
 - 5 days: ${{ page.prices.premium5 }} per night, plus taxes and fees
 
-*Prices shown are based on average per-night cost. Taxes and fees apply: Add $25/night resort fee, $2/night tourism fee, and 13% tax.
+Prices shown are based on average per-night cost. Taxes and fees apply: Add $25/night resort fee, $2/night tourism fee, and 13% tax.
+Automated emails may mention a charge for 3rd and 4th roommates, but those are waived if you book in our block.
 
 <div class="chunk-accordion"><h3 class="accordion-title">DEBIT CARD USERS: please click here to read this</h3><div class="accordion-content" style="display: none;"><p>The hotel reserves an extra $50/night when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.<br>
 <em>Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.</em></p>
