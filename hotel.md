@@ -24,7 +24,7 @@ launchtime: "December 21st at 11am Pacific Standard Time"
 
 ## Book A Room
 
-[Book A Room][page.hotellink]
+[Book A Room][hotellink]
 
 This page will update with the booking link on **{{ page.launchtime }}.**
 
@@ -134,3 +134,6 @@ Or, you can park in the front entrance, and leave it up to the valet parking and
 </div></div>
 
 <div class="clear"></div></div></div></div>
+
+[hotellink]: https://goo.gl/tbuJFk
+{:title="Book a Room" target="_blank" rel="noopener noreferrer"}
