@@ -60,8 +60,7 @@ Automated emails may mention a charge for 3rd and 4th roommates, but those are w
 
 **Debit Card Users**\: please click here to read this
 : The hotel holds an extra $50/night from your card when you check in. If you check in using a debit card, this will reduce your available balance. It may take as many as 10 days after checkout to be returned to your account; your bank controls that, not the hotel.
-
-Tip: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.
+Tip\: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.
 
 </div>
 
