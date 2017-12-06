@@ -23,8 +23,11 @@ launchtime: "December 21st at 11am Pacific Standard Time"
 <div class="clear"></div></div></div>
 
 ## Book A Room
+
 [Book A Room][hotellink]
-This page will update with the booking link on {{ page.launchtime }}.
+
+This page will update with the booking link on **{{ page.launchtime }}.**
+
 <div id="hotel-book" class="one_full textcenter"><h2><span>Book A Room</span></h2><div class="page-wrapper"><p><a href="https://rooms.grandsierraresort.com/" target="_blank" class="button aligncenter">Book a regular-rate room</a></p>
 <ul class="textleft">
 <li>Price is dependent on current rates. All of our reserved fixed-price rooms sold out on August 20th.</li>
