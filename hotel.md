@@ -35,7 +35,7 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 
 This page will update with the booking link on **{{ page.launchtime }}.** The link will appear in this spot.
 
-<iframe src="https://google.com"></iframe>
+<iframe src="https://goblfc.org/wp-content/hotellink.php"></iframe>
 
 <!--uncomment this line at 11am
 <a title="Book a Room" target="_blank" rel="noopener noreferrer" href="https://goo.gl/tbuJFk">Book A Room</a>
