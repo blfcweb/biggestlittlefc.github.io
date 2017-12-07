@@ -1,6 +1,7 @@
 ---
 title: Help with the Conbook
 deadline: "TBD"
+status: LIVE
 ---
 ## Theme and Deadline
 

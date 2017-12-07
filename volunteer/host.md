@@ -1,5 +1,6 @@
 ---
 title: Host an Event
+status: LIVE
 ---
 Help us help you entertain our others.
 
