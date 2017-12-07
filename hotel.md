@@ -100,6 +100,7 @@ There are limitations to keep in mind:
 - Quiet it down a bit more after midnight.
 - If hotel security or FLARE tells you to tone it down, do so immediately.
 - Seriously, don't start a howl. Yelling and screaming is the quickest way to noise complaints. Save that racket for inside convention hangout space.
+- There will be a person checking for con badges at the entry to the floor from 7pm to 3am. **Everybody in your room must have a con badge.**
 
 By gathering together the conversation noise in one place, we reduce how many noise complaints are created, and the hotel likes that. But if you go overboard, you can still get your room gatherings, and perhaps the entire floor, shut down. **KEEP. IT. REASONABLE.**
 
