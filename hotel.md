@@ -47,6 +47,7 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 - To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
+- If you happen to be a smoker, and you're willing to be right above the Hospitality Floor, please request a smoking room when you make your reservation, if you're able. It helps us have less non-con guests on that floor.
 
 ## Room Types
 
@@ -84,13 +85,14 @@ Automated emails may mention a charge for 3rd and 4th roommates, but those are w
 
 We've arranged a floor for people who want to hold private gatherings in their sleeping rooms. On this floor, everyone promises to tolerate noise and not issue noise complaints against each other.
 
+- Don't call the hotel to ask for the hospitality floor. They don't have a special block set aside for it, we're just assigning the rooms ourselves.
 - Book a regular reservation for now. We will convert reservations over to the Hospitality Floor at a later time.
 - By asking for this, you promise to us and all your floor-mates that you can sleep through the noise, and you won't call in with noise complaints.
 
 There are limitations to keep in mind:
 
-- The floor above the hospitality floor is expected to be the only smoking floor in the hotel, so there will be some regular hotel guests above your heads. This will probably not be an issue next year, but it is this year.
-- Because of the proximity to the smoking floor, subwoofers are not allowed at all. 
+- The floor right above the hospitality floor is expected to be the only smoking floor in the hotel, so there will be some regular hotel guests above your heads. This will probably not be an issue next year, but it is this year.
+- Subwoofers are not allowed at all this year, because of the proximity to the smoking floor directly above.
 - Being on the hospitality floor makes it *less* likely for you to get a noise complaint, but it's not a guarantee; noise still travels through floors and ceilings.
 - It's still *your* sleeping room, so *you* are responsible for any damages. Don't let your gatherings get out of hand.
 - Make a good impression: If you see any mess in the hall, *clean it up,* even if the mess isn't your fault.
