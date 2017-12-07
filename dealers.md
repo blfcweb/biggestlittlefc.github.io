@@ -18,6 +18,7 @@ price:
   extrapermit: "20"
   extratable:  "80"
   extrabooth:  "30"
+  taxrate: "7.75"
 
 ---
 
@@ -39,6 +40,8 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 <p><a href="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2.jpg"><img class="aligncenter size-large wp-image-1794" src="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-1024x882.jpg" alt="" srcset="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-1024x882.jpg 1024w, https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-512x441.jpg 512w, https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-768x662.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a>
 
 ## List of Dealers
+
+Coming soon
 -->
 
 
@@ -118,7 +121,7 @@ Business License
 : The city of Reno (not the state) requires a temporary business license for exhibitors at conventions. The cost of this business license is included in your dealer's den space, and BLFC will provide you with the business license on Friday of the convention before business begins. Con staff will help you fill out the form; it's easy. Most of the information will be filled out for you.
 
 Tax Collection
-: All sales are subject to state and local sales tax (7.75%). At the end of the con, [accordion title="you must complete your sales taxes with the dealer den lead before you leave. Income tax will be your own responsibility in your own home state/country. Nevada has no income tax.
+: All sales are subject to state and local sales tax ({{ page.price.taxrate }}%). At the end of the con, [accordion title="you must complete your sales taxes with the dealer den lead before you leave. Income tax will be your own responsibility in your own home state/country. Nevada has no income tax.
 
 Dealer's Assistants
 : Assistants of dealers will need to buy their own con badge to access the dealer's den. When submitting your application, indicate the names of your helpers, so their badges can read "dealer assistant."
@@ -130,7 +133,7 @@ Raffles
 : Dealers are not allowed to hold raffles of any kind. Raffles are "illegal lotteries" in the state of Nevada.
 
 Electricity Usage
-: Dealer electricity cost us a lot of money last year. Electricity will be an additional charge this year. The cost for electricity is $50
+: Dealer electricity cost us a lot of money last year. Electricity will be an additional charge this year. The cost for electricity is ${{ page.price.booth }}
 
 Checkout
 : You must submit sales tax after closing on Sunday, before you leave. Dealers must bring their final sales total to Dealer Operations and pay their sales taxes before leaving the convention. Failure to do so will result in your application being rejected in future years.
