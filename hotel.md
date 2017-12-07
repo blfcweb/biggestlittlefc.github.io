@@ -84,24 +84,20 @@ Automated emails may mention a charge for 3rd and 4th roommates, but those are w
 
 We've arranged a floor for people who want to hold private gatherings in their sleeping rooms. On this floor, everyone promises to tolerate noise and not issue noise complaints against each other.
 
-- Call the hotel with your reservation number and put in a special request for the 3rd floor. **Please don't call it a party floor!** The hotel won't know what you're talking about.
-- **This is not a "party floor." Don't call it that. Simply ask for the 3rd floor.**
-- You can also ask for the 3rd floor on check-in.
+- Book a regular reservation for now. We will convert reservations over to the Hospitality Floor at a later time.
 - By asking for this, you promise to us and all your floor-mates that you can sleep through the noise, and you won't call in with noise complaints.
-- You may get the 2nd or 4th floors if the 3rd is full, but the effect is the same.
 
 There are limitations to keep in mind:
 
-- This makes it *less* likely for you to get a noise complaint, but it's not a guarantee; noise still travels through floors and ceilings.
+- The floor above the hospitality floor is expected to be the only smoking floor in the hotel, so there will be some regular hotel guests above your heads. This will probably not be an issue next year, but it is this year.
+- Because of the proximity to the smoking floor, subwoofers are not allowed at all. 
+- Being on the hospitality floor makes it *less* likely for you to get a noise complaint, but it's not a guarantee; noise still travels through floors and ceilings.
 - It's still *your* sleeping room, so *you* are responsible for any damages. Don't let your gatherings get out of hand.
 - Make a good impression: If you see any mess in the hall, *clean it up,* even if the mess isn't your fault.
-- Keep your door closed to keep the noise down in the hall.
-	- Tip: blue-tape a room key card over your door latch. Then your door can fully close to block sound, but still be easy to push open.
-- This does *not* give you a license to bring high-power audio systems into your room. Volume on music needs to stay reasonable.
 - You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. This goes for music too.
-- Quiet it down after midnight.
+- Quiet it down a bit more after midnight.
 - If hotel security or FLARE tells you to tone it down, do so immediately.
-- Seriously, don't start a howl. Yelling and screaming is the quickest way to noise complaints. Save that racket for inside our downstairs convention hangout space.
+- Seriously, don't start a howl. Yelling and screaming is the quickest way to noise complaints. Save that racket for inside convention hangout space.
 
 By gathering together the conversation noise in one place, we reduce how many noise complaints are created, and the hotel likes that. But if you go overboard, you can still get your room gatherings, and perhaps the entire floor, shut down. **KEEP. IT. REASONABLE.**
 
@@ -112,8 +108,8 @@ By gathering together the conversation noise in one place, we reduce how many no
 
 <div class="accordion-list">
 
-The block is full; where do I book a room?
-: Our block is sold out, but the hotel still has rooms. We recommend you <a href="http://rooms.grandsierraresort.com" target="_blank">book a general-priced room using the GSR website</a>. There are no shuttle services to other hotels. There is <a href="https://www.google.com/maps/place/Baymont+Inn+and+Suites+Reno/@39.5214178,-119.7871447,15.75z/data=!4m8!3m7!1s0x0:0xd92b572278d291d6!5m2!1s2017-06-01!2i4!8m2!3d39.5197985!4d-119.7870469">one small motel within walking distance</a>; it is not an official overflow and is not making any special arrangements for our attendees.
+<!--The block is full; where do I book a room?
+: Our block is sold out, but the hotel still has rooms. We recommend you <a href="http://rooms.grandsierraresort.com" target="_blank">book a general-priced room using the GSR website</a>. There are no shuttle services to other hotels. There is <a href="https://www.google.com/maps/place/Baymont+Inn+and+Suites+Reno/@39.5214178,-119.7871447,15.75z/data=!4m8!3m7!1s0x0:0xd92b572278d291d6!5m2!1s2017-06-01!2i4!8m2!3d39.5197985!4d-119.7870469">one small motel within walking distance</a>; it is not an official overflow and is not making any special arrangements for our attendees.-->
 
 What is the Resort Fee?
 : This hotel charges a resort fee in addition to your room rate, which pays for the airport shuttle, parking, pool, gym, internet, and free bottled water.
@@ -122,7 +118,7 @@ What is the Tourism Fee?
 : A fee mandated by the City of Reno for all hotels, instituted in 2015.
 
 Is there a 'party floor?'
-: The closest equivalent is the <a href="#hospitality">hospitality floor</a>. Call in a request to be put on the 3rd floor. **Do not say the words "party floor" to the hotel.**
+: The closest equivalent is the <a href="#hospitality">hospitality floor</a>. We will open applications for the hospitality floor at a later date.
 
 Check in/out times?
 : Check in after 3PM. Check out by 11AM.
@@ -131,7 +127,7 @@ I require two beds.
 : Write "2 beds" in the requests section. Or declare 4 people in the room. We recommend doing both.
 
 How many rooms?
-: The hotel has 2,000 rooms. Our block has about 1000.
+: The hotel has 2,000 rooms. Our block has about 1200.
 
 I want to room next to my friends.
 : After booking online, just call the hotel with the confirmation numbers and ask to be placed together.
@@ -140,7 +136,7 @@ What's the best way to bring in my luggage?
 : You may not use the front entrance as a loading zone, and you may not use the bell carts. Please park in self-parking, and then hand carry your luggage to your room. We recommend bringing your own folding cart.
   Or, you can park in the front entrance, and leave it up to the valet parking and bellmen to move your car and luggage. Last we checked, there was no official fee for this service, but tips are expected.
 
-Can I pay for my room before arriving?
+Can I pre-pay for my room?
 : Yes, just call the hotel with your confirmation number.
 
 </div>
