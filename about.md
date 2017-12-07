@@ -1,5 +1,6 @@
 ---
-title: About
+title: About BLFC
+status: LIVE
 ---
 
 **Location**: Reno, Nevada, USA

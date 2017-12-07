@@ -1,9 +1,11 @@
 ---
 title: Getting Here
+status: LIVE
 ---
 We are located at the Grand Sierra Resort in Reno, Nevada.
 
-2500 East 2nd Street<br> Reno, NV 89595
+2500 East 2nd Street
+Reno, NV 89595
 
 ## Driving Directions
 
