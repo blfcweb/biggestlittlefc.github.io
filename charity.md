@@ -1,6 +1,10 @@
-<a href="http://www.safehaven-wildlife.com/" target="_blank"><img src="https://www.goblfc.org/wp-content/uploads/Safe-Haven-Wildlife-Sanctuary-Logo.png" alt="" class="aligncenter size-full wp-image-790"></a>
+---
+title: Charity
+status: LIVE
+---
+<a href="http://www.safehaven-wildlife.com/" target="_blank"><img src="/assets/img/logo-safehaven.png" alt="Safe Haven Wildlife Sanctuary" class="aligncenter"></a>
 
-We welcome once again <a href="http://www.safehaven-wildlife.com/" target="_blank">Safe Haven Wildlife Sanctuary</a> as our charity for 2017.
+We welcome once again <a href="http://www.safehaven-wildlife.com/" target="_blank">Safe Haven Wildlife Sanctuary</a> as our charity for 2018.
 
 Safe Haven Wildlife Sanctuary is a non-profit, wildlife rehabilitative center located in Imlay, Nevada. Providing rehabilitative services and permanent placement for animals in need. They also respond to assistance requests from state and federal agencies, law enforcement, veterinarians, and concerned citizens.
 
