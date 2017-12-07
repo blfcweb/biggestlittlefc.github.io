@@ -13,6 +13,12 @@ setup:
 price:
   standard: "100"
   booth: "200"
+  electricity: "60"
+  blackmarket: "20"
+  extrapermit: "20"
+  extratable:  "80"
+  extrabooth:  "30"
+
 ---
 
 <!--
@@ -40,7 +46,8 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 
 [Sign up as a dealer][reglink]
 
-**Con Badges are not included &amp; must be purchased separately!** Any assistants must also purchase their own badges.
+**Con Badges are not included &amp; must be purchased separately!**
+Any assistants must also purchase their own badges.
 
 **NOTICE:** Application **does not** guarantee a dealers den space. Please read <a href="#dealer-rules">the rules</a>. Approved dealers will be notified by November 30th.
 
@@ -67,12 +74,10 @@ BLFC offers two types of vendor experiences:
 
 ### Optional upgrades
 
-- **Electricity upgrade** - $60 <small>(up to 500 watts, more than 500 watts costs extra</small>
-- **Black Market upgrade** - $20 <small>(allows open display of 18+ content! Includes 18+ age check at the entrance!)</small>
-- **Additional vendor permit** - $20 (For sharing a table with a friend!)
-- **Additional 8'x2.5' table** - $80 for Standard, $30 for Booth
-
-
+- **Electricity upgrade** - ${{ page.price.booth }} <small>(up to 500 watts, more than 500 watts costs extra</small>
+- **Black Market upgrade** - ${{ page.price.blackmarket }} <small>(allows open display of 18+ content! Includes 18+ age check at the entrance!)</small>
+- **Additional vendor permit** - ${{ page.price.extrapermit }} (For sharing a table with a friend!)
+- **Additional 8'x2.5' table** - ${{ page.price.extratable }} for Standard, ${{ page.price.extrabooth }} for Booth
 
 ## Dealer Setup Hours
 
@@ -106,7 +111,7 @@ Chairs
 Equipment
 : BLFC does not provide any additional equipment aside from the table, chair, and table skirt.
 
-Food &amp; Drink &amp; Tobacco products
+Food, Drink &amp; Tobacco products
 : Per hotel policy, pre-packaged manufactured food or drinks cannot be sold by dealers. Small candy can be given away, but not sold. Per city ordinance, all tobacco-related products (including nicotine-free vaporizer products) require a special business license that costs several hundred dollars.
 
 Business License
