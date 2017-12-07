@@ -19,7 +19,7 @@ price:
   extratable:  "80"
   extrabooth:  "30"
   taxrate: "7.75"
-
+approvaldate: "November 30th"
 ---
 
 <!--
@@ -52,7 +52,7 @@ Coming soon
 **Con Badges are not included &amp; must be purchased separately!**
 Any assistants must also purchase their own badges.
 
-**NOTICE:** Application **does not** guarantee a dealers den space. Please read <a href="#dealer-rules">the rules</a>. Approved dealers will be notified by November 30th.
+**NOTICE:** Application **does not** guarantee a dealers den space. Please read <a href="#dealer-rules">the rules</a>. Approved dealers will be notified by {{ page.approvaldate }}.
 
 BLFC offers two types of vendor experiences:
 
