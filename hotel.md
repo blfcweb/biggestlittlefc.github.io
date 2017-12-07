@@ -46,6 +46,7 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 - Your credit/debit card must have an expiration date AFTER the con.
 - To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
+- If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
 - If you happen to be a smoker, and you're willing to be right above the Hospitality Floor, please request a smoking room when you make your reservation, if you're able. It helps us have less non-con guests on that floor.
 
