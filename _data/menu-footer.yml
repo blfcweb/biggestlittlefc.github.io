@@ -24,8 +24,8 @@ toc:
 ##        url: "/"
 ##      - page: Con Book
 ##        url: "/"
-#      - page: Theme Credits
-#        url: "/theme/credits/"
+      - page: Theme Credits
+        url: "/theme/credits/"
 ##      - page: Past Years
 ##        url: "/"
   - title: Events
