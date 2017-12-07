@@ -10,9 +10,7 @@ Safe Haven Wildlife Sanctuary is a non-profit, wildlife rehabilitative center lo
 
 They had an amazing time at the convention in 2016 and they are excited to be back.
 
-Please visit <a href="http://www.safehaven-wildlife.com/" target="_blank">the Safe Haven website</a>.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" value="_s-xclick" type="hidden"><input name="hosted_button_id" value="N9QXM453NFBRC" type="hidden"><input value="Donate Today" type="submit"></form>
+Please visit <a href="http://www.safehaven-wildlife.com/" target="_blank">the Safe Haven website</a> or <a href="http://safehavenwildlife.com/donate/donate-online/" target="_blank">donate now</a>
 
 Donations using this button go directly to Safe Haven, and flag your donation so they know it came from a BLFC attendee! Your donation to Safe Haven is tax-deductible.
 
