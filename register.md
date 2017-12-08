@@ -107,13 +107,13 @@ Pre-reg Patrons and Sponsors only, in the Nevada Room
 Nevada Room (separate lines for pre-reg and at-con)
 
 **<big>Friday 10AM-11PM:</big>**
-All registrations: Window across from Nevada Foyer
+Window across from Nevada Foyer
 
 **<big>Saturday 10AM-8PM:</big>**
-All registrations: Window across from Nevada Foyer
+Window across from Nevada Foyer
 
 **<big>Sunday 11AM-2PM:</big>**
-All registrations: Window across from Nevada Foyer
+Window across from Nevada Foyer
 
 <div class="clear"></div></div></div>
 
