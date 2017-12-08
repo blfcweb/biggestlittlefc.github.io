@@ -50,31 +50,17 @@ This year's swag items are still being determined.
 
 <small>Not available after {{ page.preregend }}.</small>
 
-- Attendance:
-    <small>Enjoy the convention and events hosted for you!</small>
-- Collectible Poker Chip:
-    <small>One every year, collect them all!</small>
-- Free go-karts:
-    <small>Just show your badge and drive for free!</small>
-- Free mini-golf:
-    <small>Just show your badge and play for free!</small>
-- Free bowling:
-    <small>Just show your badge and play for free! (Certain hours only)</small>
-- Discounted Food Den:
-    <small>Half off food sold in the con space only</small>
-- Exclusivity:
-    <small>Patron/sponsor swag not sold separately for one year</small>
-- T-shirt:
-    <small>Full-print this year!</small>
-- Name in Credits:
-    <small>In our digital con book</small>
-- 10% chance:
-    <small>for a free attendance next year</small>
-- Art book:
-    <small>Of this year's story</small>
-- Shard Containment Device:
-    <small>(A backpack cooler)</small>
-
+- T-shirt
+- Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
+- Another gift <small>(still TBD)</small>
+- Attendance
+- Collectible Poker Chip <small>(new design every year)</small>
+- Free go-karts <small>(just show your badge)</small>
+- Free mini-golf <small>(just show your badge)</small>
+- Free bowling <small>(just show your badge, midnight to 6am)</small>
+- Half Price Food <small>in con-space snack bars</small>
+- Name in Credits <small>in our digital con book</small>
+- 10% chance <small>for a free attendance next year</small>
 
 
 ### Sponsor <small>Not available after {{ page.preregend }}.</small>
