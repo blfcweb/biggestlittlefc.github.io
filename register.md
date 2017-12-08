@@ -41,6 +41,8 @@ This year's patron-level swag is still being determined.
 
 ### Pre-Reg Levels
 
+Remember: If you're over 16 and under 18, you'll need a signed and notarized [parental consent form][minorformlink].
+
 #### Patron - ${{ page.prices.patronPre }} until {{ page.discountend }}, then ${{ page.prices.patronFull }} until {{ page.upgradeend }}
 
 <small>Not available after {{ page.upgradeend }}.</small>
@@ -153,7 +155,7 @@ Click the titles below to expand.
 Under 18 Years Old?
 : **16 - 17 years old**
 
-  - A signed, notarized <a href="https://reg.goblfc.org/BLFCParentalConsentForm.pdf" target="_blank">parental consent form</a> is required. *Bring the original, not a copy.*
+  - A signed, notarized [parental consent form][minorformlink] is required. *Bring the original, not a copy.*
   - You must bring a photo ID.
   - You do not need to attend with a parent.
 
@@ -220,3 +222,6 @@ Upgrading?
 
 [reglink]: https://reg.goblfc.org/
 {:title="Register online today!" target="_blank" rel="noopener noreferrer"}
+
+[minorformlink]: https://reg.goblfc.org/static/resources/BLFCParentalConsentForm.pdf
+{:title="Parental Consent Form" target="_blank" rel="noopener noreferrer"}
