@@ -2,18 +2,12 @@
 title: Registration
 status: LIVE
 prices:
-  patron:
-    pre: 120
-	full: 150
-	
-  sponsor:
-    pre: 90
-	full: 110
-
-  attendee:
-    pre: 50
-	full: 60
-	
+  patronPre: 120
+  patronFull: 150
+  sponsorPre: 90
+  sponsorFull: 110
+  attendeePre: 50
+  attendeeFull: 60
   saturday: 45
   sunday: 20
 
@@ -46,7 +40,7 @@ This year's swag items are still being determined.
 
 ### Pre-Reg Levels
 
-#### Patron - {{ page.prices.patron }}
+#### Patron - {{ page.prices.patronPre }}
 
 <small>Not available after {{ page.preregend }}.</small>
 
