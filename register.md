@@ -11,7 +11,8 @@ prices:
   saturday: 45
   sunday: 20
 
-preregend : "March 30th"
+upgradeend : "March 30th"
+preregend : "April 30th"
 discountend : "March 1st"
 layout: fullwidth
 ---
@@ -22,7 +23,7 @@ layout: fullwidth
 
 [Pre-register today!][reglink]
 
-**Important**: Patron and Sponsor are only available until {{ page.preregend }}. **No upgrades at-con**.
+**Important**: Patron and Sponsor are only available until {{ page.upgradeend }}. **No upgrades at-con**.
 
 ### Why pre-register?
 
@@ -34,15 +35,15 @@ layout: fullwidth
 
 ### SWAG!
 
-Patron and Sponsor are **not available after {{ page.preregend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store. It also gets you the other benefits like a chance at free registration for next year, and early badge pickup.
+Patron and Sponsor are **not available after {{ page.upgradeend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store. It also gets you the other benefits like a chance at free registration for next year, and early badge pickup.
 
 This year's patron-level swag is still being determined.
 
 ### Pre-Reg Levels
 
-#### Patron - ${{ page.prices.patronPre }} until {{ page.discountend }}, then ${{ page.prices.patronFull }} until {{ page.preregend }}
+#### Patron - ${{ page.prices.patronPre }} until {{ page.discountend }}, then ${{ page.prices.patronFull }} until {{ page.upgradeend }}
 
-<small>Not available after {{ page.preregend }}.</small>
+<small>Not available after {{ page.upgradeend }}.</small>
 
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
 - T-shirt
@@ -59,9 +60,9 @@ This year's patron-level swag is still being determined.
 - Half Price Food <small>in con-space snack bars</small>
 - Name in Credits <small>in our digital con book</small>
 
-#### Sponsor - ${{ page.prices.sponsorPre }} until {{ page.discountend }}, then ${{ page.prices.sponsorFull }} until {{ page.preregend }}
+#### Sponsor - ${{ page.prices.sponsorPre }} until {{ page.discountend }}, then ${{ page.prices.sponsorFull }} until {{ page.upgradeend }}
 
-<small>Not available after {{ page.preregend }}.</small>
+<small>Not available after {{ page.upgradeend }}.</small>
 
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
 - T-shirt
@@ -79,7 +80,7 @@ This year's patron-level swag is still being determined.
 
 #### Attendee - ${{ page.prices.attendeePre }} until {{ page.discountend }}, then ${{ page.prices.attendeeFull }} afterward
 
-<small>Only option left after {{ page.preregend }}.</small>
+<small>Only option left after {{ page.upgradeend }}.</small>
 
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
@@ -121,7 +122,7 @@ All registrations: Window across from Nevada Foyer
 
 ## At-Con Pricing
 
-We do not offer one-day badges. Instead, the weekend price goes down on Saturday and Sunday.
+One-day badges are not available. Instead, the weekend price goes down on Saturday and Sunday.
 
 **Patron and Sponsor badges are not offered at-con.**
 
@@ -165,19 +166,21 @@ Under 18 Years Old?
 
 
 
-Can I still pay online?
-: **Please do!** [Log in to registration][reglink] and complete a registration for this year, and then enter the "at-con registration" line when you arrive.
+How do I make at-con registration go faster?
+: **Before {{ page.preregend }}**: [Pre-register!][reglink]
 
-  Each person who pays online makes the registration line go a little bit faster.
+  **After {{ page.preregend }}**: [Log in to registration][reglink] and complete an at-con registration. Have a credit card handy, and please pay before you get in line. If you have only cash, there will be cashiers on-site.
+  
+  Each person who pays with card online makes the registration line go a little bit faster.
 
 
 Can I pick badge art at-con?
 :  **You cannot pick at-con**; you must choose in the pre-registration system.
-  You can change your choice until April 30th, so always pick your current favorite from the available choices.
+  You can change your choice until {{ page.preregend }}, so always pick your current favorite from the available choices.
 
 
 How can I confirm I'm registered?
-: Paid registrations are sent a confirmation email, but your spam filter may have eaten it. To check manually, [click "Did I pre-register?"][reglink] to find out.
+: Paid registrations are sent a confirmation email, but spam filters can be hungry beasts. To check manually, [log in to registration][reglink] and look for the "paid" indicator.
 
 
 Will there be one-day registration?
@@ -195,13 +198,13 @@ Can I get a refund?
 
 
 What if I can't make it?
-: If your last registration payment was less than a year ago, you can have the payment forwarded to next year. You can choose to be sent the swag you would have gotten *instead* of having the payment forwarded. If the payment sits for an additional year, you will be sent items for the current year.
+: If you paid for your registration this year, you can have the payment forwarded to next year. **OR,** you can choose to be sent the swag you would have gotten *instead* of having the payment forwarded. If the payment sits for an additional year, the payment will expire and we will send you the swag for the current year.
 
 
 
 Upgrading?
 : 
-  You can upgrade until April 30th by picking the higher tier in reg, and paying the difference. *Upgrades are not available after that*.
+  You can upgrade until {{ page.upgradeend }} by [logging in to registration][reglink], then pick the higher tier and pay the difference.
   <!--
   The upgrade window has passed. Only Attendee registrations are now available.
   -->
