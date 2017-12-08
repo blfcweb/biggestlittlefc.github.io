@@ -40,21 +40,21 @@ This year's swag items are still being determined.
 
 ### Pre-Reg Levels
 
-#### Patron - {{ page.prices.patronPre }}
+#### Patron - ${{ page.prices.patronPre }} until {{ page.discountend }}, then ${{ page.prices.patronFull }} until {{ page.preregend }}
 
 <small>Not available after {{ page.preregend }}.</small>
 
-- T-shirt
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
+- T-shirt
 - Another gift <small>(still TBD)</small>
-- Attendance
 - Collectible Poker Chip <small>(new design every year)</small>
+- Attendance <small>(con badge)</small>
+- 10% chance <small>for a free attendance next year</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
 - Half Price Food <small>in con-space snack bars</small>
 - Name in Credits <small>in our digital con book</small>
-- 10% chance <small>for a free attendance next year</small>
 
 
 ### Sponsor <small>Not available after {{ page.preregend }}.</small>
