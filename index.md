@@ -59,7 +59,7 @@ $('#page-content').removeClass('home-scroll');
 <li class="one_fourth">
 <h3>2. Register</h3>
 <p>First step is to get registered online. Register <em>before the early fur deadline</em> to receive this year's SWAG.</p>
-<a class="button" href="/register/" target="_blank">Register Now</a>
+<a class="button" href="/register/">Register Now</a>
 </li>
 <li class="one_fourth">
 <h3>3. Get here</h3>
