@@ -2,14 +2,23 @@
 title: Registration
 status: LIVE
 prices:
-  patron: "$135"
-  sponsor: "$90"
-  prereg-attendee: "$50"
-  attendee: "$60"
-  saturday: "$45"
-  sunday: "$20"
+  patron:
+    pre: 120
+	full: 150
+	
+  sponsor:
+    pre: 90
+	full: 110
+
+  attendee:
+    pre: 50
+	full: 60
+	
+  saturday: 45
+  sunday: 20
 
 preregend : "March 30th"
+discountend : "March 1st"
 layout: fullwidth
 ---
 <div class="one-full bg-one">
@@ -23,50 +32,47 @@ layout: fullwidth
 
 ### Why pre-register?
 
-- SWAG! *(Patron and Sponsor will not be available after {{ page.preregend }}).*
-- SWAG! Swag for the current year is exclusive to Patrons and Sponsors for one year and *not sold separately.*
-- Choose your badge art (instead of getting random art)
 - Simpler, faster process at-con
+- Choose your badge art (instead of getting random art)
+- Guaranteed swag (for Patron and Sponsor)
 
-**Important:** Patron and Sponsor are **not available after {{ page.preregend }}**. Swag and other Patron/Sponsor benefits are available during pre-reg *ONLY*.
-
-Make sure your pre-registration info matches your photo ID; you must use your photo ID to claim your pre-registration. Make sure you pick your favorite badge art before {{ page.preregend }}.
+**Important!** Your pre-registration info **must match your photo ID,** so we can make sure the person who buys the badge gets the badge. Make sure you pick your favorite badge art before {{ page.preregend }}.
 
 ### SWAG!
 
-*SWAG is only available if you pre-reg before {{ page.preregend }}. There are no upgrades at-con.*
+Patron and Sponsor are **not available after {{ page.preregend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store.
 
-This year's SWAG is still being determined.
+This year's swag items are still being determined.
 
 ### Pre-Reg Levels
 
-#### Patron <small>Not available after {{ page.preregend }}.</small>
+#### Patron - {{ page.prices.patron }}
 
-{{ page.prices.patron }}
+<small>Not available after {{ page.preregend }}.</small>
 
-- Attendance
+- Attendance:
     <small>Enjoy the convention and events hosted for you!</small>
-- Collectible Poker Chip
+- Collectible Poker Chip:
     <small>One every year, collect them all!</small>
-- Free go-karts
+- Free go-karts:
     <small>Just show your badge and drive for free!</small>
-- Free mini-golf
+- Free mini-golf:
     <small>Just show your badge and play for free!</small>
-- Free bowling
+- Free bowling:
     <small>Just show your badge and play for free! (Certain hours only)</small>
-- Discounted Food Den
+- Discounted Food Den:
     <small>Half off food sold in the con space only</small>
-- Exclusivity
+- Exclusivity:
     <small>Patron/sponsor swag not sold separately for one year</small>
-- T-shirt
+- T-shirt:
     <small>Full-print this year!</small>
-- Name in Credits
+- Name in Credits:
     <small>In our digital con book</small>
-- 10% chance
+- 10% chance:
     <small>for a free attendance next year</small>
-- Art book
+- Art book:
     <small>Of this year's story</small>
-- Shard Containment Device
+- Shard Containment Device:
     <small>(A backpack cooler)</small>
 
 
