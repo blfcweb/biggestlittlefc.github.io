@@ -34,7 +34,7 @@ layout: fullwidth
 
 ### SWAG!
 
-Patron and Sponsor are **not available after {{ page.preregend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store.
+Patron and Sponsor are **not available after {{ page.preregend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store. It also gets you the other benefits like a chance at free registration for next year, and early badge pickup.
 
 This year's patron-level swag is still being determined.
 
@@ -52,7 +52,7 @@ This year's patron-level swag is still being determined.
 - 10% chance <small>for a free attendance next year</small>
 - Priority access/seating <small>to certain events</small>
 - Early pre-reg pickup <small>starting on Wednesday night</small>
-- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
+- Exclusive use of the pool <small>Thursday, Friday, and Saturday evenings</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
@@ -70,7 +70,7 @@ This year's patron-level swag is still being determined.
 - 5% chance <small>for a free attendance next year</small>
 - Priority access/seating <small>to certain events</small>
 - Early pre-reg pickup <small>starting on Wednesday night</small>
-- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
+- Exclusive use of the pool <small>Thursday, Friday, and Saturday evenings</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
@@ -79,55 +79,46 @@ This year's patron-level swag is still being determined.
 
 #### Attendee - ${{ page.prices.attendeePre }} until {{ page.discountend }}, then ${{ page.prices.attendeeFull }} afterward
 
-<small>Only available option after {{ page.preregend }}.</small>
+<small>Only option left after {{ page.preregend }}.</small>
 
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
 - 10% chance <small>for a free attendance next year</small>
-- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
+- Exclusive use of the pool <small>Thursday, Friday, and Saturday evenings</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
 - Half Price Food <small>in con-space snack bars</small>
 
-<div class="clear"></div>
-
-</div>
-</div>
-
-
-
-
+<div class="clear"></div></div></div>
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## Hours &amp; Location
 
-If you arrive after these hours, you can register at Con Ops, which is the window to the left of the Grand Ballroom.
+These hours and locations may change before the con happens. Make sure to check this page again shortly before the con.<br>
+After the hours listed below, you can register at Con Ops, (window to the left of the Grand Ballroom).
 
-- {:.one_fourth } **Thursday 3PM-12AM** 
-    At-con: Nevada Room  
-    Pre-reg: Nevada Room 
-- {:.one_fourth } **Friday 10AM-11PM** 
-    At-con: Window across from Nevada Foyer 
-    Pre-reg: Window to the left of Grand Ballroom 
-- {:.one_fourth } **Saturday 10AM-8PM** 
-    At-con: Window across from Nevada Foyer  
-    Pre-reg: Window to the left of Grand Ballroom 
-- {:.one_fourth } **Sunday 11AM-2PM** 
-    At-con &amp; Pre-reg: Window to the left of Grand Ballroom 
+#### Wednesday 6PM-10PM
+Pre-reg Patrons and Sponsors only, in the Nevada Room
 
+#### Thursday 3PM-12AM
+At-con: Nevada Room
+Pre-reg: Nevada Room
 
-<div class="clear"></div>
+#### Friday 10AM-11PM
+All registrations: Window across from Nevada Foyer
 
-</div>
-</div>
+#### Saturday 10AM-8PM
+All registrations: Window across from Nevada Foyer
 
+#### Sunday 11AM-2PM
+All registrations: Window across from Nevada Foyer
 
+<div class="clear"></div></div></div>
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
-
 
 ## At-Con Pricing
 
