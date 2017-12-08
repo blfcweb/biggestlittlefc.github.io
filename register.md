@@ -99,7 +99,7 @@ This year's patron-level swag is still being determined.
 These hours and locations may change before the con happens. Make sure to check this page again shortly before the con.<br>
 After the hours listed below, you can register at Con Ops, (window to the left of the Grand Ballroom).
 
-<large>**Wednesday 6PM-10PM**</large>
+**<big>Wednesday 6PM-10PM</big>**
 Pre-reg Patrons and Sponsors only, in the Nevada Room
 
 #### Thursday 3PM-12AM
