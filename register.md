@@ -99,7 +99,7 @@ This year's patron-level swag is still being determined.
 These hours and locations may change before the con happens. Make sure to check this page again shortly before the con.<br>
 After the hours listed below, you can register at Con Ops, (window to the left of the Grand Ballroom).
 
-#### Wednesday 6PM-10PM
+<large>**Wednesday 6PM-10PM**</large>
 Pre-reg Patrons and Sponsors only, in the Nevada Room
 
 #### Thursday 3PM-12AM
@@ -122,23 +122,18 @@ All registrations: Window across from Nevada Foyer
 
 ## At-Con Pricing
 
-We do not offer one-day badges. Instead, on Saturday and Sunday, you can buy a weekend badge for a reduced price.
+We do not offer one-day badges. Instead, the weekend price goes down on Saturday and Sunday.
 
 **Patron and Sponsor badges are not offered at-con.**
 
-- **Thursday-Sunday** - {{ page.prices.attendee }}
-- **Friday-Sunday** - {{ page.prices.attendee }}
-- **Saturday-Sunday** - {{ page.prices.saturday }}
-- **Sunday** - {{ page.prices.sunday }}
-
-
+- **Thursday-Sunday** - ${{ page.prices.attendeeFull }}
+- **Friday-Sunday** - ${{ page.prices.attendeeFull }}
+- **Saturday-Sunday** - ${{ page.prices.saturday }}
+- **Sunday** - ${{ page.prices.sunday }}
 
 <div class="clear"></div>
 </div>
 </div>
-
-
-
 
 <div class="one-full bg-two">
 <div class="page-wrapper">
