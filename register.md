@@ -36,7 +36,7 @@ layout: fullwidth
 
 Patron and Sponsor are **not available after {{ page.preregend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store.
 
-This year's swag items are still being determined.
+This year's patron-level swag is still being determined.
 
 ### Pre-Reg Levels
 
@@ -50,58 +50,45 @@ This year's swag items are still being determined.
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
 - 10% chance <small>for a free attendance next year</small>
+- Priority access/seating <small>to certain events</small>
+- Early pre-reg pickup <small>starting on Wednesday night</small>
+- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
 - Half Price Food <small>in con-space snack bars</small>
 - Name in Credits <small>in our digital con book</small>
 
+#### Sponsor - ${{ page.prices.sponsorPre }} until {{ page.discountend }}, then ${{ page.prices.sponsorFull }} until {{ page.preregend }}
 
-### Sponsor <small>Not available after {{ page.preregend }}.</small>
+<small>Not available after {{ page.preregend }}.</small>
 
-{{ page.prices.sponsor }}
-
-- Attendance
-    <small>Enjoy the convention and events hosted for you!</small>
-- Collectible Poker Chip
-    <small>One every year, collect them all!</small>
-- Free go-karts
-    <small>Just show your badge and drive for free!</small>
-- Free mini-golf
-    <small>Just show your badge and play for free!</small>
-- Free bowling
-    <small>Just show your badge and play for free! (Certain hours only)</small>
-- Discounted Food Den
-    <small>Half off food sold in the con space only</small>
-- Exclusivity
-    <small>Patron/sponsor swag not sold separately for one year</small>
+- Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
 - T-shirt
-    <small>Full-print this year!</small>
-- Name in Credits
-    <small>In our digital con book</small>
-- 5% chance
-    <small>for a free attendance next year</small>
-- Art book
-    <small>Of this year's story</small>
+- Collectible Poker Chip <small>(new design every year)</small>
+- Attendance <small>(con badge)</small>
+- 5% chance <small>for a free attendance next year</small>
+- Priority access/seating <small>to certain events</small>
+- Early pre-reg pickup <small>starting on Wednesday night</small>
+- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
+- Free go-karts <small>(just show your badge)</small>
+- Free mini-golf <small>(just show your badge)</small>
+- Free bowling <small>(just show your badge, midnight to 6am)</small>
+- Half Price Food <small>in con-space snack bars</small>
+- Name in Credits <small>in our digital con book</small>
 
+#### Attendee - ${{ page.prices.attendeePre }} until {{ page.discountend }}, then ${{ page.prices.attendeeFull }} afterward
 
+<small>Only available option after {{ page.preregend }}.</small>
 
-### Attendee <small>The only option at-con.</small>
-
-{{ page.prices.prereg-attendee }}
-
-- Attendance
-    <small>Enjoy the convention and events hosted for you!</small>
-- Collectible Poker Chip
-    <small>One every year, collect them all!</small>
-- Free go-karts
-    <small>Just show your badge and drive for free!</small>
-- Free mini-golf
-    <small>Just show your badge and play for free!</small>
-- Free bowling
-    <small>Just show your badge and play for free! (Certain hours only)</small>
-- Discounted Food Den
-    <small>Half off food sold in the con space only</small>
+- Collectible Poker Chip <small>(new design every year)</small>
+- Attendance <small>(con badge)</small>
+- 10% chance <small>for a free attendance next year</small>
+- Exclusive use of the pool <small>from 8p-12a Thu, Fri, & Sat)</small>
+- Free go-karts <small>(just show your badge)</small>
+- Free mini-golf <small>(just show your badge)</small>
+- Free bowling <small>(just show your badge, midnight to 6am)</small>
+- Half Price Food <small>in con-space snack bars</small>
 
 <div class="clear"></div>
 
