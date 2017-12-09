@@ -1,10 +1,13 @@
 ---
 title: Policies
+status: LIVE
 ---
-<div class="page-wrapper"><p><!-- div class "tldr hidden" is used by registration; make sure you include one for every policy, directly under the "one_full title". It should be a very short, no-nonsense version of that particular policy, ideally ten words or less.
+<!-- div class "tldr hidden" is used by registration; make sure you include one for every policy, directly under the "one_full title". It should be a very short, no-nonsense version of that particular policy, ideally ten words or less.
 The parser in registration is VERY sensitive to the formatting of this page. DON'T CHANGE THE FORMATTING. Yes, I know that it's redundant to put classes on closing div tags, but the registration parser needs that to pick apart the various div closing tags. Don't change the contents of any of the div tags. Don't use the visual editor, it will blow away the extra text in those tags.
 
-Any time you post ANY changes to this page, check http://reg.goblfc.org/createaccount.php (check the full policies too!) to make sure the policies still display correctly. Roll back your changes to this page if you broke it.--></p>
+Any time you post ANY changes to this page, check http://reg.goblfc.org/createaccount.php (check the full policies too!) to make sure the policies still display correctly.
+Roll back your changes to this page if you broke it.
+-->
 <div class="one_full"><h2><span>Fursuit Heads and Masks</span></h2><div class="page-wrapper"><p></p>
 <div class="tldr hidden">Don't go to the casino floor with any kind of mask.</div>
 <div class="longtext">
