@@ -158,6 +158,10 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	background: #101010;
 	text-shadow: -2px 1px 0 #000;
 }
+
+#hotel-booking-link, #hotel-booking-link body {
+	background: none;
+}
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
