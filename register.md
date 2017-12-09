@@ -86,7 +86,6 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
-- 10% chance <small>for a free attendance next year</small>
 - Exclusive use of the pool <small>Thursday, Friday, and Saturday evenings</small>
 - Free go-karts <small>(just show your badge)</small>
 - Free mini-golf <small>(just show your badge)</small>
