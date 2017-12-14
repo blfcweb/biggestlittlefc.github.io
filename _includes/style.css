@@ -50,10 +50,16 @@ blockquote {
 	padding-left: 10px;
 	margin: 1em 40px;
 }
-button,input,select,textarea {
+button, input, select, textarea {
 	padding: 5px;
 	margin: 5px 0;
 	max-width: 100%;
+	border: none;
+}
+input[type="text"], textarea, select {
+	background: #444;
+	border: 1px solid #222;
+	padding: 10px 10px;
 }
 a, a:link, a:visited {
 	color: #0ba2d1;
@@ -170,6 +176,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	width: 300px;
 	height: 200px;
 	border: 0;
+	overflow: hidden;
 }
 #contact-form {
 
