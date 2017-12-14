@@ -163,6 +163,10 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 
 #hotel-booking-link, #hotel-booking-link body {background:none;}
+#contact-form {
+	width: 300px;
+	height: 200px;
+}
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
