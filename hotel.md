@@ -34,7 +34,7 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 ## Book A Room
 
 The hotel booking link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
-To be even nicer to our webserver, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this page instead.</a>
+For an even faster experience, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this stripped-down page instead.</a>
 
 <iframe style="border:none;height:75px;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
