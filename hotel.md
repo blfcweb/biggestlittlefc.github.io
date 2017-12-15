@@ -33,7 +33,8 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 
 ## Book A Room
 
-This page will update with the booking link on **{{ page.launchtime }}.** The link will appear in this spot.
+This page will update with the booking link on **{{ page.launchtime }}.** The link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
+To be even nicer to our webserver, use <a target="_blank" href="api.goblfc.org/hotel.php">this page instead.</a>
 
 <iframe style="border:none;height:75px;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
@@ -45,7 +46,7 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
-<!-- - If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor. -->
+- If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
 
 ## Room Types
 
@@ -59,7 +60,7 @@ Rooms on higher floors. Remodeled in 2013.
 - 4 days: ${{ page.prices.basic4 }} per night, plus taxes and fees
 - 5 days: ${{ page.prices.basic5 }} per night, plus taxes and fees
 
-### The A Hotel
+### The "A" Hotel
 
 Remodeled in 2017.
 
@@ -89,12 +90,12 @@ We've arranged a floor for people who want to hold private gatherings in their s
 
 There are limitations to keep in mind:
 
-- The floor right above the hospitality floor is expected to be the only smoking floor in the hotel, so there will be some regular hotel guests above your heads. This will probably not be an issue next year, but it is this year.
-- Subwoofers are not allowed at all this year, because of the proximity to the smoking floor directly above.
+- The floor right above the hospitality floor is expected to be the only smoking floor in the hotel, so there will be some regular hotel guests above your heads. This will probably not be an issue next year, but it is this year. If you smoke and don't mind a little noise, please book a smoking room so we can fill that floor with our congoers instead of regular guests.
+- Subwoofers are not allowed at all this year, because of the general guests in the smoking floor directly above.
 - Being on the hospitality floor makes it *less* likely for you to get a noise complaint, but it's not a guarantee; noise still travels through floors and ceilings.
 - It's still *your* sleeping room, so *you* are responsible for any damages. Don't let your gatherings get out of hand.
 - Make a good impression: If you see any mess in the hall, *clean it up,* even if the mess isn't your fault.
-- You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. This goes for music too.
+- You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. Keep music below yelling volume too.
 - Quiet it down a bit more after midnight.
 - If hotel security or FLARE tells you to tone it down, do so immediately.
 - Seriously, don't start a howl. Yelling and screaming is the quickest way to noise complaints. Save that racket for inside convention hangout space.
