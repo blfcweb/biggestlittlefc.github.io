@@ -37,9 +37,8 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 
 <iframe style="border:none;height:75px;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
-<!--uncomment this line at 11am
-<a title="Book a Room" target="_blank" rel="noopener noreferrer" href="https://goo.gl/tbuJFk">Book A Room</a>
--->
+<div style="display:none"><a title="Book a Room" target="_blank" rel="noopener noreferrer" href="https://goo.gl/tbuJFk">Book a Room now!</a></div>
+
 
 - **Tip: during the initial booking rush, book your room for just yourself, and after confirmation, edit it to add roommates.**
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
@@ -48,7 +47,7 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
-- If you happen to be a smoker, and you're willing to be right above the Hospitality Floor, please request a smoking room when you make your reservation, if you're able. It helps us have less non-con guests on that floor.
+<!-- - If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.-->
 
 ## Room Types
 
