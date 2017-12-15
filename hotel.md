@@ -46,15 +46,15 @@ To be even nicer to our webserver, use <a target="_blank" href="api.goblfc.org/h
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
-- If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
+- If you smoke, and can tolerate some noise from the Hospitality Floor: get your reservation done as quick as you can, then edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
 
 ## Room Types
 
-Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily). Thanks to the 2017 remodel, almost all rooms now have a microwave and refrigerator.
+Rooms include free wireless internet, a free airport shuttle (runs every half hour), free parking, and free bottled water in your room (refreshed daily).
 
 ### The Summit at Grand Sierra
 
-Rooms on higher floors. Remodeled in 2013.
+Remodeled in 2013. Rooms on higher floors. Rooms have fridges and microwaves.
 
 - 3 days: ${{ page.prices.basic3 }} per night, plus taxes and fees
 - 4 days: ${{ page.prices.basic4 }} per night, plus taxes and fees
@@ -62,14 +62,13 @@ Rooms on higher floors. Remodeled in 2013.
 
 ### The "A" Hotel
 
-Remodeled in 2017.
+Remodeled in 2017. Rooms now have fridges, after the remodel.
 
 - 3 days: ${{ page.prices.premium3 }} per night, plus taxes and fees
 - 4 days: ${{ page.prices.premium4 }} per night, plus taxes and fees
 - 5 days: ${{ page.prices.premium5 }} per night, plus taxes and fees
 
 Prices shown are based on average per-night cost. Taxes and fees apply: Add $25/night resort fee, $2/night tourism fee, and 13% tax.
-
 Automated emails may mention a charge for 3rd and 4th roommates, but those are waived if you book in our block.
 
 <div class="accordion-list">
