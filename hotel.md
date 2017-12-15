@@ -47,7 +47,7 @@ This page will update with the booking link on **{{ page.launchtime }}.** The li
 - To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
-<!-- - If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.-->
+- If you smoke, and can tolerate some noise from the Hospitality Floor, please edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
 
 ## Room Types
 
