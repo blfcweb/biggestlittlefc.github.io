@@ -115,14 +115,24 @@ a.home-button {
 /* --------------------------------------------------------------------- /contact/ --------------------------------------------------------------------- */
 #contact-iframe {
 	width: 300px;
-	height: 200px;
+	height: 450px;
 	border: 0;
 	overflow: hidden;
+	margin: 0 auto;
+	display: block;
 }
 #contact-form {
 
 }
+.contact-fieldset {
+	padding: 5px 0;
+}
 .contact-fieldset label {
 	display: block;
+	text-transform: uppercase;
+	font-size: 13px;
+	line-height: 15px;
 }
-
+.contact-fieldset input, .contact-fieldset select, .contact-fieldset textarea {
+	width: 100%;
+}
