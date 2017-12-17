@@ -114,8 +114,8 @@ a.home-button {
 
 /* --------------------------------------------------------------------- /contact/ --------------------------------------------------------------------- */
 #contact-iframe {
-	width: 300px;
-	height: 450px;
+	width: 400px;
+	height: 550px;
 	border: 0;
 	overflow: hidden;
 	margin: 0 auto;
@@ -135,4 +135,18 @@ a.home-button {
 }
 .contact-fieldset input, .contact-fieldset select, .contact-fieldset textarea {
 	width: 100%;
+}
+.form-notice,
+.form-success,
+.form-error {
+	border-left: 5px solid #888;
+	padding: 5px 15px;
+	background: #555;
+	margin-bottom: 10px;
+}
+.form-success {
+	border-color: green;
+}
+.form-error {
+	border-color: red;
 }
