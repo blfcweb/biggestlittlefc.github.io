@@ -56,7 +56,7 @@ button, input, select, textarea {
 	max-width: 100%;
 	border: none;
 }
-input[type="text"], textarea, select {
+input[type="text"],input[type="email"], textarea, select {
 	background: #444;
 	border: 1px solid #222;
 	padding: 10px 10px;
@@ -166,20 +166,6 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	padding: 10px 30px;
 	background: #101010;
 	text-shadow: -2px 1px 0 #000;
-}
-
-#hotel-booking-link, #hotel-booking-link body,
-	#contact_form, #contact_form body {
-		background:none;
-}
-#contact-iframe {
-	width: 300px;
-	height: 200px;
-	border: 0;
-	overflow: hidden;
-}
-#contact-form {
-
 }
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
@@ -312,7 +298,6 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	display: table-cell;
 	vertical-align: middle;
 }
-
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #footer {
 	color: #fff;
