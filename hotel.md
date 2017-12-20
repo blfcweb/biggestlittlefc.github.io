@@ -36,7 +36,7 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 The hotel booking link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
 For an even faster experience, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this stripped-down page instead.</a>
 
-<iframe style="border:none;height:75px;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
+<iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
 
 - **Tip: during the initial booking rush, book your room for just yourself, and after confirmation, edit it to add roommates.**
