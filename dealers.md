@@ -77,7 +77,7 @@ BLFC offers two types of vendor experiences:
 
 ### Optional upgrades
 
-- **Electricity upgrade** - ${{ page.price.booth }} <small>(up to 500 watts, more than 500 watts costs extra</small>
+- **Electricity upgrade** - ${{ page.price.electricity }} <small>(up to 500 watts, more than 500 watts costs extra</small>
 - **Black Market upgrade** - ${{ page.price.blackmarket }} <small>(allows open display of 18+ content! Includes 18+ age check at the entrance!)</small>
 - **Additional vendor permit** - ${{ page.price.extrapermit }} (For sharing a table with a friend!)
 - **Additional 8'x2.5' table** - ${{ page.price.extratable }} for Standard, ${{ page.price.extrabooth }} for Booth
