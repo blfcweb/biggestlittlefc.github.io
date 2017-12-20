@@ -2,14 +2,14 @@
 title: Dealer's Den
 status: LIVE
 open: 
-  friday: "TBD"
-  saturday: "TBD"
-  sunday: "TBD"
+  friday: "12PM-6PM"
+  saturday: "11AM-6PM"
+  sunday: "11AM-5PM"
 setup:
-  thursday: "TBD"
-  friday: "TBD"
-  saturday: "TBD"
-  sunday: "TBD"
+  thursday: "1PM-8PM"
+  friday: "10AM-7PM"
+  saturday: "10AM-7PM"
+  sunday: "10AM-8PM"
 price:
   standard: "100"
   booth: "200"
