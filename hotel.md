@@ -43,7 +43,7 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
 - To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
-- To book a suite, book by phone and give them our booking code. Suites are discounted a fixed percentage from their normal rate.
+- To book a suite, book by phone and give them our booking code. Suites in the Summit level are discounted 25%. Suites in the A Hotel are not discounted this year.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the Hospitality Floor, book a regular room when booking opens, and we will assign you to that floor in a separate process.
 - If you smoke, and can tolerate some noise from the Hospitality Floor: get your reservation done as quick as you can, then edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
