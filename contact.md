@@ -12,3 +12,5 @@ status: LIVE
 <div class="one_half">
 <iframe id="contact-iframe" src="https://api.goblfc.org/contact.php?iframe=true"></iframe>
 </div>
+
+<div class="clear"></div>
