@@ -8,8 +8,6 @@ We welcome once again <a href="http://www.safehaven-wildlife.com/" target="_blan
 
 Safe Haven Wildlife Sanctuary is a non-profit, wildlife rehabilitative center located in Imlay, Nevada. Providing rehabilitative services and permanent placement for animals in need. They also respond to assistance requests from state and federal agencies, law enforcement, veterinarians, and concerned citizens.
 
-They had an amazing time at the convention in 2016 and they are excited to be back.
-
 Please visit <a href="http://www.safehaven-wildlife.com/" target="_blank">the Safe Haven website</a> or <a href="http://safehavenwildlife.com/donate/donate-online/" target="_blank">donate now</a>
 
 Donations using this button go directly to Safe Haven, and flag your donation so they know it came from a BLFC attendee! Your donation to Safe Haven is tax-deductible.
