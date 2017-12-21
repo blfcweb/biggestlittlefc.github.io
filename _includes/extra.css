@@ -156,6 +156,7 @@ a.home-button {
 #contact-social {
 	margin: 0;
 	padding: 30px 0;
+	text-align: center;
 }
 #contact-social li {
 	list-style: none;
