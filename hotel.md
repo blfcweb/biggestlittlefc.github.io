@@ -113,7 +113,7 @@ By gathering together the conversation noise in one place, we reduce how many no
 : Our block is sold out, but the hotel still has rooms. We recommend you <a href="http://rooms.grandsierraresort.com" target="_blank">book a general-priced room using the GSR website</a>. There are no shuttle services to other hotels. There is <a href="https://www.google.com/maps/place/Baymont+Inn+and+Suites+Reno/@39.5214178,-119.7871447,15.75z/data=!4m8!3m7!1s0x0:0xd92b572278d291d6!5m2!1s2017-06-01!2i4!8m2!3d39.5197985!4d-119.7870469">one small motel within walking distance</a>; it is not an official overflow and is not making any special arrangements for our attendees.-->
 
 What is the Resort Fee?
-: This hotel charges a resort fee in addition to your room rate, which pays for the airport shuttle, parking, pool, gym, internet, and free bottled water.
+: This hotel charges a daily resort fee in addition to your room rate, which pays for the airport shuttle, parking, pool, gym, internet, and free bottled water.
 
 What is the Tourism Fee?
 : A fee mandated by the City of Reno for all hotels, instituted in 2015.
