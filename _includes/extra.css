@@ -159,20 +159,24 @@ a.home-button {
 }
 #contact-social li {
 	list-style: none;
-	line-height: 1em;
-	padding: 3px;
 	display: inline-block;
-	font-size: 0px;
 }
 #contact-social a {
 	color: inherit;
 	transition: color 0.25s ease-in-out 0s;
 	display: inline-block;
-	padding: 10px;
+	/* padding: 40px; */
+	transition: all .75s ease-in-out 0s;
+	width: 125px;
+	height: 125px;
+	line-height: 125px;
+	font-size: 0px;
 }
 #contact-social a:hover {
-	color: #75005C;
+	background-color: #75005C;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
 }
 #contact-social .fa::before {
-	font-size: 17px;
+	font-size: 40px;
 }
