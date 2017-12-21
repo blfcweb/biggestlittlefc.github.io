@@ -93,6 +93,7 @@ There are limitations to keep in mind:
 - Subwoofers are not allowed at all this year, because of the general guests in the smoking floor directly above.
 - Being on the hospitality floor makes it *less* likely for you to get a noise complaint, but it's not a guarantee; noise still travels through floors and ceilings.
 - It's still *your* sleeping room, so *you* are responsible for any damages. Don't let your gatherings get out of hand.
+- *You* are responsible if anyone underage is found in your room with alcohol, or if anyone at all is found in your room with illegal drugs. It doesn't matter where they got them from.
 - Make a good impression: If you see any mess in the hall, *clean it up,* even if the mess isn't your fault.
 - You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. Keep music below yelling volume too.
 - Quiet it down a bit more after midnight.
