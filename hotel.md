@@ -50,7 +50,7 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 
 ## Room Types
 
-Rooms also require a $25 resort fee which pays for wireless internet, an airport shuttle (runs every half hour), parking, bottled water in your room (refreshed daily). The resort fee (plus tax) is charged separately when you check in.
+Rooms also require a daily $25 resort fee which pays for wireless internet, an airport shuttle (runs every half hour), parking, bottled water in your room (refreshed daily). The resort fee (plus tax) is charged separately when you check in.
 
 ### The Summit at Grand Sierra
 
