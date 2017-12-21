@@ -114,12 +114,13 @@ a.home-button {
 
 /* --------------------------------------------------------------------- /contact/ --------------------------------------------------------------------- */
 #contact-iframe {
-	width: 400px;
-	height: 550px;
+	max-width: 400px;
+	height: 600px;
 	border: 0;
 	overflow: hidden;
 	margin: 0 auto;
 	display: block;
+	width: 100%;
 }
 #contact-form {
 
