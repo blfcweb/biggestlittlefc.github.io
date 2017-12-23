@@ -69,6 +69,5 @@ toc:
         url: "/volunteer/host/"
       - page: Con book design
         url: "/volunteer/conbook/"
-##      - page: Contact
-##        url: "/"
-#
+      - page: Contact
+        url: "/"
