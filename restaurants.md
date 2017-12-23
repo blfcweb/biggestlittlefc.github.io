@@ -1,14 +1,22 @@
 ---
 title: Restaurants
+status: LIVE
 ---
+
+{::options parse_block_html="true" /}
+
 <div id="restaurant-cards">
 
-<div class="chunk-bucket one_half" style="background-image:url(https://www.grandsierraresort.com/images/starbucks_grand-sierra-resort_640x360.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://www.grandsierraresort.com/dining-and-lounges/starbucks" target="_blank" title="Starbucks" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://www.grandsierraresort.com/dining-and-lounges/starbucks" target="_blank" title="Starbucks">Starbucks</a></h3><span class="bucket-content"><p>
+<div class="chunk-bucket one_half" style="background-image:url(https://www.grandsierraresort.com/images/starbucks_grand-sierra-resort_640x360.jpg);">
+<div class="bucket-wrap">
+<a class="bucket-lynx" href="https://www.grandsierraresort.com/dining-and-lounges/starbucks" target="_blank" title="Starbucks" style="background-image:url();"></a>
+<h3 class="bucket-title"><a href="https://www.grandsierraresort.com/dining-and-lounges/starbucks" target="_blank" title="Starbucks">Starbucks</a></h3>
+<span class="bucket-content">
 <strong>Coffee, Pastries</strong><br>
 THU: 5AM - 8PM<br>
 FRI: 5AM - 10PM<br>
 SAT: 5AM - 10PM<br>
-SUN: 5AM - 8PM </p>
+SUN: 5AM - 8PM
 </span><div class="clear"></div></div></div>
 
 <div class="chunk-bucket one_half" style="background-image:url(https://www.grandsierraresort.com/images/Grand_Sierra_Resort_2nd_Street_Express_640x360.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://www.grandsierraresort.com/dining-and-lounges/2nd-street-cafe-express" target="_blank" title="2nd Street Café Express" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://www.grandsierraresort.com/dining-and-lounges/2nd-street-cafe-express" target="_blank" title="2nd Street Café Express">2nd Street Café Express</a></h3><span class="bucket-content"><p>
