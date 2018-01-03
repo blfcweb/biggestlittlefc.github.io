@@ -300,6 +300,23 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	vertical-align: middle;
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
+#sticky-foot {
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	left: 0;
+	right: 0;
+	background-color: #101010;
+	padding: 20px;
+	z-index: 1;
+}
+#sticky-foot h3 {
+	display: inline-block;
+	padding: 0 10px;
+	line-height: 42px;
+	margin: 0;
+	vertical-align: middle;
+}
 #footer {
 	color: #fff;
 	font-size: 14px;
