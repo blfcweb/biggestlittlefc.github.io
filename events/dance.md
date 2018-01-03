@@ -1,5 +1,6 @@
 ---
 title: Dances
+status: LIVE
 ---
 
 DJ Signups now available: <a href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
