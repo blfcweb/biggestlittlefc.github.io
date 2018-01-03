@@ -3,9 +3,9 @@ title: Dances
 status: LIVE
 ---
 
-DJ Signups now available: <a href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
+DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
 
 
 
 
-<a class="button" href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
+<a href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
