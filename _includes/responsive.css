@@ -22,6 +22,8 @@
 	* > .one_fifth:nth-of-type(3n+1) {clear:none;}
 	* > .one_fifth:nth-of-type(2n+1) {clear:left;}
 	.one_third, .one_fifth.last {float: none;clear: both;margin:0 auto;}
+	#sticky-foot h3 {font-size: 16px;line-height: 17px;}
+	#sticky-foot .button {padding: 2px 12px;font-size: 14px;line-height: 23px;}
 }
 
 @media all and (max-width: 480px)  {

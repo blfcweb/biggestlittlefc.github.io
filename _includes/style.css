@@ -327,7 +327,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	transition: all 0.5s ease-in-out 0s;
 }
 #sticky-foot .button:hover {
-	background-color: #3999bf;
+	background-color: #08394c;
 	text-shadow: 0 0 1px #fff, 0 0 5px #fff;
 	box-shadow: 0 0 5px #fff, 0 0 3px #fff, 0 0 15px #066a92, 0 0 10px #066a92, 0 0 5px #066a92, 0 0 3px #066a92;
 }
