@@ -38,8 +38,8 @@ toc:
         url: "/bazaar/"
 #      - page: Dance Comp.
 #        url: "/events/dance-comp/"
-#      - page: Dance
-#        url: "/events/dance/"
+      - page: Dance
+        url: "/events/dance/"
       - page: Dealers Den
         url: "/dealers/"
 #      - page: Competitions

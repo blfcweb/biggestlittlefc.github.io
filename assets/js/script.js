@@ -30,4 +30,33 @@ jQuery(document).ready(function($) {
 		$(this).toggleClass('accordion-open').next('dd').slideToggle(400);
 	});
 
+
+// Sticky Footer stop
+	var docHeight = $(document).height();
+	var winHeight = $(window).height();
+	var footHeight = $('#footer').height();
+
+	if ( ( docHeight - footHeight ) > winHeight ) {
+		
+		
+		$('#sticky-foot').css({'position' : 'fixed'});
+
+		var stickyStop = docHeight - footHeight - winHeight;
+		
+		$(window).scroll(function(){
+
+			var wScroll = $(this).scrollTop();
+
+			// Sticky message stop
+				if ( wScroll > stickyStop ) {
+					$('#sticky-foot').css({'position' : 'static'});
+				} else {
+					$('#sticky-foot').css({'position' : 'fixed'});
+				}
+
+		});
+
+	}
+
+
 });

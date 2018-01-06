@@ -88,14 +88,15 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	background: url("/assets/theme/bg-page-title.jpg") no-repeat scroll center center/cover;
 	text-align: center;
 	padding: 20vh 0;
-	font-size: 50px;
-	text-shadow: -1px 2px 2px rgba(0,0,0,0.8);
-	border-radius: 0 0 70% 70% / 20px;
+	font-size: 60px;
+	border-radius: 0 0 70% 70%/ 20px;
 	border-bottom: 2px solid #bababa;
-	box-shadow: 0 10px 5px rgba(0,0,0,.5);
+	box-shadow: 0 10px 5px rgba(0,0,0,0.5);
+	text-shadow: -1px 2px 2px rgba(0,0,0,0.8);
 	margin: 0 0 -20px;
 	position: relative;
 	color: #fff;
+	font-weight: normal;
 }
 .page-wrapper {
 	width: 98vw;
@@ -299,6 +300,36 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	vertical-align: middle;
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
+#sticky-foot {
+	bottom: 0;
+	text-align: center;
+	left: 0;
+	right: 0;
+	background-color: #101010;
+	padding: 20px;
+	z-index: 11;
+	box-shadow: 0 -8px 11px rgba(0,0,0,0.5);
+}
+#sticky-foot h3 {
+	display: inline-block;
+	padding: 0 10px;
+	line-height: 42px;
+	margin: 0;
+	vertical-align: middle;
+	color: #fff;
+	text-shadow: 0 0 2px #fff, 0 0 1px #fff, 0 0 10px #ff00de, 0 0 2px #ff00de, 0 0 2px #ff00de, 0 0 2px #ff00de;
+	font-size: 33px;
+	font-weight: normal;
+}
+#sticky-foot .button {
+	box-shadow: 0 0 2px #fff, 0 0 1px #fff, 0 0 10px #066a92, 0 0 2px #066a92, 0 0 2px #066a92, 0 0 2px #066a92;
+	transition: all 0.5s ease-in-out 0s;
+}
+#sticky-foot .button:hover {
+	background-color: #08394c;
+	text-shadow: 0 0 1px #fff, 0 0 5px #fff;
+	box-shadow: 0 0 5px #fff, 0 0 3px #fff, 0 0 15px #066a92, 0 0 10px #066a92, 0 0 5px #066a92, 0 0 3px #066a92;
+}
 #footer {
 	color: #fff;
 	font-size: 14px;
