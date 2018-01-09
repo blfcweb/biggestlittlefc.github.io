@@ -18,6 +18,8 @@ toc:
     subfolderitems:
       - page: Theme
         url: "/theme/"
+      - page: Music
+        url: "/music/"
 ##      - page: Story
 ##        url: "/"
 ##      - page: Guidelines
