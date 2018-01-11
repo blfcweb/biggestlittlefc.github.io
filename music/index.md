@@ -13,13 +13,34 @@ Biggest Little Fur Con
 Fox Amore &amp; Pepper Coyote
 </div>
 
-<div class="one-full bg-two textcenter">
+<div class="one-full bg-three textcenter">
 <h2>Cast of Characters</h2>
 
 <ul id="card-characters">
-<li>Jessie Jones as THISTLE</li>
-<li>Roman Dook as CLOVER</li>
-<li>Brianna Antilles as BAZ</li>
-<li>Sam Parker as SAHNY</li>
+	<li>
+		<img src="/assets/theme/art-thistle.jpg">
+		Jessie Jones
+		<em>as</em>
+		<strong>THISTLE</strong>
+	</li>
+	<li>
+		<img src="/assets/theme/art-clover.jpg">
+		Roman Dook
+		<em>as</em>
+		<strong>CLOVER</strong>
+	</li>
+	<li>
+		<img src="/assets/theme/art-baz.jpg">
+		Brianna Antilles
+		<em>as</em>
+		<strong>BAZ</strong>
+	</li>
+	<li>
+		<img src="/assets/theme/art-sahny.jpg">
+		Sam A. Parker
+		<em>as</em>
+		<strong>SAHNY</strong>
+	</li>
 </ul>
+<div class="clear"></div>
 </div>
