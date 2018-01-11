@@ -1,0 +1,10 @@
+---
+layout: empty
+---
+<div id="template-empty">
+{% if page.status == "LIVE" %}
+  {{ content }}
+{% else %}
+  <h2>This content is undergoing revision. Please come back later.</h2>
+{% endif %}
+</div>

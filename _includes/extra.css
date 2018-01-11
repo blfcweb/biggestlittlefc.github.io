@@ -181,3 +181,22 @@ a.home-button {
 #contact-social .fa::before {
 	font-size: 40px;
 }
+/* --------------------------------------------------------------------- /music/ --------------------------------------------------------------------- */
+#template-empty {
+	padding-top: 60px;
+}
+#titlecard {
+	font-size: 27px;
+	line-height: 1.5em;
+	text-align: center;
+	padding-bottom: 50px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+#titlecard em {
+	font-size: 18px;
+	display: block;
+}
+#titlecard h1 {
+	padding: 20px 0;
+}

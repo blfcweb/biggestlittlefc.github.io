@@ -1,24 +1,25 @@
 ---
 title: "BLFC: A Musical Tail"
 status: LIVE
+layout: empty
 ---
-<div class="textcenter">
+{::options parse_block_html="true" /}
 
+<div id="titlecard">
 Biggest Little Fur Con
-
-*presents*
-
-"BLFC: A Musical Tail"
-
-*with performance by*
-
-Fox Amore & Pepper Coyote
-
+<em>presents</em>
+<h1>"BLFC: A Musical Tail"</h1>
+<em>with performance by</em>
+Fox Amore &amp; Pepper Coyote
 </div>
 
-## Cast of Characters
+<div class="one-full bg-two textcenter">
+<h2>Cast of Characters</h2>
 
-Jessie Jones as THISTLE
-Roman Dook as CLOVER
-Brianna Antilles as BAZ
-Sam Parker as SAHNY
+<ul id="card-characters">
+<li>Jessie Jones as THISTLE</li>
+<li>Roman Dook as CLOVER</li>
+<li>Brianna Antilles as BAZ</li>
+<li>Sam Parker as SAHNY</li>
+</ul>
+</div>
