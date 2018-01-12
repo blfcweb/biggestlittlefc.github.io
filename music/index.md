@@ -14,10 +14,11 @@ Fox Amore &amp; Pepper Coyote
 </div>
 
 
-<div id="card-playlist" class="one-full bg-two">
+<div id="card-playlist" class="textcenter one-full bg-two">
 <h2>Song list</h2>
+<p>Click the title to listen now!</p>
 <ol>
-	<li>"One Weekend" <a href="http://www.furaffinity.net/view/26022927/" target="_blank">[Listen Now!]</a></li>
+	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend"</a></li>
 	<li>TBA</li>
 	<li>TBA</li>
 	<li>TBA</li>
