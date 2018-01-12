@@ -13,6 +13,26 @@ Biggest Little Fur Con
 Fox Amore &amp; Pepper Coyote
 </div>
 
+
+<div id="card-playlist" class="one-full bg-two">
+<h2>Song list</h2>
+<ol>
+	<li>"One Weekend" <a href="http://www.furaffinity.net/view/26022927/" target="_blank">[Listen Now!]</a></li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+	<li>TBA</li>
+</ol>
+
+<div class="clear"></div>
+</div>
+
+
 <div id="card-characters-container" class="one-full bg-three textcenter">
 <h2>Cast of Characters</h2>
 
@@ -45,11 +65,3 @@ Fox Amore &amp; Pepper Coyote
 <div class="clear"></div>
 </div>
 
-<div id="card-playlist" class="one-full">
-<h2>Playlist</h2>
-<ul>
-	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">One Weekend</a> <small><a href="/music/one-weekend">[lyrics]</a></small></li>
-</ul>
-
-<div class="clear"></div>
-</div>
