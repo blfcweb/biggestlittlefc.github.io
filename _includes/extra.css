@@ -210,8 +210,6 @@ a.home-button {
 }
 #card-characters li {
 	list-style: none;
-	width: 25%;
-	float: left;
 	padding: 20px;
 	font-size: 16px;
 	color: #aaa;
