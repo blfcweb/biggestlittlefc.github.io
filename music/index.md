@@ -17,25 +17,25 @@ Fox Amore &amp; Pepper Coyote
 <h2>Cast of Characters</h2>
 
 <ul id="card-characters">
-	<li>
+	<li class="one_fourth">
 		<img src="/assets/theme/art-thistle.jpg">
 		Jessie Jones
 		<em>as</em>
 		<strong>THISTLE</strong>
 	</li>
-	<li>
+	<li class="one_fourth">
 		<img src="/assets/theme/art-clover.jpg">
 		Roman Dook
 		<em>as</em>
 		<strong>CLOVER</strong>
 	</li>
-	<li>
+	<li class="one_fourth">
 		<img src="/assets/theme/art-baz.jpg">
 		Brianna Antilles
 		<em>as</em>
 		<strong>BAZ</strong>
 	</li>
-	<li>
+	<li class="one_fourth">
 		<img src="/assets/theme/art-sahny.jpg">
 		Sam A. Parker
 		<em>as</em>
