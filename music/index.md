@@ -13,7 +13,7 @@ Biggest Little Fur Con
 Fox Amore &amp; Pepper Coyote
 </div>
 
-<div class="one-full bg-three textcenter">
+<div id="card-characters-container" class="one-full bg-three textcenter">
 <h2>Cast of Characters</h2>
 
 <ul id="card-characters">

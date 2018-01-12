@@ -6,7 +6,7 @@ layout: empty
 
 {::options parse_block_html="true" /}
 
-<div class="textcenter">
+<div class="block-lyrics bg-two textcenter">
 <h1>"One Weekend" <br> <small>by Fox Amore &amp; Pepper Coyote</small>
 </h1>
 <pre style="font-style: italic;">

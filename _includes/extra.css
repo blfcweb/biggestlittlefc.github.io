@@ -200,6 +200,9 @@ a.home-button {
 #titlecard h1 {
 	padding: 20px 0;
 }
+#card-characters-container {
+	padding: 40px 20px;
+}
 #card-characters {
 	margin: 0;
 	padding: 0;
@@ -226,4 +229,8 @@ a.home-button {
 	font-size: 27px;
 	letter-spacing: 4px;
 	line-height: 40px;
+}
+#card-playlist {
+	max-width: 300px;
+	margin: 80px auto;
 }
