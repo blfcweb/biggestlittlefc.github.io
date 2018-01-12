@@ -221,6 +221,8 @@ a.home-button {
 #card-characters img {
 	display: block;
 	margin: 0 auto;
+	border: 3px solid;
+	box-shadow: -7px 9px 8px rgba(0,0,0,0.5);
 }
 #card-characters em {
 	display: block;
