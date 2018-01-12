@@ -33,6 +33,10 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding-bottom: 0.5em;
 }
+h1 small {
+	font-size: 20px;
+	color: #555;
+}
 h2 {
 	font-size: 35px;
 }
@@ -301,6 +305,8 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #sticky-foot {
+	position: fixed;
+	position: sticky;
 	bottom: 0;
 	text-align: center;
 	left: 0;

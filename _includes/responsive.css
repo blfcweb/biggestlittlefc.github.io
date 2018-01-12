@@ -24,6 +24,9 @@
 	.one_third, .one_fifth.last {float: none;clear: both;margin:0 auto;}
 	#sticky-foot h3 {font-size: 16px;line-height: 17px;}
 	#sticky-foot .button {padding: 2px 12px;font-size: 14px;line-height: 23px;}
+
+	#template-empty {padding-top: 110px;}
+	#titlecard h1 {font-size: 40px;}
 }
 
 @media all and (max-width: 480px)  {

@@ -181,3 +181,64 @@ a.home-button {
 #contact-social .fa::before {
 	font-size: 40px;
 }
+/* --------------------------------------------------------------------- /music/ --------------------------------------------------------------------- */
+#template-empty {
+	padding-top: 60px;
+}
+#titlecard {
+	font-size: 27px;
+	line-height: 1.5em;
+	text-align: center;
+	padding-bottom: 50px;
+	max-width: 700px;
+	margin: 0 auto;
+}
+#titlecard em {
+	font-size: 18px;
+	display: block;
+}
+#titlecard h1 {
+	padding: 0;
+	line-height: 1.25em;
+}
+#titlecard p {
+	margin: 0;
+}
+#card-characters-container {
+	padding: 40px 20px;
+}
+#card-characters {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+#card-characters li {
+	list-style: none;
+	padding: 20px;
+	font-size: 16px;
+	color: #aaa;
+}
+#card-characters img {
+	display: block;
+	margin: 0 auto;
+}
+#card-characters em {
+	display: block;
+	line-height: 10px;
+}
+#card-characters strong {
+	color: #fff;
+	font-size: 27px;
+	letter-spacing: 4px;
+	line-height: 40px;
+}
+#card-playlist {
+	padding: 80px 10px;
+}
+#card-playlist li {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.block-lyrics {
+	padding: 40px 0;
+}
