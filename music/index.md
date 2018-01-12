@@ -18,7 +18,7 @@ Fox Amore &amp; Pepper Coyote
 <h2>Song list</h2>
 <p>Click the title to listen now! The lyrics are in the description.</p>
 <ol>
-	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend" sampler</a></li>
+	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend" <small>(sampler)</small></a></li>
 	<li>TBA</li>
 	<li>TBA</li>
 	<li>TBA</li>

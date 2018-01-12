@@ -199,6 +199,10 @@ a.home-button {
 }
 #titlecard h1 {
 	padding: 0;
+	line-height: 1.25em;
+}
+#titlecard p {
+	margin: 0;
 }
 #card-characters-container {
 	padding: 40px 20px;
@@ -229,7 +233,7 @@ a.home-button {
 	line-height: 40px;
 }
 #card-playlist {
-	padding: 80px;
+	padding: 80px 10px;
 }
 #card-playlist li {
 	font-size: 24px;
