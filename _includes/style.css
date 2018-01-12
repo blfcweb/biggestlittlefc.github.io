@@ -305,6 +305,8 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 /* ---- FOOTER ------------------------------------------------------------------------------------------------------------------------------------- */
 #sticky-foot {
+	position: fixed;
+	position: sticky;
 	bottom: 0;
 	text-align: center;
 	left: 0;

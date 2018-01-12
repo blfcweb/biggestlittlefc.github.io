@@ -46,13 +46,14 @@ jQuery(document).ready(function($) {
 		$(window).scroll(function(){
 
 			var wScroll = $(this).scrollTop();
-
+		/*
 			// Sticky message stop
 				if ( wScroll > stickyStop ) {
 					$('#sticky-foot').css({'position' : 'static'});
 				} else {
 					$('#sticky-foot').css({'position' : 'fixed'});
 				}
+		//*/
 
 		});
 
