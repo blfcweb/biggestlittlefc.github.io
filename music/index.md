@@ -44,3 +44,12 @@ Fox Amore &amp; Pepper Coyote
 </ul>
 <div class="clear"></div>
 </div>
+
+<div id="" class="one-full ">
+	<h2>Playlist</h2>
+	<ul>
+		<li><a href="/music/one-weekend">One Weekend</a> <small><a href="http://www.furaffinity.net/view/26022927/" target="_blank">[Listen]</a></small></li>
+	</ul>
+
+<div class="clear"></div>
+</div>
