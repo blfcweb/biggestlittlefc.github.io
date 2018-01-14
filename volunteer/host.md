@@ -4,9 +4,7 @@ status: LIVE
 ---
 Help us help you entertain our others.
 
-<!-- <a class="button" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe1TvbLGnfsaW58Jw0jkSVvffsdtG9UBiYNO7qHKgfR7w3Q0w/viewform">Host a Panel or Event</a> -->
-
-**SUBMISSIONS COMING SOON!**
+[Host a Panel or Event][1]
 
 ---
 
@@ -75,3 +73,7 @@ Examples:
 - **Will an ASL interpreter be available?** - We will be hiring an ASL interpreters. Not every event will have an interpreter, but the most-requested ones will. If you happen to be ASL-fluent and want to volunteer to be an interpreter, please <a href="/contact/">contact the panels lead</a>.
 - **What are Meet &amp; Greets?** - Our primary goal is to get people together to make new friends. If you have a specific interest and want to meet like-minded new friends, please declare a Meet &amp; Greet. M&G hosts don't really have to prepare or do anything except to declare the M&amp;G is happening, and attend.
 - **What panels are happening?** - Closer to the con, we will post the live working-copy schedule, which will update repeatedly as panels are added and juggled, and settle down to a final schedule about two weeks before the con.
+
+
+[signuplink]: https://docs.google.com/forms/d/e/1FAIpQLSe4bfsDydMyg8Koj1D67I2P4ZixboELcM1tfb2F3cPYuaDm8Q/viewform?usp=send_form
+{:title="Host an Event at BLFC" class="button" target="_blank" rel="noopener noreferrer"}
