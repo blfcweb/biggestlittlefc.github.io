@@ -16,8 +16,10 @@ toc:
 #        url: "/policies/"
   - title: Theme
     subfolderitems:
-      - page: Theme
-        url: "/theme/"
+#      - page: Theme
+#        url: "/theme/"
+      - page: Music
+        url: "/music/"
 ##      - page: Story
 ##        url: "/"
 ##      - page: Guidelines
