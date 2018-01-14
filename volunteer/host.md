@@ -4,7 +4,7 @@ status: LIVE
 ---
 Help us help you entertain our others.
 
-[Host a Panel or Event][1]
+[Host a Panel or Event][signuplink]
 
 ---
 
