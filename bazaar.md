@@ -15,7 +15,7 @@ price:
   threeday: "40"
   twoday: "30"
   oneday: "20"
-approvaldate: "December 30th"
+approvaldate: "February 28th"
 ---
 <!--
 ## Sale Hours & Location
