@@ -2,6 +2,9 @@
 title: Art Show
 status: LIVE
 
+duedates:
+	mailin: "TBD"
+	atcon: "TBD"
 times: 
   friday: "TBD"
   saturday: "TBD"
@@ -12,6 +15,7 @@ setup:
   saturday: "TBD"
   sunday: "TBD"
 price:
+  hiprice: "7.75"
   taxrate: "7.75"
   confee:  "7.36"
 ---
@@ -19,6 +23,7 @@ price:
 ## Artist Signup
 
 The artist application sign up is coming soon. Please stay tuned!
+<!--
 
 ## Rules for Artists
 
@@ -26,6 +31,9 @@ The artist application sign up is coming soon. Please stay tuned!
 
 Pricing & Sharing
 : Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a 15% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.taxrate }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
+
+'High Value' and 'Not For Sale' Pieces
+: For items with starting bids $100 or higher, or not-for-sale pieces, a $3 listing fee applies. The listing fee is refunded if the item sells.
 
 Content & Maturity Level
 : The art show will be divided into a general section and an adult section. Anything depicting nudity, violence, or sexual acts must be placed in the adult section. Non-adult artwork is allowed in the adult section (if an artist has mixed-maturity art but wants to keep all their work displayed together).
@@ -35,9 +43,6 @@ Displaying Art
 
 What Happens When Someone Doesn't Pay
 : Bidders who do not pay their bids by 5:00pm Sunday will be fined for 25% of their total unpaid bids, will be banned from bidding in next year's art show, and will also be blocked from attending the con again until their fine is paid. In this event, the artist will be contacted and given the option to either offer the piece to the 2nd highest bidder, or cancel the item and have it returned. Any fines collected from the bidder will be paid to the artist along with their art show payment.
-
-'High Value' and 'Not For Sale' Pieces
-: For items with starting bids $100 or higher, or not-for-sale pieces, a $3 listing fee applies. The listing fee is refunded if the item sells.
 
 Mail-in Art
 : Artists are welcome to mail in artwork for the art show. We will happily hang it up for you. Artists are encouraged to submit a diagram indicating placement of their work; staff will do their best to follow the diagram. Please make sure that all artwork is well-protected for transit, and bid sheets are clearly filled out. After the con, BLFC will return payment along with the unsold artwork, using your packaging. Return postage will be deducted from the artist's payment.
@@ -54,8 +59,8 @@ Liability & Legalese
 Submission Minimums
 : Artists are welcome to submit a small amount of items (even just one) to the art show. If your art doesn't cover most of a panel, we reserve the right to combine it on a panel with another artist's work. If you want to ensure a panel to yourself, submit enough art to fill it.
 
-Due Dates
-: If you are mailing in art, it must arrive by May 26th, 2017. If you are bringing art in person, it must be displayed by 3pm Friday. Please mail in your art if you cannot make it by this time.
+Main-In
+: If you are mailing in art, it must arrive by {{ page.duedates.mailin }}. If you are bringing art in person, it must be displayed by {{ page.duedates.atcon }}. Please mail in your art if you cannot make it by this time.
 
 Donate Profits to Charity
 : For each 5% of your profits you choose to donate to charity, BLFC will reduce its commission by 1%, with the commission becoming free when you donate 35%. (Sales tax will always still be deducted).
@@ -63,7 +68,6 @@ Donate Profits to Charity
 </div>
 
 
-<!--
 
 ## Hours & Location
 
