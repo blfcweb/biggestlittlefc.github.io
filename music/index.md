@@ -40,13 +40,13 @@ Fox Amore &amp; Pepper Coyote
 <ul id="card-characters">
 	<li class="one_fourth">
 		<img src="/assets/theme/art-thistle.jpg">
-		Jessie Jones
+		Levi Jackson
 		<em>as</em>
 		<strong>THISTLE</strong>
 	</li>
 	<li class="one_fourth">
 		<img src="/assets/theme/art-clover.jpg">
-		Roman Dook
+		Jesse Dook
 		<em>as</em>
 		<strong>CLOVER</strong>
 	</li>
