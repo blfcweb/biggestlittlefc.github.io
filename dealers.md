@@ -100,7 +100,7 @@ Applications
 : Application **does not** guarantee a dealers den space. Approved dealers will be notified by November 30th. Judging is based on items that the applicant wishes to sell, quality of items compared to other applicants, and presentation of product. Other criteria may be added as necessary.
 
 Security
-: At the end of business each day, the dealer room doors will be closed, locked, and will not be opened for anyone. [accordion title="If you forget something you need, you will not be able to retrieve it until the next day. We recommend that you bring a sheet to cover your whole table with whenever you are not manning it, to make it clear that your business is closed.
+: At the end of business each day, the dealer room doors will be closed, locked, and will not be opened for anyone.+ If you forget something you need, you will not be able to retrieve it until the next day. We recommend that you bring a sheet to cover your whole table with whenever you are not manning it, to make it clear that your business is closed.
 
 Content
 : Content of any maturity level can be sold in either the Dealer's Den or the Black Market (this includes standard, booth, and bazaar tables). Black Market allows unrestricted display of mature content so long as it is not audible. In the Dealer's Den, it is <b>your responsibility</b> to restrict visibility of adult material from the eyes of minors. Restricted material involves images depicting (a) use of narcotics, steroids, or usage of products that present a risk to consumer safety, (b) drug paraphernalia, (c) items that promote hate, violence, racial intolerance, or the financial exploitation of a crime, (f) items that are considered obscene, (g) certain sexually oriented materials or services.
@@ -121,7 +121,7 @@ Business License
 : The city of Reno (not the state) requires a temporary business license for exhibitors at conventions. The cost of this business license is included in your dealer's den space, and BLFC will provide you with the business license on Friday of the convention before business begins. Con staff will help you fill out the form; it's easy. Most of the information will be filled out for you.
 
 Tax Collection
-: All sales are subject to state and local sales tax ({{ page.price.taxrate }}%). At the end of the con, [accordion title="you must complete your sales taxes with the dealer den lead before you leave. Income tax will be your own responsibility in your own home state/country. Nevada has no income tax.
+: All sales are subject to state and local sales tax ({{ page.price.taxrate }}%). At the end of the con, you must complete your sales taxes with the dealer den lead before you leave. Income tax will be your own responsibility in your own home state/country. Nevada has no income tax.
 
 Dealer's Assistants
 : Assistants of dealers will need to buy their own con badge to access the dealer's den. When submitting your application, indicate the names of your helpers, so their badges can read "dealer assistant."
