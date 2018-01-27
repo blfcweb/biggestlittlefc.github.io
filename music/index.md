@@ -10,7 +10,7 @@ Biggest Little Fur Con
 <em>presents</em>
 <h1>"BLFC: A Musical Tail"</h1>
 <em>with performance by</em>
-Fox Amore &amp; Pepper Coyote
+Fox Amoore &amp; Pepper Coyote
 </div>
 
 

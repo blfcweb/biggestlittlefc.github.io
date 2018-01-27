@@ -7,7 +7,7 @@ layout: empty
 {::options parse_block_html="true" /}
 
 <div class="block-lyrics bg-two textcenter">
-<h1>"One Weekend" <br> <small>by Fox Amore &amp; Pepper Coyote</small>
+<h1>"One Weekend" <br> <small>by Fox Amoore &amp; Pepper Coyote</small>
 </h1>
 <pre style="font-style: italic;">
 Perhaps my expectations aren't realistic
