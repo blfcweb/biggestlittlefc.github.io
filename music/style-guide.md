@@ -1,8 +1,10 @@
 ---
 title: 'Style Guide'
 status: LIVE
+layout: fullwidth
 ---
-
+<div class="one-full bg-one">
+<div class="page-wrapper">
 ## Theme Styles
 
 ### Color Palette
@@ -11,17 +13,21 @@ status: LIVE
 
 ### Font
 
-Please use the [Josefin Sans][https://fonts.google.com/specimen/Josefin+Sans] font for the text in your work.
+Please use the <a href="https://fonts.google.com/specimen/Josefin+Sans" target="blank">Josefin Sans</a> font for the text in your work.
 
 Use either the Regular or Bold Italic flavor depending on the context.
 
+</div>
+</div>
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## World & Setting Information
 
 The musical takes place in a world where everyone is already an anthropomorphic character. Some of these characters have "Fursonas" of other animals that they feel better matches their personality or they identify with.  These people hold conventions to get together with other people who have Fursonas or are just fans of a lot of the art. The world is basically the same as ours, and at a convention like ours.  You will see lots of characters in fursuits just like during BLFC along with the hotel and casino settings, though everyone who isn't in a fursuit, "Furry" or not, is an anthropomorphic character.  
 
 Our story takes place at one of these conventions.
-
 
 ## Character Information
 
@@ -37,7 +43,7 @@ Our story takes place at one of these conventions.
 
 **Played by: Brianna Antilles** A sergal who's fursona is a horse.  Adult.  She is here to make money selling her art in the dealer's den.  She shares a table this year with an artist whom she admires, dauB.  Tends to be very business oriented, it takes up much of her life, as her art is her sole source of income.  
 
-### Sahny (Suh-nee)
+### Sahny <small>(Suh-nee)</small>
 
 **Played by: Sam A. Parker** A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of his own detreiment.  Lives very in the moment and is not concerned with planning at all.  
 
@@ -45,15 +51,19 @@ Our story takes place at one of these conventions.
 
 **Played by: Viottolo D'silencia** The hyena con chair whose fursona is an arctic fox.  Adult.  Very nonchelant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
 
-### dauB (Dah-B)
+### dauB <small>(Dah-B)</small>
 
 **Played by: Milo Sybre Baranov** A white tiger that dyes his fur to be like a golden tabby (his fursona).  Adult.  6'4" tall.  Is very large but wishes he was smaller.  Calm and knows everything will be ok, so he worries less than Baz.  Very passionate about his work, but not as uptight about the business aspect of it.  
 
+</div>
+</div>
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
 
 ## Inspiration
 
 What are some things you've seen at BLFC?  Maybe a funny experience you had could be happening to a background character.
-
 
 ## General Rules
 
@@ -130,4 +140,7 @@ Minimum dimensions & DPI
   Height: 36 Inches
 
 
+</div>
+
+</div>
 </div>
