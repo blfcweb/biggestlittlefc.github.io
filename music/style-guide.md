@@ -3,70 +3,73 @@ title: 'Style Guide'
 status: LIVE
 ---
 
-# Theme Styles
+## Theme Styles
 
-## Color Palette
+### Color Palette
+
 **PURPLE.** Purple is this year’s theme color, overusing purple is great! Don’t be afraid to let the background carry this color and don’t be afraid to push “purple” in a different ambient color to fit your image better.
 
-## Font
+### Font
+
 Please use the [Josefin Sans][https://fonts.google.com/specimen/Josefin+Sans] font for the text in your work.
+
 Use either the Regular or Bold Italic flavor depending on the context.
 
 
-# World & Setting Information
+## World & Setting Information
 
 The musical takes place in a world where everyone is already an anthropomorphic character. Some of these characters have "Fursonas" of other animals that they feel better matches their personality or they identify with.  These people hold conventions to get together with other people who have Fursonas or are just fans of a lot of the art. The world is basically the same as ours, and at a convention like ours.  You will see lots of characters in fursuits just like during BLFC along with the hotel and casino settings, though everyone who isn't in a fursuit, "Furry" or not, is an anthropomorphic character.  
 
 Our story takes place at one of these conventions.
 
 
-# Character Information
+## Character Information
 
-## Thistle 
-Played by: Levi Jackson
-A dog who's fursona is a rabbit.  Young adult.  Works a job in a clothing store to pay the bills, but has no love for it.  Lives on the east coast, far away from Clover and Sahny.  Very schedule oriented.  This convention is his first, and he is excited and nervous.  Also very excited to meet Clover in person for the first time.  He is constantly looking at his phone to check his schedule and revises it constantly before arriving.  He relies on his phone a lot, consequently, he always has it with him and is nervous when he is disconnected or gets no signal with it, or it is at risk of dying.
+### Thistle 
 
-## Clover 
-Played by: Jesse Dook
-A bear who's fursona is an eagle.  Adult.  Calm and collected.  He used to volunteer at cons, but stopped because he wasn't getting joy out of it anymore.  Helpful in nature, he's like a gentle giant.  He also tends to make sure everyone in a crowd is OK and taken care of.  Prefers his drama to be on TV instead of in his life, and tends to avoid it.
+**Played by: Levi Jackson** A dog who's fursona is a rabbit.  Young adult.  Works a job in a clothing store to pay the bills, but has no love for it.  Lives on the east coast, far away from Clover and Sahny.  Very schedule oriented.  This convention is his first, and he is excited and nervous.  Also very excited to meet Clover in person for the first time.  He is constantly looking at his phone to check his schedule and revises it constantly before arriving.  He relies on his phone a lot, consequently, he always has it with him and is nervous when he is disconnected or gets no signal with it, or it is at risk of dying.
 
-## Baz 
-Played by: Brianna Antilles 
-A sergal who's fursona is a horse.  Adult.  She is here to make money selling her art in the dealer's den.  She shares a table this year with an artist whom she admires, dauB.  Tends to be very business oriented, it takes up much of her life, as her art is her sole source of income.  
+### Clover 
 
-## Sahny (Suh-nee)
-Played by: Sam A. Parker
-A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of his own detreiment.  Lives very in the moment and is not concerned with planning at all.  
+**Played by: Jesse Dook** A bear who's fursona is an eagle.  Adult.  Calm and collected.  He used to volunteer at cons, but stopped because he wasn't getting joy out of it anymore.  Helpful in nature, he's like a gentle giant.  He also tends to make sure everyone in a crowd is OK and taken care of.  Prefers his drama to be on TV instead of in his life, and tends to avoid it.
 
-## Diego
-Played by: Viottolo D'silencia
-The con chair
-A hyena whose fursona is an arctic fox.  Adult.  Very nonchelant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
+### Baz 
 
-## dauB (Dah-B)
-Played by: Milo Sybre Baranov
-A white tiger that dyes his fur to be like a golden tabby (his fursona).  Adult.  6'4" tall.  Is very large but wishes he was smaller.  Calm and knows everything will be ok, so he worries less than Baz.  Very passionate about his work, but not as uptight about the business aspect of it.  
+**Played by: Brianna Antilles** A sergal who's fursona is a horse.  Adult.  She is here to make money selling her art in the dealer's den.  She shares a table this year with an artist whom she admires, dauB.  Tends to be very business oriented, it takes up much of her life, as her art is her sole source of income.  
+
+### Sahny (Suh-nee)
+
+**Played by: Sam A. Parker** A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of his own detreiment.  Lives very in the moment and is not concerned with planning at all.  
+
+### Diego
+
+**Played by: Viottolo D'silencia** The hyena con chair whose fursona is an arctic fox.  Adult.  Very nonchelant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
+
+### dauB (Dah-B)
+
+**Played by: Milo Sybre Baranov** A white tiger that dyes his fur to be like a golden tabby (his fursona).  Adult.  6'4" tall.  Is very large but wishes he was smaller.  Calm and knows everything will be ok, so he worries less than Baz.  Very passionate about his work, but not as uptight about the business aspect of it.  
 
 
-# Inspiration
+## Inspiration
 
 What are some things you've seen at BLFC?  Maybe a funny experience you had could be happening to a background character.
 
 
-# General Rules
+## General Rules
 
 These are a few general rules & guidelines of material we will reject or look forward to having.
 
 Exceptions can always be made just be sure to have it cleared with the BLFC Art Lead (art@goblfc.org)
 
-## DO
+### DO
+
 - Layered files. More on this in the Layers Section.
 - PSD files
 - Text on separate layers
 - Cute stuff preferred.
 - Signature on separate layer.
 
-## DO NOT!
+### DO NOT!
 
 - No heavy Violence.
 - No gore, blood or dismemberment. 
@@ -76,7 +79,7 @@ Exceptions can always be made just be sure to have it cleared with the BLFC Art 
 - No obtrusive watermarks. Discrete signatures are fine.
 - No copyrighted characters
 
-## Additional rules
+### Additional rules
 <div class="accordion-list">
 
 Personal Characters
@@ -98,7 +101,7 @@ BLFC Usage of your work
 </div>
 
 
-# Art guidelines
+## Art guidelines
 
 <div class="accordion-list">
 
