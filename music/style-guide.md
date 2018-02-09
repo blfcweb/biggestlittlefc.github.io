@@ -45,11 +45,11 @@ Our story takes place at one of these conventions.
 
 ### Sahny <small>(Suh-nee)</small>
 
-**Played by: Sam A. Parker** A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of his own detreiment.  Lives very in the moment and is not concerned with planning at all.  
+**Played by: Sam A. Parker** A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of their own detriment.  Lives very in the moment and is not concerned with planning at all.  
 
 ### Diego
 
-**Played by: Viottolo D'silencia** The hyena con chair whose fursona is an arctic fox.  Adult.  Very nonchelant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
+**Played by: Viottolo D'silencia** The hyena con chair whose fursona is an arctic fox.  Adult.  Very nonchalant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
 
 ### dauB <small>(Dah-B)</small>
 
@@ -116,7 +116,7 @@ BLFC Usage of your work
 <div class="accordion-list">
 
 Art Assets
-: The following OneDrive contains the art assets that will contain files referenced within this document. [Art asset folder][https://1drv.ms/f/s!Akzy2KMRfEttgaGeB6HIB1wD-isE-xE]
+: The following OneDrive contains the art assets that will contain files referenced within this document. <a href="https://1drv.ms/f/s!Akzy2KMRfEttgaGeB6HIB1wD-isE-xE" target="_blank">Art asset folder</a>
 
 Layered Files
 : We are looking to be able to edit these files ourselves to make it easier to fit the images into flyers, the website and for other uses. 
