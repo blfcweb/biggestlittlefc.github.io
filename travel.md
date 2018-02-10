@@ -51,18 +51,7 @@ The parking lot also has spaces large enough to accomodate "dry" RVs.
 
 ## Travel Via Megabus
 
-Megabus provides service from both San Francisco, CA and Sacramento, CA that drops off three blocks away from the downtown bus station.
-
-Walk to the bus station (3 blocks) and catch bus number 14 (<a target="_blank" href="http://www.rtcwashoe.com/">schedule</a>).
-
-Megabus service starts at just $1 each way, and increases as the bus gets more sold out.
-
-When booking a Megabus ticket, select the destination as "Reno, NV."
-
-The evening Megabus arrival (9:05pm) only allows 10 minutes to walk to the bus station and catch bus 14 (9:15pm). Walk fast. If Megabus is even a few minutes late arriving in Reno in the evening, you will likely have to wait a full hour for the next #14. If that happens, a taxi should be about $20.
-
-**Warning for fursuiters**: Megabus only allows a single 62-inch piece of luggage (same standard as airline luggage check), plus a small carryon (backpack or smaller). Make sure you can fit within their baggage limits before booking a bus ticket.
-
+**Unfortunately, the Megabus no longer arrives in Reno.**
 
 ## Travel From Airport
 
