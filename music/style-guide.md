@@ -35,9 +35,17 @@ Our story takes place at one of these conventions.
 
 **Played by: Levi Jackson** A dog who's fursona is a rabbit.  Young adult.  Works a job in a clothing store to pay the bills, but has no love for it.  Lives on the east coast, far away from Clover and Sahny.  Very schedule oriented.  This convention is his first, and he is excited and nervous.  Also very excited to meet Clover in person for the first time.  He is constantly looking at his phone to check his schedule and revises it constantly before arriving.  He relies on his phone a lot, consequently, he always has it with him and is nervous when he is disconnected or gets no signal with it, or it is at risk of dying.
 
+<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_thistle_2.jpg">
+
+----
+
 ### Clover 
 
 **Played by: Jesse Dook** A bear who's fursona is an eagle.  Adult.  Calm and collected.  He used to volunteer at cons, but stopped because he wasn't getting joy out of it anymore.  Helpful in nature, he's like a gentle giant.  He also tends to make sure everyone in a crowd is OK and taken care of.  Prefers his drama to be on TV instead of in his life, and tends to avoid it.
+
+<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_clover_2.jpg">
+
+---- 
 
 ### Baz 
 
@@ -45,15 +53,31 @@ Our story takes place at one of these conventions.
 
 ### Sahny <small>(Suh-nee)</small>
 
+<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_sahny_2.jpg">
+
+---- 
 **Played by: Sam A. Parker** A hyena who's fursona is a deer.  Young adult.  Nonbinary, uses them/they pronouns.  Loves to party and drink all the booze.  Wants to be a "popufur" and really idolizes Keystone, a famous character in the community.  Very carefree to the point of their own detriment.  Lives very in the moment and is not concerned with planning at all.  
 
 ### Diego
 
 **Played by: Viottolo D'silencia** The hyena con chair whose fursona is an arctic fox.  Adult.  Very nonchalant about running the con, worry-free and convinced everything is going well.  Incompetent and uses his position in the community to get what he wants.  
 
+**REF SHEET COMING SOON**
+
+---- 
 ### dauB <small>(Dah-B)</small>
 
 **Played by: Milo Sybre Baranov** A white tiger that dyes his fur to be like a golden tabby (his fursona).  Adult.  6'4" tall.  Is very large but wishes he was smaller.  Calm and knows everything will be ok, so he worries less than Baz.  Very passionate about his work, but not as uptight about the business aspect of it.  
+
+<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_daub_2.jpg">
+
+---- 
+
+## Keystone
+
+**Played by: ** Dressed as a tan and brown Dutch Angel Dragon with antlers, this popufur is a well known fursuiter in the community, despite most not knowing what they even look like and usually only ever making squeaks and whistles.
+
+<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_keystone_2.jpg">
 
 </div>
 </div>
