@@ -1,5 +1,6 @@
 ---
 title: All Events
+status: LIVEx
 ---
 <div class="one_full textcenter"><div class="page-wrapper">
 <a class="button" href="/events/map/">BLFC Map</a>

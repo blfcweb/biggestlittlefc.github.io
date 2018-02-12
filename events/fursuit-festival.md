@@ -1,5 +1,6 @@
 ---
 title: Fursuit Festival
+status: LIVEx
 ---
 <div class="one_full"><h2><span>About the Festival</span></h2><div class="page-wrapper">
 <p>We are excited to bring back the Fursuit Festival, and we’ve moved it to a new day and time so that even more of our attendees can join in the fun! This year <strong>on Friday</strong>, after the Dealer’s Den closes, we will be launching with our giant group fursuit photo in the Main Ballroom at 6:30 SHARP and then fill both the main stage and second stage areas with tons of photo shoot areas and activities for everyone to enjoy! Here's how the evening will work:</p>

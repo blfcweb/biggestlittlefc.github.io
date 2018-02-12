@@ -1,6 +1,6 @@
 ---
 title: Policies
-status: LIVE
+status: LIVEx
 ---
 <!-- div class "tldr hidden" is used by registration; make sure you include one for every policy, directly under the "one_full title". It should be a very short, no-nonsense version of that particular policy, ideally ten words or less.
 The parser in registration is VERY sensitive to the formatting of this page. DON'T CHANGE THE FORMATTING. Yes, I know that it's redundant to put classes on closing div tags, but the registration parser needs that to pick apart the various div closing tags. Don't change the contents of any of the div tags. Don't use the visual editor, it will blow away the extra text in those tags.
