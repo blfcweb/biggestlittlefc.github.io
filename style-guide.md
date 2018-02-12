@@ -5,9 +5,7 @@ layout: fullwidth
 ---
 <div class="one-full bg-none">
 <div class="page-wrapper">
-## BLFC 2018 Logo
 
-<img class="aligncenter" src="/assets/theme/home-logo.png">
 
 </div>
 </div>
@@ -15,6 +13,10 @@ layout: fullwidth
 <div class="one-full bg-one">
 <div class="page-wrapper">
 ## Theme Styles
+
+### BLFC 2018 Logo
+
+<img class="aligncenter" src="/assets/theme/home-logo.png">
 
 ### Color Palette
 
