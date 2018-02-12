@@ -81,8 +81,6 @@ Our story takes place at one of these conventions.
 
 **Played by: Amani Naribi** Dressed as a tan and brown Dutch Angel Dragon with antlers, this popufur is a well known fursuiter in the community, despite most not knowing what they even look like and usually communicating through squeaks and whistles.
 
-<img class="theme-refs aligncenter" src="/assets/theme/blfc2018_character_keystone_2.jpg">
-
 </div>
 </div>
 
