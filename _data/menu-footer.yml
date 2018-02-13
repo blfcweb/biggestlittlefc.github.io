@@ -32,12 +32,12 @@ toc:
 ##        url: "/"
   - title: Events
     subfolderitems:
-      - page: All events
-        url: "/events/"
+#      - page: All events
+#        url: "/events/"
       - page: Dance Comp.
         url: "/events/dance-comp/"
-#      - page: Competitions
-#        url: "/events/competitions/"
+      - page: Competitions
+        url: "/events/competitions/"
       - page: Fursuit Festival
         url: "/events/fursuit-festivals/"
       - page: Fursuit Dance Auction
@@ -48,6 +48,8 @@ toc:
         url: "/events/panels/"
   - title: Activities
     subfolderitems:
+      - page: All Activities
+        url: "/activities"
       - page: Dance
         url: "/events/dance/"
       - page: Dealers Den
