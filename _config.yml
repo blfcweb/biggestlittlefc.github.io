@@ -13,3 +13,30 @@ theme: minima
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+
+
+social:
+  - slug: facebook
+    name: Facebook
+    url: "https://www.facebook.com/BiggestLittleFurryConvention"
+  - slug: twitter
+    name: Twitter
+    url: "https://twitter.com/BiggestLittleFC"
+  - slug: tumblr
+    name: Tumblr
+    url: "http://biggestlittlefc.tumblr.com/"
+  - slug: paw
+    name: FurAffinity
+    url: "http://www.furaffinity.net/user/biggestlittlefurcon"
+  - slug: youtube
+    name: YouTube
+    url: "https://www.youtube.com/c/BiggestlittlefurconOrg"
+  - slug: google-plus
+    name: Google Plus
+    url: "https://plus.google.com/106338588646241282653/posts"
+  - slug: telegram
+    name: Telegram
+    url: "https://telegram.me/biggestlittlefc"
+  - slug: instagram
+    name: Instagram
+    url: "https://www.instagram.com/biggestlittlefurcon/"
