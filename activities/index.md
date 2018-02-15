@@ -1,6 +1,6 @@
 ---
 title: Activities
-status: LIVE
+status: LIVEs
 ---
 <div id="events-lounge" class="one_full card-button">
 

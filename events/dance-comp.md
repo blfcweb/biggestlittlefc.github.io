@@ -1,6 +1,6 @@
 ---
 title: Dance Competition
-status: LIVE
+status: LIVEz
 ---
 ## Signups
 
