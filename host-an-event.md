@@ -1,12 +1,20 @@
 ---
 title: Host an Event
 status: LIVE
+layout: fullwidth
 ---
-Help us help you entertain our others.
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
+Help us, help you to entertain others.
 
 [Host a Panel or Event][signuplink]
 
----
+</div>
+</div>
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## Submit a Panel
 
@@ -40,7 +48,11 @@ For inspiration, here are some previous panels held at BLFC:
  - Skills: Photography Basics
  - Skills: Swing Dancing
 
----
+</div>
+</div>
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
 
 ## Submit a Meet 'n Greets
 
@@ -63,7 +75,11 @@ Examples:
  - Poker Players
  - Gamblers
 
----
+</div>
+</div>
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## Rules of Hosting Events
 <div class="accordion-list">
@@ -88,6 +104,8 @@ What panels are happening?
 
 </div>
 
+</div>
+</div>
 
 [contactevents]: /contact/
 {:title="Contact Events Lead"}
