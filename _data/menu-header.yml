@@ -58,22 +58,22 @@ toc:
         url: "/artshow/"
       - page: Bazaar
         url: "/bazaar/"
-  - title: About
-    subfolderitems:
-      - page: About BLFC
-        url: "/about/"
-      - page: Charity
-        url: "/charity/"
-      - page: Con Store
-        url: "https://squareup.com/store/goblfc"
-        target: "_blank"
-      - page: Volunteering
-        url: "/volunteer/"
-      - page: Submit Art
-        url: "/volunteer/art/"
-      - page: Host an Event
-        url: "/host-an-event/"
-      - page: Con book design
-        url: "/volunteer/conbook/"
-      - page: Contact
-        url: "/contact/"
+#  - title: About
+#    subfolderitems:
+#      - page: About BLFC
+#        url: "/about/"
+#      - page: Charity
+#        url: "/charity/"
+#      - page: Con Store
+#        url: "https://squareup.com/store/goblfc"
+#        target: "_blank"
+#      - page: Volunteering
+#        url: "/volunteer/"
+#      - page: Submit Art
+#        url: "/volunteer/art/"
+#      - page: Host an Event
+#        url: "/host-an-event/"
+#      - page: Con book design
+#        url: "/volunteer/conbook/"
+#      - page: Contact
+#        url: "/contact/"
