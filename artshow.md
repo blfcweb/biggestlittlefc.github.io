@@ -1,6 +1,6 @@
 ---
 title: Art Show
-status: LIVE
+status: LIVEx
 
 duedates:
 	mailin: "TBD"

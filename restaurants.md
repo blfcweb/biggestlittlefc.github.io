@@ -1,6 +1,6 @@
 ---
 title: Restaurants
-status: LIVE
+status: LIVEx
 ---
 
 {::options parse_block_html="true" /}

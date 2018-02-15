@@ -1,5 +1,6 @@
 ---
 title: Meet 'n Greets
+status: LIVEx
 ---
 <div class="page-wrapper"><div class="one_full textcenter"><h2><span>Location</span></h2><div class="page-wrapper">
 <p>Meet 'n Greets are located downstairs in the Meet &amp; Greet space, unless otherwise noted.</p>

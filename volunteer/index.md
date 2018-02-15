@@ -1,5 +1,6 @@
 ---
 title: Volunteering
+status: LIVEx
 ---
 <div id="volunteer-meetings" class="one_full"><h2><span>Open Meetings</span></h2><div class="page-wrapper"><div class="two_third">
 <div class="skivdiv-content">

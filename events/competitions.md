@@ -1,5 +1,6 @@
 ---
 title: Competitions
+status: LIVEx
 ---
 <div class="one_full textcenter"><div class="page-wrapper">
 <p>
