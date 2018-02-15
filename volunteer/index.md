@@ -3,22 +3,21 @@ title: Volunteering
 status: LIVE
 layout: fullwidth
 ---
+<div class="page-wrapper">
 <p class="textcenter"><a class="button" href="https://reg.goblfc.org">Apply to Volunteer</a></p>
+</div>
 
 <div class="one-full bg-one">
 <div class="page-wrapper">
 
 ## Open Meetings
 
-- Thursday Feb 15, GSR, Whitney Room. 6pm for leads and 2nds, 7pm for general session - <a href="https://docs.google.com/document/d/1YrZRTvezUKpD_aP4TkxNCEhq7mmHIPGHN2Tc7Dq6Evs/edit" target="_blank">[agenda]</a>
+Open meetings, usually held 6pm (Pacific time) on the third Thursday each month at the GSR (the room varies), are designed for new people to interact with planning staff, make suggestions, and participate in discussions. Online participation is encouraged and appreciated via a <a href="https://www.youtube.com/c/BiggestlittlefurconOrg" target="_blank">YouTube Audio Stream</a>.
 
-The primary purpose of the open meeting is for new people to interact with planning staff, make suggestions, and participate in discussions.
+<small>**NOTE**: Sometimes the date and time are different, check <a href="http://www.twitter.com/biggestlittlefc" target="_blank">Twitter</a> for updates.</small>
 
-Open meetings are usually held at 6pm (Pacific Time) on the 3rd Thursday of every month, at the Grand Sierra.
+- **Thursday Feb 15, GSR, Whitney Room.** 6pm for leads and 2nds, 7pm for general session - <a href="https://docs.google.com/document/d/1YrZRTvezUKpD_aP4TkxNCEhq7mmHIPGHN2Tc7Dq6Evs/edit" target="_blank">[agenda]</a>
 
-Sometimes the date and time are different. The exact meeting room varies from month to month, so check <a href="http://www.twitter.com/biggestlittlefc">Twitter</a> for updates.
-
-**Online participation** is appreciated and encouraged! Our meeting is streamed on <a href="https://www.youtube.com/c/BiggestlittlefurconOrg">Youtube</a> (audio only). Moderators watch the chat for relevant questions and discussion.
 
 <div class="clear"></div>
 </div>
@@ -29,7 +28,7 @@ Sometimes the date and time are different. The exact meeting room varies from mo
 
 ## Volunteer Levels
 
-Under going revision. Please check back
+**Under going revision. Please check back later.**
 
 <div class="clear"></div>
 </div>
