@@ -2,7 +2,7 @@
 title: Charity
 status: LIVE
 ---
-<a href="http://www.safehaven-wildlife.com/" target="_blank"><img src="/assets/img/logo-safehaven.png" alt="Safe Haven Wildlife Sanctuary" class="aligncenter"></a>
+<p class="textcenter"><a style="background-color: #fff;display: inline-block;padding: 14px;" href="http://www.safehaven-wildlife.com/" target="_blank"><img src="/assets/img/logo-safehaven.png" alt="Safe Haven Wildlife Sanctuary" class="aligncenter"></a></p>
 
 We welcome once again <a href="http://www.safehaven-wildlife.com/" target="_blank">Safe Haven Wildlife Sanctuary</a> as our charity for 2018.
 

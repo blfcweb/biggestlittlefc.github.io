@@ -1,0 +1,15 @@
+{ "sections" : [
+
+	{
+		"header" : "Main Activities",
+		"desc"   : "",
+		"items"  : [
+				{
+					"name"  : "Art Show",
+					"desc"  : "Bid on artist's originals, prints, and unique items.",
+					"times" : 
+				}
+		]
+	}
+
+] }
