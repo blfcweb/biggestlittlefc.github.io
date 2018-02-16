@@ -16,9 +16,9 @@ Donations using this button go directly to Safe Haven, and flag your donation so
 
 ### 2017 - <small>Safe Haven Wildlife Sanctuary</small>
 
-Bills are still being settled, but the total donation is estimated to be about $40,000.
+Thanks to our combined efforts, Safe Haven received $43,600 in 2017:
 
-- Excess convention income: $27240 (estimate)
+- Convention donation: $30,840
 - Direct donations by attendees: $5000
 - Charity Auction: $2500
 - Bachelor Dance Auction: $2305
