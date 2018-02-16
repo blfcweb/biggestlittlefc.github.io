@@ -16,7 +16,12 @@ price:
   twoday: "30"
   oneday: "20"
 approvaldate: "February 28th"
+layout: fullwidth
 ---
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
 <!--
 ## Sale Hours & Location
 
@@ -30,9 +35,7 @@ The Marketplace is included inside the <a href="https://www.goblfc.org/dealers/"
 
 Coming soon
 
-## List of Dealers
 
-Coming soon
 -->
 
 ## Vendor Application
@@ -63,8 +66,29 @@ All Weekend: ${{ page.price.threeday }}
 Two days: ${{ page.price.twoday }} <small>must be Fri-Sat or Sat-Sun</small>
 One day: ${{ page.price.oneday }}
 
-[Apply Today][reglink]	
+[Apply Today][reglink]  
 
+</div>
+</div>
+
+
+
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## List of Dealers
+
+**Coming soon**
+
+</div>
+</div>
+
+
+
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
 
 ## Setup Hours
 
@@ -73,10 +97,17 @@ One day: ${{ page.price.oneday }}
 - **Saturday** - {{ page.setup.saturday }}
 - **Sunday** - {{ page.setup.sunday }}
 
+</div>
+</div>
+
+
+
+<div class="one-full bg-four">
+<div class="page-wrapper">
+
 ## Vendor Rules
 
 Click the titles below to expand.
-
 
 
 <div class="accordion-list">
@@ -126,6 +157,8 @@ Payment for Table
 
 </div>
 
+</div>
+</div>
 
 [reglink]: https://reg.goblfc.org/
 {:title="Sign up as a dealer!" target="_blank" rel="noopener noreferrer" class="button"}
