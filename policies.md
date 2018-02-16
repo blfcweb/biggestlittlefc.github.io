@@ -36,7 +36,7 @@ General Conduct *Keep it legal.*
   No panhandling. No selling anything unless you are an authorized dealer or artist. If you want to sell things, please talk to the staff and we will help you obtain a temporary Reno business license (it's pretty easy). Note that because of state laws, you cannot sell raffle or drawin
 
 
-Heckling - Be nice.
+Heckling *Be nice.*
 : Please keep your comments to yourself. Please don't heckle the stage. Please don't heckle the fursuiters. Please don't heckle anyone. It's not funny and falls under disruptive behavior.
 
 
@@ -132,7 +132,7 @@ Flyers *Post flyers on flyer table.*
 
 
 
-Handheld Signs - No Solicitation
+Handheld Signs *No Solicitation*
 : Any signs that advertise services in exchange for anything of monetary value will not be allowed. These signs count as solicitation, and while they may be funny, the law has no sense of humor.
 
   Remember, this is a family-friendly convention; please refrain from signs that could be considered offensive or inappropriate.
