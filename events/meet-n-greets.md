@@ -9,7 +9,7 @@ layout: fullwidth
 
 ## What is a Meet 'n Greet?
 
-Meet 'n greets are attendee-hosted gatherings of common interests designed to foster social interaction and get like-minded furs together meeting new friends chatting about their  and  with common interests.
+Meet 'n greets are attendee-hosted gatherings of common interests designed to foster social interaction and get like-minded furs together to meet new friends and chat about their interests.
 
 </div>
 </div>

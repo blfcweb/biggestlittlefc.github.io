@@ -9,7 +9,7 @@ layout: fullwidth
 
 ## What are panels?
 
-Panels are activities put on by con attendees, that ranges from a mini classes, where you can learn awesome new things from experts. To togethers, where you can do anything from golf to karaoke with others!
+Panels are activities put on by con attendees, that range from mini classes, where you can learn awesome new things from experts. To get-togethers, where you can do anything from golf to karaoke with others!
 
 </div>
 </div>
@@ -33,7 +33,7 @@ Excellent! BLFC is highly dependent on amazing individuals, like yourself, to ru
 
 ## List of Panels
 
-**Currently there are no panels.** - Consider <a href="/host-an-event/">hosting an panel</a>!
+**Currently there are no panels.** - Consider <a href="/host-an-event/">hosting a panel</a>!
 
 </div>
 </div>
