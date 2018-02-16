@@ -69,7 +69,7 @@ Performers are eligible to compete in both a solo routine and a group routine.
 
 How to Compete
 : 1. Sign up and submit your music (please make sure the quality of your music is 256kbps or higher).  Go fill out information about yourself or your group and give us your dance music.  We’ll take care of the paperwork and have everything ready for you!
-  2. Familiarize yourself with <a href="#dancecomp-rules">our rules</a>! Nothing more embarrassing than being fouled on a technicality!
+  2. Familiarize yourself with our rules! Nothing more embarrassing than being fouled on a technicality!
       **Friday 1-4pm** - Compete in the preliminaries.  You’ll perform for a panel of judges and our production team. Bring your best to have a chance at Finals.  We’ll post the results and tell you who qualified for the finals!
       **NOTE**: What you perform at prelims must be what you intend to perform in the finals.
   3.  **Saturday 7pm** - The big showdown.  The cream of the crop will perform in front of a live audience at the con and for the live stream broadcast around the globe.  Win prizes and respect.
