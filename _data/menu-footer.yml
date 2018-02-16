@@ -22,12 +22,16 @@ toc:
         url: "/music/"
 #      - page: Story
 #        url: "/theme/story/"
-      - page: Guidelines
+      - page: Art Guidelines
         url: "/style-guide/"
-      - page: Con Book
-        url: "/"
+#      - page: Con Book
+#        url: "/"
       - page: Theme Credits
         url: "/theme/credits/"
+      - page: Submit Art
+        url: "/volunteer/art/"
+      - page: Con book design
+        url: "/volunteer/conbook/"
 ##      - page: Past Years
 ##        url: "/"
   - title: Events
@@ -71,9 +75,5 @@ toc:
         target: "_blank"
       - page: Volunteering
         url: "/volunteer/"
-      - page: Submit Art
-        url: "/volunteer/art/"
-      - page: Con book design
-        url: "/volunteer/conbook/"
       - page: Contact
         url: "/contact/"
