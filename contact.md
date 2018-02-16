@@ -7,7 +7,7 @@ status: LIVE
 
 <div class="one_half">
 <ul id="contact-social">
-{% for item in site.data.social.items %}
+{% for item in site.social %}
 <li><a class="fa fa-{{ item.slug }}" href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
 {% endfor %}
 </ul>
