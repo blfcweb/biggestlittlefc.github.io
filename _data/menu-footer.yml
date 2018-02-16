@@ -64,6 +64,8 @@ toc:
     subfolderitems:
       - page: About BLFC
         url: "/about/"
+      - page: Media
+        url: "/media/"
       - page: Charity
         url: "/charity/"
       - page: Con Store
