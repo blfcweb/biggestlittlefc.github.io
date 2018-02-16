@@ -20,8 +20,8 @@ toc:
 #        url: "/theme/"
       - page: Music
         url: "/music/"
-##      - page: Story
-##        url: "/"
+#      - page: Story
+#        url: "/theme/story/"
       - page: Guidelines
         url: "/style-guide/"
       - page: Con Book
@@ -32,8 +32,8 @@ toc:
 ##        url: "/"
   - title: Events
     subfolderitems:
-#      - page: All events
-#        url: "/events/"
+      - page: All events
+        url: "/events/"
       - page: Dance Competition
         url: "/events/dance-comp/"
       - page: Competitions
@@ -46,6 +46,8 @@ toc:
         url: "/events/meet-n-greets/"
       - page: Panels
         url: "/events/panels/"
+      - page: Host an Event
+        url: "/host-an-event/"
   - title: Activities
     subfolderitems:
       - page: All Activities
@@ -71,8 +73,6 @@ toc:
         url: "/volunteer/"
       - page: Submit Art
         url: "/volunteer/art/"
-      - page: Host an Event
-        url: "/host-an-event/"
       - page: Con book design
         url: "/volunteer/conbook/"
       - page: Contact
