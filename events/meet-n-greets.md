@@ -1,6 +1,7 @@
 ---
 title: Meet 'n Greets
 status: LIVE
+layout: fullwidth
 ---
 
 <div class="one-full bg-one">

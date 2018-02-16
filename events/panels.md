@@ -1,6 +1,7 @@
 ---
 title: Panels
 status: LIVE
+layout: fullwidth
 ---
 
 <div class="one-full bg-one">
