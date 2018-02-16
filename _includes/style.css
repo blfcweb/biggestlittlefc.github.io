@@ -294,7 +294,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	font-size: 0px;
 }
 #header-social a {
-	padding: 10px;
+	padding: 10px 15px;
 }
 #header-social .fa::before {
 	font-size: 17px;
