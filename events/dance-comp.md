@@ -55,6 +55,7 @@ Performers are eligible to compete in both a solo routine and a group routine.
 
 </div>
 
+<div class="clear"></div>
 
 </div>
 </div>
