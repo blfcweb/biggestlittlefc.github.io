@@ -1,30 +1,38 @@
 ---
 title: Panels
-status: LIVEx
+status: LIVE
 ---
-<div class="one_full textcenter"><h2><span>Location</span></h2><div class="page-wrapper">
-<p>Meet 'n Greets are located downstairs in the Meet &amp; Greet space, unless otherwise noted.</p>
-<p>
-<a class="button" href="/events/map/">BLFC map</a>
-<a class="button" href="https://calendar.google.com/calendar/embed?src=aas83fepedjgudm0fgchkdc7mc@group.calendar.google.com&amp;ctz=America/Los_Angeles" target="_blank">Live Meet 'N Greet Calendar</a>
-<a class="button" href="https://twitter.com/search?q=from%3Abiggestlittlefc%20%23errata">At-con Schedule Corrections</a></p>
-<div class="clear"></div></div></div>
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
+## What are panels?
+
+Panels are activities put on by con attendees, that ranges from a mini classes, where you can learn awesome new things from experts. To togethers, where you can do anything from golf to karaoke with others!
+
+</div>
+</div>
 
 
-<div id="list-meets" class="one_full"><h2><span>List of Meet 'n Greets</span></h2><div class="page-wrapper"><div id="list-events">
-<div class="list-events-block list-event-block-thursday "><h3 class="list-events-header">THURSDAY</h3><ul class="list-events-list nobull"><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Scuba Furs meet and greet<br><small>Thursday 8PM-9PM @Nevada Room | by: Rez &amp; White Fang</small></h3><div class="accordion-content" style="display: none;"><p>Are you scuba certified or just curious about scuba diving?  Come here to meet other dive furs as we prepare for a dive trip to Lake Tahoe.  For those curious, we will have dive gear to show off and be willing to answer any questions.</p>
-</div></div></li></ul></div><div class="list-events-block list-event-block-friday "><h3 class="list-events-header">FRIDAY</h3><ul class="list-events-list nobull"><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Bunny Meet and Greet<br><small>Friday 11AM-12PM @Nevada Room | by: Candy cotton</small></h3><div class="accordion-content" style="display: none;"><p>A fun way to meet all your fellow bunnys and bunny hybrids.</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">BLFC Pin Traders Social<br><small>Friday 11AM-12PM @Panel Room 1 | by: Char &amp; Kiasha</small></h3><div class="accordion-content" style="display: none;"><p>Are you a pin trader, pin maker or pin enthusiast? Come join us and swap pins or just show off your collection!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Parents and Young furs Meet &amp; Greet<br><small>Friday 1PM-2PM @Nevada Room | by: Pro Husky, Arcturus Chusky</small></h3><div class="accordion-content" style="display: none;"><p>Welcome Parents! Not sure what's going on or how to go about the convention? This is a great place to start. We are here to answer any and all questions you can come up with regarding the Fandom and help you in anyway possible to make this a very enjoyable experience for you and yours. For the young furs, come and meet some friends to hang out with around the con. Ask questions, get involved!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Furst Responders Meet and Greet (PG-13)<br><small>Friday 2PM-3PM @Nevada Room | by: Bubbles Fennec and Bryant Fox</small></h3><div class="accordion-content" style="display: none;"><p>Bubbles fennec and Bryant fox are here to host a first responders meet and greet! Fire fighters, police, EMS, military, and hopefuls are welcome! Lets talk about our experiences, fun stories, and give tips to the future first responders of the furry world!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Sports Gear Fursuit Meetup<br><small>Friday 2PM-3PM @Nevada Room | by: Raj</small></h3><div class="accordion-content" style="display: none;"><p>I love sports gear on fursuits, and I know lots of other people do too. Let's get together, get to know each other a bit, and take some pictures, and then we'll roam around the convention being fuzzy and athletic looking for more photo ops. Costumers, enthusiasts, and photographers are all welcome!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Game Industry Furries Meet &amp; Greet<br><small>Friday 3PM-4PM @Nevada Room | by: Corvin Dallas</small></h3><div class="accordion-content" style="display: none;"><p>Meet and greet with fellow game industry furries! Professionals of all levels and disciplines welcomed. Come on down and exchange stories of the trenches!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Anime, Cosplay, Fandoms? Oh my!!! (PG-13)<br><small>Friday 4PM-5PM @Nevada Room | by: Lexi Pupcakes</small></h3><div class="accordion-content" style="display: none;"><p>Pokeballs are red, Sonic is blue, who's crying over Attack on Titan season 2? Whether you're a hard core otaku, obsessed with gems from outer space, an Overwatch enthusiast, or admire those who cosplay your favorite characters, come join us and meet fellow fans who enjoy the other nerdy stuff outside of the furry fandom! Anyone who is loves anime, video games, and cosplay are welcome. Come make some new pals! Hosted by Lexi Pupcakes and her fellow weeb friends.</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Furry Educators Meet and Greet<br><small>Friday 5PM-6PM @Nevada Room | by: Apoxon</small></h3><div class="accordion-content" style="display: none;"><p>A chance for furries in educational careers (professors, teachers, education assistants, teachers' assistants, etc.) to meet others in their field, swap stories, and exchange ideas.</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Fursuit Maker Mingle<br><small>Friday 9PM-10PM @Nevada Room | by: Bastek/Howl Yeah</small></h3><div class="accordion-content" style="display: none;"><p>Calling all fursuit makers! We have a pretty unique job, let's all get to know each other. Come join us for a casual get-together where we can hang out and share our experiences as makers. See you there!</p>
-</div></div></li></ul></div><div class="list-events-block list-event-block-saturday "><h3 class="list-events-header">SATURDAY</h3><ul class="list-events-list nobull"><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Hoofer Meet and Greet<br><small>Saturday 12PM-1PM @Nevada Room | by: Trail Horse and Glider</small></h3><div class="accordion-content" style="display: none;"><p>A meet and greet for anyone who has a hooved animal fursona/fursuit or interest. Fursuits not required but encouraged. Show off those hooves!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Pokefurs<br><small>Saturday 1PM-2PM @Nevada Room | by: Scy Storm</small></h3><div class="accordion-content" style="display: none;"><p>The yearly BLFC Meet and Greet for fans of all things Pokemon. Come down and chat about your adorable obsession as we reminisce about the past year of Pokemon events and releases.</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Instagram Meetup<br><small>Saturday 2PM-3PM @Nevada Room | by: Misswolfiee</small></h3><div class="accordion-content" style="display: none;"><p>A fun meet and greet for any and all instagram users! We will also be taking a group photo.</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">African Animal Meet/Photoshoot<br><small>Saturday 4PM-5PM @Nevada Room | by: HazardousMachine</small></h3><div class="accordion-content" style="display: none;"><p>Meet up and photoshoot for African Animals attending BLFC! Come show your PRIDE!</p>
-</div></div></li><li class="list-events-item list-events-has-content"><div class="chunk-accordion"><h3 class="accordion-title">Inflatable Meetup<br><small>Saturday 5PM-7PM @Panel Room 7 | by: Lionel</small></h3><div class="accordion-content" style="display: none;"><p>We will have inflatables on display as well as having a conversation about design and building them.</p>
-</div></div></li></ul></div></div><div class="clear"></div></div></div>
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## Want to host a panel?
+
+Excellent! BLFC is highly dependent on amazing individuals, like yourself, to run panels. You can <a href="/host-an-event/">signup here</a>!
+
+</div>
+</div>
+
+
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
+
+## List of Panels
+
+**Currently there are no panels.** - Consider <a href="/host-an-event/">hosting an panel</a>!
+
+</div>
+</div>
