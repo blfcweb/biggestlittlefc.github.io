@@ -10,8 +10,10 @@ toc:
         url: "/travel/"
       - page: Restaurants
         url: "/restaurants/"
-      - page: Con Map
-        url: "/map/"
+      - page: Volunteer
+        url: "/volunteer/"
+#      - page: Con Map
+#        url: "/map/"
       - page: Policies
         url: "/policies/"
   - title: Theme
