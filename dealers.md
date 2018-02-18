@@ -20,7 +20,11 @@ price:
   extrabooth:  "30"
   taxrate: "7.75"
 approvaldate: "November 30th"
+layout: fullwidth
 ---
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
 
 <!--
 ## Sale Hours & Location
@@ -82,6 +86,29 @@ BLFC offers two types of vendor experiences:
 - **Additional vendor permit** - ${{ page.price.extrapermit }} (For sharing a table with a friend!)
 - **Additional 8'x2.5' table** - ${{ page.price.extratable }} for Standard, ${{ page.price.extrabooth }} for Booth
 
+</div>
+</div>
+
+
+
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## List of Dealers
+
+**Coming soon**
+
+</div>
+</div>
+
+
+
+
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
+
 ## Dealer Setup Hours
 
 - **Thursday** - {{ page.setup.thursday }}
@@ -89,6 +116,12 @@ BLFC offers two types of vendor experiences:
 - **Saturday** - {{ page.setup.saturday }}
 - **Sunday** - {{ page.setup.sunday }}
 
+</div>
+</div>
+
+
+<div class="one-full bg-four">
+<div class="page-wrapper">
 
 ## Dealer Rules
 
@@ -150,6 +183,9 @@ Size of Table
 Pets and Animals
 : The dealers den is a busy location without easy access to the outside, we do not recommend that vendors bring their pets along as this can be stressful for the animal. As per the hotel policy, service dogs that meet the requirements set forth by State of Nevada statute (NRS 426.510) will still be accepted on property.
 
+</div>
+
+</div>
 </div>
 
 [reglink]: https://reg.goblfc.org/
