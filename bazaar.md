@@ -83,7 +83,7 @@ Click the titles below to expand.
 
 
 Applications
-: Application **does not** guarantee a dealers den space. Approved vendors will be notified by December 30th. Judging is based on items that the applicant wishes to sell, quality of items compared to other applicants, and presentation of product. Other criteria may be added as necessary.
+: Application **does not** guarantee a dealers den space. Approved vendors will be notified by {{ page.approvaldate }}. Judging is based on items that the applicant wishes to sell, quality of items compared to other applicants, and presentation of product. Other criteria may be added as necessary.
 
 Security
 : At the end of business each day, the bazaar will be closed, locked, and will not be opened for anyone. **If you forget something you need, you will not be able to retrieve it until the next day.** We recommend that you bring a sheet to cover your table with whenever you are not manning it, to make it clear that your business is closed.
