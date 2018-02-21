@@ -66,5 +66,3 @@ Fox Amoore &amp; Pepper Coyote
 </ul>
 <div class="clear"></div>
 </div>
-
-	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
