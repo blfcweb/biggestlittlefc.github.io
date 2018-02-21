@@ -67,7 +67,6 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 <small>Not available after {{ page.upgradeend }}.</small>
 
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
-- T-shirt
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
 - 5% chance <small>for a free attendance next year</small>
