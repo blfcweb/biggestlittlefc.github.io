@@ -45,15 +45,6 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 
 -->
 
-## List of Dealers
-
-<ul id="dealer-list" class="accordion-list">
-{% for item in site.dealers %}
-{{ item.name }}
-: {{ item.description }} <a href="{{ item.website }}" target="_blank">[ Website ]</a>
-{% endfor %}
-</ul>
-
 
 
 
@@ -104,9 +95,18 @@ BLFC offers two types of vendor experiences:
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
+
 ## List of Dealers
 
-**Coming soon**
+<ul id="dealer-list" class="accordion-list">
+
+{% for item in site.data.dealers %}
+{{ item.name }}
+: {{ item.description }} <a href="{{ item.website }}" target="_blank">[ Website ]</a>
+{% endfor %}
+
+</ul>
+
 
 </div>
 </div>
