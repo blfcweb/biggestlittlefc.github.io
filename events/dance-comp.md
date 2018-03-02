@@ -13,7 +13,7 @@ times:
 
 ## Signup
 
-[Sign up now][reglink]{: class="button"}
+[Sign up now][regbutton]
 
 </div>
 </div>
@@ -55,25 +55,32 @@ times:
 5. Win prizes and respect.
 
 
+</div>
+</div>
+
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
+
 ## Judging Criteria
 
 During both the preliminaries and the main stage event, judges will be using the **ballroom system**, wherein competitors are ranked against each other in real-time, to make sure no one is forgotten about in the decision making process.
 
 These are some of the aspects our judges will be looking for; some judges consider different aspects more important than others!
   
-  **Foundation**
+**Foundation**
   - Your **musicality**; how well the character of the dance/choreo fits or emphasizes the character of the music.
   - Your **flow**; How well do you transition from one part of your performance to the next?
   - Your **execution**; the cleanliness of your moves.
-  
-  **Variety**
-  - The *diversity* of the moves in your performance.
-  - Your *tempo*; Are you dancing at the same speed the entire time, or changing it up occasionally?
-  - Your *levels*; The use of your y axis. Are you changing up your stance while performing your moves? (Standing, jumping, bending, crouching, being on the floor, etc.)
-  
-  **Technique**
-  - The *complexity* and finesse of your moves.
-  - *Travelling*. When navigating the stage, are you employing any footwork (spinning, gliding, housing, leaping, etc.) or merely walking around?
+
+**Variety**
+  - The **diversity** of the moves in your performance.
+  - Your **tempo**; Are you dancing at the same speed the entire time, or changing it up occasionally?
+  - Your **levels**; The use of your y axis. Are you changing up your stance while performing your moves? (Standing, jumping, bending, crouching, being on the floor, etc.)
+
+**Technique**
+  - The **complexity** and **finesse** of your moves.
+  - **Travelling**. When navigating the stage, are you employing any footwork (spinning, gliding, housing, leaping, etc.) or merely walking around?
 
 
 </div>
