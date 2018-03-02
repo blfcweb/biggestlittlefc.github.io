@@ -65,10 +65,10 @@ input[type="text"],input[type="email"], textarea, select {
 	border: 1px solid #222;
 	padding: 10px 10px;
 }
-a, a:link, a:visited {
+a, a:link, a:visited, .button.notbutton {
 	color: #0ba2d1;
 }
-a:hover, a:focus, a:active {
+a:hover, a:focus, a:active. .button.notbutton:hover {
 	color: #066a92;
 }
 hr {
