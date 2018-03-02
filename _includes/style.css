@@ -267,7 +267,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 }
 #menu-main .menu-group ul {
 	margin: 0;
-	padding: 20px 0;
+	padding: 0 0 20px;
 }
 #menu-main .menu-group li {
 	font-size: 16px;
@@ -294,7 +294,7 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	font-size: 0px;
 }
 #header-social a {
-	padding: 10px;
+	padding: 10px 15px;
 }
 #header-social .fa::before {
 	font-size: 17px;

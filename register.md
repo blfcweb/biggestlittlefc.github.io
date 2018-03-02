@@ -91,7 +91,11 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 - Free bowling <small>(just show your badge, midnight to 6am)</small>
 - Half Price Food <small>in con-space snack bars</small>
 
-<div class="clear"></div></div></div>
+<div class="clear"></div>
+</div>
+</div>
+
+
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
@@ -115,7 +119,11 @@ Window across from Nevada Foyer
 **<big>Sunday 11AM-2PM:</big>**
 Window across from Nevada Foyer
 
-<div class="clear"></div></div></div>
+<div class="clear"></div>
+</div>
+</div>
+
+
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
@@ -134,6 +142,8 @@ One-day badges are not available. Instead, the weekend price goes down on Saturd
 <div class="clear"></div>
 </div>
 </div>
+
+
 
 <div class="one-full bg-two">
 <div class="page-wrapper">

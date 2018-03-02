@@ -13,6 +13,9 @@ Help us, help you to entertain others.
 </div>
 </div>
 
+
+
+
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
@@ -25,31 +28,35 @@ If you wish to run a panel or have an idea for a panel, go ahead and click the b
 While BLFC does not have panel "tracks," we do encourage panelists of all types to participate in our convention.
 
 For inspiration, here are some previous panels held at BLFC:
- - Art: Etsy Sellers
- - Art: Voice Acting
- - Art: Know Your Copyrights
- - Art: Commission Guidelines and Etiquette
- - Event: Live Jazz Band
- - Event: Furry Feud
- - Event: Fully Unscripted
- - Event: Midnight Bowling
- - Fursuiting: Costuming 101
- - Fursuiting: First-time fursuiting
- - Gaming: Hungry Hungry Furries
- - Gaming: Intro to Poker
- - Gaming: Werewolf/Mafia Game
- - Gaming: Pokemon X/Y Tournament
- - Gaming: Blackjack Tournament
- - Gaming: Cribbage Tournament
- - Gaming: Mystery Video Game Tournament
- - Skills: Solving Rubik's Cubes
- - Skills: Casino Gaming 101
- - Skills: Beginner Level Poi Spinning
- - Skills: Photography Basics
- - Skills: Swing Dancing
+
+- Art: Etsy Sellers
+- Art: Voice Acting
+- Art: Know Your Copyrights
+- Art: Commission Guidelines and Etiquette
+- Event: Live Jazz Band
+- Event: Furry Feud
+- Event: Fully Unscripted
+- Event: Midnight Bowling
+- Fursuiting: Costuming 101
+- Fursuiting: First-time fursuiting
+- Gaming: Hungry Hungry Furries
+- Gaming: Intro to Poker
+- Gaming: Werewolf/Mafia Game
+- Gaming: Pokemon X/Y Tournament
+- Gaming: Blackjack Tournament
+- Gaming: Cribbage Tournament
+- Gaming: Mystery Video Game Tournament
+- Skills: Solving Rubik's Cubes
+- Skills: Casino Gaming 101
+- Skills: Beginner Level Poi Spinning
+- Skills: Photography Basics
+- Skills: Swing Dancing
 
 </div>
 </div>
+
+
+
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
@@ -63,25 +70,30 @@ Choose a hobby or an interest and register a meet and greet for it, and meet tho
 Meet and greets are extremely easy to host, since the point is just to gather people to meet and talk about the selected topic. Anyone can host one!
 
 Examples:
- - First Responders
- - Dragons
- - Wolves
- - Otters
- - Pokéfurs
- - Equines &amp; Hoofers
- - Christians
- - Gear Heads
- - Hockey Fans
- - Poker Players
- - Gamblers
+
+- First Responders
+- Dragons
+- Wolves
+- Otters
+- Pokéfurs
+- Equines &amp; Hoofers
+- Christians
+- Gear Heads
+- Hockey Fans
+- Poker Players
+- Gamblers
 
 </div>
 </div>
+
+
+
 
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## Rules of Hosting Events
+
 <div class="accordion-list">
 
 Can 18+ panels be hosted?
@@ -96,8 +108,8 @@ My panel has unusual equipment or room requirements.
 Will an ASL interpreter be available?
 : We will be hiring an ASL interpreters. Not every event will have an interpreter, but the most-requested ones will. If you happen to be ASL-fluent and want to volunteer to be an interpreter, please [contact the panels lead][contactevents].
 
-What are Meet &amp; Greets?
-: Our primary goal is to get people together to make new friends. If you have a specific interest and want to meet like-minded new friends, please declare a Meet &amp; Greet. M&amp;G hosts don't really have to prepare or do anything except to declare the M&amp;G is happening, and attend.
+What are Meet 'n Greets?
+: Our primary goal is to get people together to make new friends. If you have a specific interest and want to meet like-minded new friends, please declare a Meet 'n Greet. M 'n G hosts don't really have to prepare or do anything except to declare the M 'n G is happening and attend.
 
 What panels are happening?
 : Closer to the con, we will post the live working-copy schedule, which will update repeatedly as panels are added and juggled, and settle down to a final schedule about two weeks before the con.
