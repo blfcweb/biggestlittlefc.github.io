@@ -107,7 +107,7 @@ BLFC offers two types of vendor experiences:
 </dt>
 <dd>
   {{ item.description }}
-  <a href="{{ item.website }}" target="_blank">[ Website ]</a>
+  <!--<a href="{{ item.website }}" target="_blank">[ Website ]</a>-->
 </dd>
 
 {% endfor %}
