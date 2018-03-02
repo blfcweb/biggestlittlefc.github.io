@@ -88,6 +88,12 @@ button, a.button, .button, html input[type="button"], input[type="reset"], input
 	text-transform: uppercase;
 	box-shadow: 0 2px 2px rgba(0,0,0,0.7);
 }
+.button.notbutton {
+	padding: 0;
+	background: none;
+	font-weight: normal;
+	text-transform: none;
+}
 #page-title {
 	background: url("/assets/theme/bg-page-title.jpg") no-repeat scroll center center/cover;
 	text-align: center;
