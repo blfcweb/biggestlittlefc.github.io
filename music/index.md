@@ -16,18 +16,19 @@ Fox Amoore &amp; Pepper Coyote
 
 <div id="card-playlist" class="textcenter one-full bg-two">
 <h2>Song list</h2>
-<p>Click the title to listen now! The lyrics are in the description.</p>
 <ol>
+	<li>"Overture"</li>
 	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
-	<li>TBA</li>
+	<li>"Reg Line"</li>
+	<li>"Tell Me Something I Don't Know"</li>
+	<li>"Stitches"</li>
+	<li>"Buy My Stuff"</li>
+	<li>"Power"</li>
+	<li>"Realization"</li>
+	<li>"Draw Me In"</li>
+	<li>"I'm Going All In"</li>
+	<li>"Hey Buddy"</li>
+	<li>"Good Con</li>
 </ol>
 
 <div class="clear"></div>
@@ -65,4 +66,3 @@ Fox Amoore &amp; Pepper Coyote
 </ul>
 <div class="clear"></div>
 </div>
-
