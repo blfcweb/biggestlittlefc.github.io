@@ -79,7 +79,7 @@ hr {
 	border: none;
 	border-bottom: 1px solid;
 }
-button, a.button, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
+button, a.button, .button a, .button, html input[type="button"], input[type="reset"], input[type="submit"] {
 	padding: 8px 15px;
 	display: inline-block;
 	color: #fff;
