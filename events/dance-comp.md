@@ -13,7 +13,7 @@ times:
 
 ## Signup
 
-[Sign up now][regbutton]
+[Sign up now][reglink]{: class="button"}
 
 </div>
 </div>
@@ -40,7 +40,7 @@ times:
 
 ## How to Compete
 
-1. [Sign up][reglink] and submit your music (please make sure the quality of your music is 256kbps or higher).
+1. [Sign up][reglink]{: class="notbutton"} and submit your music (please make sure the quality of your music is 256kbps or higher).
    Go fill out information about yourself or your group and give us your dance music.
    We’ll take care of the paperwork and have everything ready for you!
 
