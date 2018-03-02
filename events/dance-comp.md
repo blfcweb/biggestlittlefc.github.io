@@ -16,10 +16,6 @@ times:
 [Sign up now][reglink]
 {: class="button"}
 
-----
-
-[Sign up now][reglink]{: .button}
-
 </div>
 </div>
 
