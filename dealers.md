@@ -102,8 +102,13 @@ BLFC offers two types of vendor experiences:
 
 {% for item in site.data.dealers %}
 
-<dt>{{ item.name }}</dt>
-<dd>{{ item.description }}<a href="{{ item.website }}" target="_blank">[ Website ]</a></dd>
+<dt>
+  {{ item.name }}
+</dt>
+<dd>
+  {{ item.description }}
+  <a href="{{ item.website }}" target="_blank">[ Website ]</a>
+</dd>
 
 {% endfor %}
 
