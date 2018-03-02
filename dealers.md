@@ -43,10 +43,19 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 <a href="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-1.jpg" target="_blank" rel="noopener noreferrer">**Click for larger map**</a>
 <p><a href="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2.jpg"><img class="aligncenter size-large wp-image-1794" src="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-1024x882.jpg" alt="" srcset="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-1024x882.jpg 1024w, https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-512x441.jpg 512w, https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-2-768x662.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a>
 
+-->
+
 ## List of Dealers
 
-Coming soon
--->
+<ul id="dealer-list" class="accordion-list">
+{% for item in site.dealers %}
+{{ item.name }}
+: {{ item.description }} <a href="{{ item.website }}" target="_blank">[ Website ]</a>
+{% endfor %}
+</ul>
+
+
+
 
 
 ## Dealer Application
