@@ -11,7 +11,7 @@ times:
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
 
-## Signup
+## Dance Comp. Application
 
 [Sign up now][reglink]{: .button}
 
@@ -40,7 +40,7 @@ times:
 
 ## How to Compete
 
-1. [Sign up][reglink]{: class="notbutton"} and submit your music (please make sure the quality of your music is 256kbps or higher).
+1. [Sign up][reglink]{: class="notbutton sads"} and submit your music (please make sure the quality of your music is 256kbps or higher).
    Go fill out information about yourself or your group and give us your dance music.
    We’ll take care of the paperwork and have everything ready for you!
 
