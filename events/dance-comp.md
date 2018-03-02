@@ -13,8 +13,7 @@ times:
 
 ## Signup
 
-[Sign up now][reglink]
-{: class="button"}
+[Sign up now][reglink]{: class="button"}
 
 </div>
 </div>
@@ -36,7 +35,7 @@ times:
 
 
 
-<div class="one-full bg-two hide">
+<div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## How to Compete
