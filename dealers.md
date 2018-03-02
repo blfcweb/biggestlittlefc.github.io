@@ -98,14 +98,16 @@ BLFC offers two types of vendor experiences:
 
 ## List of Dealers
 
-<ul id="dealer-list" class="accordion-list">
+<div id="dealer-list" class="accordion-list">
 
 {% for item in site.data.dealers %}
-{{ item.name }}
-: {{ item.description }} <a href="{{ item.website }}" target="_blank">[ Website ]</a>
+
+<dt>{{ item.description }}</dt>
+<dd>{{ item.description }}<a href="{{ item.website }}" target="_blank">[ Website ]</a></dd>
+
 {% endfor %}
 
-</ul>
+</div>
 
 
 </div>
