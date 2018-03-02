@@ -1,6 +1,6 @@
 ---
 title: Fursuit Charity Dance Auction
-status: LIVEx
+status: LIVE
 ---
 <div class="page-wrapper"><div class="one_full textcenter"><h2><span>Time &amp; Location</span></h2><div class="page-wrapper"><div class="one_half">
 <div class="skivdiv-content">
