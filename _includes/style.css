@@ -68,7 +68,7 @@ input[type="text"],input[type="email"], textarea, select {
 a, a:link, a:visited, .button.notbutton {
 	color: #0ba2d1;
 }
-a:hover, a:focus, a:active. .button.notbutton:hover {
+a:hover, a:focus, a:active, .button.notbutton:hover {
 	color: #066a92;
 }
 hr {
