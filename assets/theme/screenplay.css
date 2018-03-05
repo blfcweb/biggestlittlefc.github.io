@@ -23,7 +23,6 @@
     box-sizing: border-box;    
 }
 #screenplay .page h1, #screenplay .page h2, #screenplay .page h3, #screenplay .page h4, #screenplay .page p {color: #222;}
-
 #screenplay.dpi72 .page { font-size: 12px; padding: 72px 72px 72px 108px; }
 #screenplay.dpi100 .page { font-size: 16px; padding: 100px 100px 100px 150px; }
 #screenplay.dpi150 .page { font-size: 33px;  padding: 150px 150px 150px 225px; }
