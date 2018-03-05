@@ -23,6 +23,12 @@
     box-sizing: border-box;    
 }
 #screenplay .page h1, #screenplay .page h2, #screenplay .page h3, #screenplay .page h4, #screenplay .page p {color: #222;}
+#screenplay .page h1 {margin: .67em 0;}
+#screenplay .page h2 {margin: .83em 0;}
+#screenplay .page h3 {margin: 1em 0;}
+#screenplay .page h4 {margin: 1.33em 0;}
+#screenplay .page p  {margin: 1em 0;}
+
 #screenplay.dpi72 .page { font-size: 12px; padding: 72px 72px 72px 108px; }
 #screenplay.dpi100 .page { font-size: 16px; padding: 100px 100px 100px 150px; }
 #screenplay.dpi150 .page { font-size: 33px;  padding: 150px 150px 150px 225px; }
@@ -33,6 +39,9 @@
 #screenplay.dpi72 .page h3,
 #screenplay.dpi72 .page h4,
 #screenplay.dpi72 .page p { font-size: 12px; font-weight: normal; color: #222;}
+
+
+
 
 #screenplay.dpi100 .page h1,
 #screenplay.dpi100 .page h2,
