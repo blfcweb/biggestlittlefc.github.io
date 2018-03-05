@@ -47,7 +47,7 @@ layout: empty
 <h4>KAREN</h4>
 <p>Oh no...</p>
 </div>
-<p>DUG, a male husky with brown coloring and a singular flop ear walks into the room. Followed by, HERMES, a male panda bear and DASH, a slender male griffin.</p>
+<p>ROJO, a male husky with brown coloring and a singular flop ear walks into the room. Followed by, HERMES, a male panda bear and DASH, a slender male griffin.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p>Hey! Glad you could make it! That's everyone, so listen up! Considering the info we got from Karen and the near incidents we had happen last year due to so few volunteers, I have an idea to make the con more manageable.</p>
@@ -58,17 +58,17 @@ layout: empty
 <p>To shrink attendance down to what we can handle, we're holding the con in...wait for it...</p>
 </div>
 <div class="dialogue">
-<h4>DUG</h4>
+<h4>ROJO</h4>
 <p class="parenthetical">(interrupting, wrinkling his nose)</p>
 <p>Here?  You mean...here?</p>
 </div>
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(animated annoyance)</p>
-<p>YES DUG, THANKS FOR RUINING MY THUNDER.</p>
+<p>YES ROJO, THANKS FOR RUINING MY THUNDER.</p>
 </div>
 <div class="dialogue">
-<h4>DUG</h4>
+<h4>ROJO</h4>
 <p>Oh I'm sorry, I just meant this place is kind of a fixer-upper.</p>
 </div>
 <div class="dialogue">
@@ -89,7 +89,7 @@ layout: empty
 <p>Because of the security thing last year, the hotel nearly canceled the contract.  FURSUASION NEARLY DIDN'T HAPPEN!  WE HAVE TO DO SOMETHING!</p>
 </div>
 <div class="dialogue">
-<h4>DUG</h4>
+<h4>ROJO</h4>
 <p>I don't like it, but if I need to sleep in the dealer's den again I will!</p>
 </div>
 <div class="dialogue">
