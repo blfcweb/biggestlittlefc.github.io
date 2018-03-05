@@ -24,7 +24,7 @@ Fox Amoore &amp; Pepper Coyote
 	<li>"Stitches"</li>
 	<li>"Buy My Stuff"</li>
 	<li>"Power"</li>
-	<li>"Realization"</li>
+	<li><a href="https://www.youtube.com/watch?v=EoKqe4IEDN8" target="_blank">"Realization"</a></li>
 	<li>"Draw Me In"</li>
 	<li>"I'm Going All In"</li>
 	<li>"Hey Buddy"</li>
