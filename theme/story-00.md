@@ -251,7 +251,7 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY (UNDER THE TABLE)</h4>
 <p class="parenthetical">(between laughter)</p>
-<p>I.... I... legit... can't even!</p>
+<p>I... I... legit... can't even!</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
