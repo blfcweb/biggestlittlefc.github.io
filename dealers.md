@@ -26,7 +26,6 @@ layout: fullwidth
 <div class="one-full bg-one">
 <div class="page-wrapper">
 
-<!--
 ## Sale Hours & Location
 
 Dealers den is located in the <a href="/events/map/">Silver State Pavilion on the Spa Level</a> next to the Spa.
@@ -37,7 +36,7 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 - {:.one_third } **Saturday** - {{ page.open.saturday }}
 - {:.one_third } **Sunday** - {{ page.open.sunday }}
 
-
+<!--
 
 ## Map of Dealers Den
 <a href="https://www.goblfc.org/wp-content/uploads/Silver-state-Pavilion-Website-1.jpg" target="_blank" rel="noopener noreferrer">**Click for larger map**</a>
