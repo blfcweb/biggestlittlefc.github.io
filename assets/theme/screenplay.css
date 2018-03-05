@@ -1,0 +1,132 @@
+/* #51445F - moon warrior */ 
+#screenplay { margin: 25px auto 0 auto; width: 850px; }
+.page::-moz-selection, .page::selection { background: #ED303C; color: #fff; }
+#screenplay .page {    
+    background: #fff;
+    border: 1px solid #d2d2d2;
+    border-radius: 2px;
+    color: #222;
+    cursor: text;
+    font: Courier,"Courier New",monospace;
+    letter-spacing: 0 !important;
+    font-family: 'Courier Final Draft', Courier, Courier New, monospace;
+    line-height: 107.5%;
+    margin-bottom: 25px;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+	box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;    
+}
+#screenplay .page h1, #screenplay .page h2, #screenplay .page h3, #screenplay .page h4, #screenplay .page p {color: #222;}
+#screenplay .page h1 {margin: .67em 0;}
+#screenplay .page h2 {margin: .83em 0;}
+#screenplay .page h3 {margin: 1em 0;}
+#screenplay .page h4 {margin: 1.33em 0;}
+#screenplay .page p  {margin: 1em 0;}
+
+#screenplay.dpi72 .page { font-size: 12px; padding: 72px 72px 72px 108px; }
+#screenplay.dpi100 .page { font-size: 16px; padding: 100px 100px 100px 150px; }
+#screenplay.dpi150 .page { font-size: 33px;  padding: 150px 150px 150px 225px; }
+
+
+#screenplay.dpi72 .page h1,
+#screenplay.dpi72 .page h2,
+#screenplay.dpi72 .page h3,
+#screenplay.dpi72 .page h4,
+#screenplay.dpi72 .page p { font-size: 12px; font-weight: normal; color: #222;}
+
+
+
+
+#screenplay.dpi100 .page h1,
+#screenplay.dpi100 .page h2,
+#screenplay.dpi100 .page h3,
+#screenplay.dpi100 .page h4,
+#screenplay.dpi100 .page p { font-size: 17px; font-weight: normal; }
+
+#screenplay.dpi150 .page h1,
+#screenplay.dpi150 .page h2,
+#screenplay.dpi150 .page h3,
+#screenplay.dpi150 .page h4,
+#screenplay.dpi150 .page p { font-size: 33px; font-weight: normal; }
+
+/* US Paper */
+#screenplay.us-letter.dpi72 { width: 612px; } /* us letter - 72 dpi - 612px x 792px - margins: 1" 1" 1" 1.5" */
+#screenplay.us-letter.dpi100 { width: 850px; } /* us letter - 100 dpi - 850px x 1100px - margins: 1" 1" 1" 1.5" */
+#screenplay.us-letter.dpi150 { width: 1275px; } /* us letter - 150 dpi - 1275px x 1650px - margins: 1" 1" 1" 1.5" */
+
+#screenplay.us-letter.dpi72 .page { min-height: 792px; } /* min height temporary until proper paging is implemented */
+#screenplay.us-letter.dpi100 .page { min-height: 1100px; } /* min height temporary until proper paging is implemented */
+#screenplay.us-letter.dpi150 .page { min-height: 1650px; } /* min height temporary until proper paging is implemented */
+
+#screenplay.us-letter.dpi72 .page.title-page { height: 792px; } /* temp for title page until paging is implemented */
+#screenplay.us-letter.dpi100 .page.title-page { height: 1100px; } /* temp for title page until paging is implemented */
+#screenplay.us-letter.dpi150 .page.title-page { height: 1650px; } /* temp for title page until paging is implemented */
+
+/* A4 Paper */
+#screenplay.a4.dpi72 { width: 595px; } /* us letter - 72 dpi - 595px x 842px - margins: 1" 1" 1" 1.5" */
+#screenplay.a4.dpi100 { width: 827px; } /* us letter - 72 dpi - 827px x 1169px - margins: 1" 1" 1" 1.5" */
+#screenplay.a4.dpi150 {  width: 1250px; } /* us letter - 72 dpi - 1250px x 1754px - margins: 1" 1" 1" 1.5" */
+
+#screenplay.a4.dpi72 .page { height: 842px; }
+#screenplay.a4.dpi100 .page { height: 1169px; }
+#screenplay.a4.dpi150 .page { height: 1754px; }
+
+/* title page */
+#screenplay .title-page h1 {margin-top: 50%;margin-bottom: 34px;text-align: center;width: 90.5%;}
+#screenplay .title-page p.credit { text-align: center; width: 90.5%; }
+#screenplay .title-page p.author,
+#screenplay .title-page p.authors { margin-bottom: 32px; margin-top: 0; text-align: center; width: 90.5%; }
+#screenplay .title-page p.source { margin-bottom: 32px; text-align: center; width: 90.5%; }
+#screenplay .title-page p.notes { bottom: 350px; position: absolute; right: 0; text-align: right; }
+#screenplay.dpi72 .title-page p.notes { bottom: 252px; right: 72px; }
+#screenplay.dpi100 .title-page p.notes { bottom: 350px; right: 100px; }
+#screenplay.dpi150 .title-page p.notes { bottom: 525px; right: 150px; }
+#screenplay .title-page p.date,
+#screenplay .title-page p.draft-date { bottom: 250px; position: absolute; right: 0; text-align: right; }
+#screenplay.dpi72 .title-page p.date,
+#screenplay.dpi72 .title-page p.draft-date { bottom: 180px; right: 72px; }
+#screenplay.dpi100 .title-page p.date,
+#screenplay.dpi100 .title-page p.draft-date { bottom: 250px; right: 100px; }
+#screenplay.dpi150 .title-page p.date,
+#screenplay.dpi150 .title-page p.draft-date { bottom: 375px; right: 150px; }
+#screenplay .title-page p.contact { bottom: 100px; position: absolute; right: 0; text-align: right; }
+#screenplay.dpi72 .title-page p.contact { bottom: 72px; right: 72px; }
+#screenplay.dpi100 .title-page p.contact { bottom: 100px; right: 100px; }
+#screenplay.dpi150 .title-page p.contact { bottom: 150px; right: 150px; }
+#screenplay .title-page p.copyright { bottom: 100px; position: absolute; text-align: left; }
+#screenplay.dpi72 .title-page p.copyright { bottom: 72px; }
+#screenplay.dpi100 .title-page p.copyright { bottom: 100px; }
+#screenplay.dpi150 .title-page p.copyright { bottom: 150px; }
+
+/* screenplay */
+#screenplay .page h2 { text-align: right; }
+#screenplay .page h2.left-aligned { text-align: left }
+#screenplay .page h3 { position: relative; }
+#screenplay .page h3:before { color: #bbb; content: attr(id); font-weight: bold; left: -45px; position: absolute; }
+#screenplay .page h3:after { color: #bbb; content: attr(id); font-weight: bold; right: -45px; position: absolute; }
+
+#screenplay .page div.dialogue { margin-left: auto; margin-right: auto; width: 68%; }
+#screenplay .page div.dialogue h4 { margin-bottom: 0; margin-left: 23%; }
+#screenplay .page div.dialogue p.parenthetical { margin-bottom: 0; margin-top: 0; margin-left: 11%;}
+#screenplay .page div.dialogue p { margin-bottom: 0; margin-top: 0; }
+
+#screenplay .page div.dual-dialogue { margin: 2em 0 0.9em 2%; auto; width: 95%; }
+#screenplay .page div.dual-dialogue div.dialogue { display: inline-block; margin: 0; width: 45%; }
+#screenplay .page div.dual-dialogue div.dialogue h4 { margin-top: 0;}
+#screenplay .page div.dual-dialogue div.dialogue.right { float: right; }
+
+#screenplay .page p { }
+#screenplay .page p.centered { text-align: center; width: 92.5%; }
+
+#screenplay .page p.section { color: #bbb; margin-left: -30px; }
+#screenplay .page p.synopsis { color: #bbb; margin-left: -20px; }
+
+#screenplay .page span.italic { font-style: italic; }
+#screenplay .page span.bold { font-weight: bold; }
+#screenplay .page span.underline { text-decoration: underline; 
