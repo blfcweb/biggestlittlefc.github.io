@@ -339,6 +339,6 @@ layout: empty
 </div>
 <p>BAZ, SAHNY, CLOVER<br>Okay, good night!</p>
 <p>Clover hoists the pot back into the kitchen. Sahny clears the plates. Baz packs up her sketchbook.</p>
-<p>FADE OUT</p>
+<h2>FADE OUT.</h2>
 </div>
 </div>
