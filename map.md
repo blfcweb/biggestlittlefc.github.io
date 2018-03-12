@@ -6,26 +6,26 @@ status: LIVEx
 
 ### Grand Ballroom / Summit Pavilion
 
-<a href="/wp-content/uploads/blfc2017-eventmap-floor1-20170508-full.png" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/blfc2017-eventmap-floor1-20170508.png"></a></p>
+<a href="./assets/img/level1.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="./assets/img/level1_sm.jpg"></a></p>
 
  - Main Stage: Grand Ballroom (Main Stage entrance at the back of Grand Ballroom)
  - Second Stage: Grand Ballroom
- - Video Gaming: Grand Ballroom
- - Photo Booth: Grand Ballroom
- - Operations: Grand Ballroom
  - FLARE: Grand Ballroom
-
+ - Operations: Grand Ballroom
+ - Photo Booth: Grand Ballroom
+ - Video Gaming: Grand Ballroom
+ 
 
 ## Floor 0 - Spa level
 
 ### Nevada Room, Silver State Pavilion
 
-<a href="/wp-content/uploads/Nevada-SilverStatePavilion.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/Nevada-SilverStatePavilion.jpg"></a>
+<a href="./assets/img/level0.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="./assets/img/level0_sm.jpg"></a>
 
-- Dealer's Den: Silver State Pavilion
-- Bazaar: Silver State Pavilion
-- Volunteering: Nevada Room
 - Art Show: Nevada Room
-- Tabletop Gaming: Nevada Room
+- Bazaar: Silver State Pavilion
+- Dealer's Den: Silver State Pavilion
 - Panel Rooms: Nevada Room
+- Tabletop Gaming: Nevada Room
 - Free HIV testing, courtesy of Nevada HOPES: Nevada Room
+- Volunteering: Nevada Room
