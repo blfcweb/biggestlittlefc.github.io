@@ -26,22 +26,22 @@ layout: empty
 <h3>INT. HOTEL MEETING FLOOR - DAY</h3>
 <p>The sound of footsteps ring through darkness in a distant echo upon tiled floor. Fade from black to a poorly lit hallway, covered in stained and cracked off-white tiles. A light overhead flickers. Cobwebs line the corners of the hallway. To one side is some construction equipment, roped off by yellow caution tape.</p>
 <p>The footsteps become rhythmic as a set of heels joins in the beat with click-like percussion. Slowly, more varied footsteps join in the rhythm. The jingle of keys adds a bit of melody.</p>
-<p>In a pitch black room, yellow light beams from around a rusted door frame. The footstep rhythm gets louder and faster in pace. A shadow slides across the bottom of the door and stops as it fills the frame. Keys jingle. There’s a pause. The door lock clunks. Light creeps into the room as the door opens.</p>
+<p>In a pitch black room, yellow light beams from around a rusted door frame. The footstep rhythm gets louder and faster in pace. A shadow slides across the bottom of the door and stops as it fills the frame. Keys jingle. There's a pause. The door lock clunks. Light creeps into the room as the door opens.</p>
 <p>DIEGO, a wiry, spotted hyena in a black heavy metal t-shirt, dark baggy pants, and all the air of a rock star or stage performer, walks into the room. He drops a set of keys into a chair, which erupts with a cloud of dust. KAREN, a short, timid looking fox in a skirt suit follows Diego into the room. She fans away the dust from her face and flips on the light.</p>
 <p>Diego pulls a plastic tarp away from a large meeting table, dust flying everywhere. Karen bends over and lets out 3 short sneezes, sniffles, and stands upright.</p>
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(sarcastically)</p>
-<p>What a lovely place you've chose to meet...</p>
+<p>What a lovely place you've chose to meet.</p>
 </div> 
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(snaps his fingers and points to Karen)</p>
-<p>Well... as you know, the con will go bankrupt soon if we don't slow its growth.</p>
+<p>Well, as you know, the con will go bankrupt soon if we don't slow its growth.</p>
 </div> 
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Yes, I brought it up to you last week...</p>
+<p>Yes, I brought it up to you last week.</p>
 </div> 
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -49,12 +49,12 @@ layout: empty
 </div> 
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Oh no...</p>
+<p>Oh no.</p>
 </div> 
 <p>ROJO, a husky with brown coloring and a singular flop ear walks into the room. Following him is  HERMES, a panda bear, and DASH, a slender griffin.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Hey! Glad you could make it! That's everyone, so listen up! After considering the finance info we got from Karen and last year’s incident (which I think could have been prevented with more staffing), I came up with an idea to make the con more manageable.</p>
+<p>Hey! Glad you could make it! That's everyone, so listen up! After considering the finance info we got from Karen and last year's incident (which I think could have been prevented with more staffing), I came up with an idea to make the con more manageable.</p>
 </div> 
 <p>Karen lets out a barely audible sigh. She rolls her eyes up, as to plead to the heavens and mouths "why?"</p>
 <div class="dialogue">
@@ -87,12 +87,12 @@ layout: empty
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(pointing at each person as he addresses them)</p>
-<p>Come on guys! First off, Karen, this'll be cheaper; Fursuasion might go bankrupt if we don’t do something. Hermes, Dash, we’ll get the lower attendance you need! Something our staff can actually handle. And Rojo! Imagine how much easier your life would be with fewer events and a smaller con space!</p>
+<p>Come on guys! First off, Karen, this'll be cheaper; Fursuasion might go bankrupt if we don't do something. Hermes, Dash, we'll get the lower attendance you need! Something our staff can actually handle. And Rojo! Imagine how much easier your life would be with fewer events and a smaller con space!</p>
 </div> 
 <p>Diego puts his hands up to emphasize his words</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Because of last year’s fiasco of a con, the hotel is threatening to cancel next year’s contract! If we don’t do something this year, Fursuasion might not happen.</p>
+<p>Because of last year's fiasco of a con, the hotel is threatening to cancel next year's contract! If we don't do something *this* year, Fursuasion might not happen.</p>
 </div> 
 <div class="dialogue">
 <h4>HERMES</h4>
@@ -101,21 +101,21 @@ layout: empty
 </div> 
 <div class="dialogue">
 <h4>ROJO</h4>
-<p>I don't like it, but the last hotel’s con space was pretty confusing...</p>
+<p>I don't like it, but the last hotel's con space was pretty confusing...</p>
 </div> 
 <div class="dialogue">
 <h4>KAREN</h4>
 <p>It's unreasonable to ask everyone to go to a different location every few years. This place is terrible! We might lose a big chunk of attendance.</p>
-</div> 
-<p>Diego sighs.</p>
+</div>
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>That's the point!... Oh!  Karen! We should consider raising the price, too. I’ve put enough of my own hard-earned money into keeping Fursuasion out of bankruptcy. I don’t want to lose my house and our con. Look, we need to make concessions to stay afloat. Step one: We find the worst location for a con. When’s the last time you heard anyone go to Reno for a vacation? Step two: We find the worst venue for a con. Look! All of the stores are boarded up, and there’s barely anything within walking distance. Sure, we may be setting this thing up to be a bit of a flop, but it’ll keep the bank from coming to knock on all of our doors!</p>
+<p class="parenthetical">(sighs)</p>
+<p>That's the point! Oh, Karen! We should consider raising the price, too. I've put enough of my own hard-earned money into keeping Fursuasion out of bankruptcy. I don't want to lose my house and our con. Look, we need to make concessions to stay afloat. Step one: We find the worst *location* for a con. When's the last time you heard anyone go to *Reno* for a vacation? Step two: We find the worst *venue* for a con. Look! All of the stores are boarded up, and there's barely anything within walking distance. Sure, we may be setting this thing up to be a bit of a flop, but it'll keep the bank from coming to knock on all of our doors!</p>
 </div> 
 <p>Karen sighs and looks with sympathy at Diego.</p>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Diego… this sounds like a really terrible idea. It’s almost like you’re trying to kill the con.</p>
+<p>Diego, this sounds like a really terrible idea. It's almost like you're trying to kill the con.</p>
 </div> 
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -150,27 +150,27 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(sarcastically)</p>
-<p>Oh! Wow! You’re finally keeping the door unlocked! Glad I didn't break it open it again.</p>
+<p>Oh! Wow! You're finally keeping the door unlocked! Glad I didn't break it open it again.</p>
 </div> 
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(sarcastically)</p>
-<p>I don't keep my door unlocked all the time... I only do it for you...
+<p>I don't keep my door unlocked all the time... I only do it for you.
 <br></p>
 <p class="parenthetical">(under his breath)</p>
-<p>And for my door...</p>
+<p>And for my door.</p>
 </div> 
 <p>Clover walks around the corner of the kitchen archway, wiping his hands on a towel. Sahny hangs up their designer jacket, and turns to Clover. Sahny freezes in place for a moment and then nearly doubles over with laughter.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(in between laughs)</p>
-<p>Oh my gosh! You... kept the apron! The stare you gave me... Man, I thought you'd burned it by now! Ha!</p>
+<p>Oh my gosh! You... kept the apron? The stare you gave me. Man, I thought you'd burned it by now! Ha!</p>
 </div> 
 <p>Clover blushes, rolls his eyes and turns back to the kitchen. Sahny follows.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(over his shoulder)</p>
-<p>Dinner's almost ready. Since you’re late, why don’t you set the table??</p>
+<p>Dinner's almost ready. Since you're late, why don't you set the table?</p>
 </div> 
 <div class="dialogue">
 <h4>SAHNY</h4>
@@ -201,7 +201,7 @@ layout: empty
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(under her breath)</p>
-<p>Never nudge a busy artist.</p>
+<p>*Never* nudge a busy artist.</p>
 </div>
 
 <p>Sahny sets their phone down on an empty spot on the table facing the other three. THISTLE, a white shepherd mix with large, youthful eyes, appears on the screen, frantically waving at everyone.</p>
@@ -245,7 +245,7 @@ layout: empty
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(clears throat)</p>
-<p>That's a furry convention near you. Um... it's where a bunch of folk gather to dress in fursuits and hang out. The three of us go to a handful of conventions a year.</p>
+<p>That's a furry convention near you. Um, it's where a bunch of folk gather to dress in fursuits and hang out. The three of us go to a handful of conventions a year.</p>
 </div> 
 <div class="dialogue">
 <h4>SAHNY</h4>
@@ -290,7 +290,7 @@ layout: empty
 </div> 
 <div class="dialogue">
 <h4>THISTLE</h4>
-<p>Thanks, but I’m not worried about the cost if it means I get to see you guys!</p>
+<p>Thanks, but I'm not worried about the cost if it means I get to see you guys!</p>
 </div> 
 <div class="dialogue">
 <h4>BAZ</h4>
