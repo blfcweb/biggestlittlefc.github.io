@@ -1,73 +1,95 @@
 ---
 title: Fursuit Charity Dance Auction
 status: LIVE
+layout: fullwidth
+times: 
+  auction: "TBD"
+  dance:   "TBD"
 ---
-<div class="page-wrapper"><div class="one_full textcenter"><h2><span>Time &amp; Location</span></h2><div class="page-wrapper"><div class="one_half">
-<div class="skivdiv-content">
-<h3>Auction</h3>
-<p><strong>Saturday 12-2pm</strong><br>
-<a href="https://www.goblfc.org/events/map/">@ Main Stage</a></p>
-<div class="clear"></div>
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
+
+## About
+
+Expect music, dancing, showcasing our fursuiters available for auction and most importantly fun as we raise money for charity. There will be individuals up for bid as well as the potential for pairs or groups of fursuiters to bid on. Do not feel like you have to bid alone. Get some friends and pool your money to bid! In return for a successful bid all we are asking is that the suiter(s) show their bidding partner(s) a good time on the dance floor for the first hour. There are no other expectations or obligations. No inappropriate or lewd acts will be implied to get bids on the stage, and the same will not be tolerated from any bidders. This entire event is good, clean fun for charity and we intend to keep it that way. All proceeds will go towards <a href="/charity/">our charity</a>.
+
 </div>
 </div>
-<div class="one_half last">
-<div class="skivdiv-content">
-<h3>Dance</h3>
-<p><strong>Saturday 10-11pm</strong><br>
-<a href="https://www.goblfc.org/events/map/">@ Main Stage</a><br>
-<a href="https://www.goblfc.org/events/dance/">[Dance Info]</a></p>
-<div class="clear"></div>
+
+
+
+
+<div class="one-full bg-one textcenter">
+<div class="page-wrapper">
+
+## Dance Auction Application
+
+Come show off your Fursuit and provide a recreational evening on the dance floor with your bidding partner. Enjoy a Fursuit-friendly dance evening while raising some extra funding for <a href="https://www.goblfc.org/charity/">our charity</a>
+
+<a class="button" href="https://docs.google.com/forms/d/1ZMLDSZiQDsZlqMmXFnfA6wTXS6hjgAov_i2RBj1_JrQ/edit" target="_blank">Sign up now</a>
+
 </div>
 </div>
-<p><a class="button" href="https://twitter.com/bldanceauction" target="_blank" rel="noopener noreferrer">Twitter Updates</a></p>
-<div class="clear"></div></div></div>
 
-<div class="one_full hide"><h2><span>Fursuit Charity Dance Auction Signup</span></h2><div class="page-wrapper"><p>Come show off your Fursuit and provide a recreational evening on the dance floor with your bidding partner. Enjoy a Fursuit-friendly dance evening while raising some extra funding for <a href="https://www.goblfc.org/charity/">our charity</a>.</p>
-<p><strong style="display: block; text-align: center;">The last day for submissions is Friday, May 19th</strong></p>
-<p>Final selections will be made that weekend and the results will be posted on Monday, May 22nd.</p>
-<p>Read about any updates on the Fursuit Dance Auction <a href="https://twitter.com/bldanceauction" target="_blank" rel="noopener noreferrer">Twitter page</a>.</p>
-<p class="textcenter"><a class="button" href="https://docs.google.com/forms/d/1ZMLDSZiQDsZlqMmXFnfA6wTXS6hjgAov_i2RBj1_JrQ/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer">Sign up</a></p>
-<div class="clear"></div></div></div>
+<div class="one_full">
+<div class="page-wrapper">
 
-<div class="one_full hide"><h2><span>What We're Looking For</span></h2><div class="page-wrapper"><p>Full fursuits are preferred, though partials will be considered as well. Fursuiters of any&nbsp;gender/agender are welcomed, we only ask that all suiters are comfortable dancing with anyone, as bidding will not be restrictive to specific attendees.</p>
-<p>Suiters do not need to be a great dancer to apply. Just willing to have a great time and able to devote the first hour of the dance to their bidder on the dance floor. The people bidding are donating to the convention's charity, and we want them to be happy to have done so.</p>
-<p>Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auction and the dance on time. There will be a period of time between the auction and the dance to give all suiters time to prepare and enjoy the con. They will also be allowed to break to the headless lounge during the dance to cool off and hydrate. It really shouldn't be any different then if they were attending the dance normally, except they'll have an escort with them to dance with.</p>
-<div class="clear"></div></div></div>
+## What We're Looking For
 
-<div class="one_full"><h2><span>About the Fursuit Charity Dance Auction</span></h2><div class="page-wrapper"><p>Everyone can expect the dance auction for fun, music, and dancing. All we're asking is that the suiters show their bidding partner a good time on the dance floor for the first hour. There are no other expectations or obligations. No inappropriate or lewd acts will be implied to get bids on the stage, and the same will not be tolerated from any bidders. This entire event is good, clean fun for a charity and we intend to keep it that way.</p>
-<p>All proceeds will go towards <a href="https://www.goblfc.org/charity/">our charity</a>.</p>
-<div class="clear"></div></div></div>
+Full fursuits are preferred, though partials will be considered as well. Fursuiters of any gender/agender are welcomed, we only ask that all suiters are comfortable dancing with anyone, as bidding will not be restrictive to specific attendees.
 
-<div class="one_full"><h2><span>Bidders</span></h2><div class="page-wrapper"><p>Come bid on your favorite available Fursuit Bachelor(ettes). Should you be the winning bidder, you will be allowed to dance in a <em>completely platonic manner</em> with this fabulous fursuiter for the first hour of the <a href="https://www.goblfc.org/events/dance/">Saturday dance</a>.</p>
-<p><strong>Rules for bidders</strong>: You are allowed to win up to two fursuit Bachelor(ettes)s. <em>All Bids Final</em>. Payment is taken right after the Fursuit Dance Auction (Cash, credit card, or PayPal).</p>
-<div class="clear"></div></div></div>
+Suiters do not need to be a great dancer to apply. Just willing to have a great time and able to devote the first hour of the dance to their bidder on the dance floor. The people bidding are donating to the convention's charity, and we want them to be happy to have done so.
 
-<div class="one_full card-button dancer-cards"><h2><span>The Dancers</span></h2><div class="page-wrapper">
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_alu.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/AluBurstow" target="_blank" title="Alu<br><small>Husky</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/AluBurstow" target="_blank" title="Alu<br><small>Husky</small>">Alu<br><small>Husky</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_arco.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/ArcoShep" target="_blank" title="Arco<br><small>Australian Shepherd</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/ArcoShep" target="_blank" title="Arco<br><small>Australian Shepherd</small>">Arco<br><small>Australian Shepherd</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_bindi.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Bindi_Swagtail" target="_blank" title="Bindi<br><small>Marsupial Hybrid</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Bindi_Swagtail" target="_blank" title="Bindi<br><small>Marsupial Hybrid</small>">Bindi<br><small>Marsupial Hybrid</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_ciel.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/wataameron" target="_blank" title="Ciel<br><small>Yoshi Dragon</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/wataameron" target="_blank" title="Ciel<br><small>Yoshi Dragon</small>">Ciel<br><small>Yoshi Dragon</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_cloudhusky.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Cloud1516" target="_blank" title="Cloud Husky<br><small>Husky</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Cloud1516" target="_blank" title="Cloud Husky<br><small>Husky</small>">Cloud Husky<br><small>Husky</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_corvin.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/CorvinBirdy" target="_blank" title="Corvin<br><small>Blue Jay</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/CorvinBirdy" target="_blank" title="Corvin<br><small>Blue Jay</small>">Corvin<br><small>Blue Jay</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_dexy.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/ChanDexy" target="_blank" title="Dexy<br><small>Arctic Fox</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/ChanDexy" target="_blank" title="Dexy<br><small>Arctic Fox</small>">Dexy<br><small>Arctic Fox</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_dukehyena.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/DukeHyena" target="_blank" title="Duke Hyena<br><small>Hyena</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/DukeHyena" target="_blank" title="Duke Hyena<br><small>Hyena</small>">Duke Hyena<br><small>Hyena</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_dust.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Fanimal_Cre8tn" target="_blank" title="Dust<br><small>Giant Moth</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Fanimal_Cre8tn" target="_blank" title="Dust<br><small>Giant Moth</small>">Dust<br><small>Giant Moth</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_kip.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/TigerSquat" target="_blank" title="Kip<br><small>Werewolf Tiger</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/TigerSquat" target="_blank" title="Kip<br><small>Werewolf Tiger</small>">Kip<br><small>Werewolf Tiger</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_lumen.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/LumenSergal" target="_blank" title="Lumen<br><small>Rainbow Sergal</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/LumenSergal" target="_blank" title="Lumen<br><small>Rainbow Sergal</small>">Lumen<br><small>Rainbow Sergal</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_moji.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/MojiTheDhole" target="_blank" title="Moji<br><small>Dhole</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/MojiTheDhole" target="_blank" title="Moji<br><small>Dhole</small>">Moji<br><small>Dhole</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_oatmeal.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Ceeotu" target="_blank" title="Oatmeal<br><small>Clouded Leopard and Blue Macaw Griffon Mix</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Ceeotu" target="_blank" title="Oatmeal<br><small>Clouded Leopard and Blue Macaw Griffon Mix</small>">Oatmeal<br><small>Clouded Leopard and Blue Macaw Griffon Mix</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_ouiji.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Ouiji314" target="_blank" title="Ouiji<br><small>Fruit Bat</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Ouiji314" target="_blank" title="Ouiji<br><small>Fruit Bat</small>">Ouiji<br><small>Fruit Bat</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_ovenotter.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/OvenOtter" target="_blank" title="Oven Otter<br><small>Otter</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/OvenOtter" target="_blank" title="Oven Otter<br><small>Otter</small>">Oven Otter<br><small>Otter</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_rajeshsingh.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/RajeshTheLion" target="_blank" title="Rajesh<br><small>Lion</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/RajeshTheLion" target="_blank" title="Rajesh<br><small>Lion</small>">Rajesh<br><small>Lion</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_saki.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/_Garasaki" target="_blank" title="Saki<br><small>Japanese Wolf</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/_Garasaki" target="_blank" title="Saki<br><small>Japanese Wolf</small>">Saki<br><small>Japanese Wolf</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_shawshank.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Shawshank_Crux" target="_blank" title="Shawshank<br><small>Crux</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Shawshank_Crux" target="_blank" title="Shawshank<br><small>Crux</small>">Shawshank<br><small>Crux</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_shia.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/ShiaCabbit" target="_blank" title="Shia<br><small>Cabbit</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/ShiaCabbit" target="_blank" title="Shia<br><small>Cabbit</small>">Shia<br><small>Cabbit</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_smudge.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/overzen" target="_blank" title="Smudge<br><small>Triceratops</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/overzen" target="_blank" title="Smudge<br><small>Triceratops</small>">Smudge<br><small>Triceratops</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_sparkle.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/SparkleSaber" target="_blank" title="Sparkle<br><small>Saber Tooth Party Feline</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/SparkleSaber" target="_blank" title="Sparkle<br><small>Saber Tooth Party Feline</small>">Sparkle<br><small>Saber Tooth Party Feline</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_strobesgalefrostbane.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/NexusFolf" target="_blank" title="Strobes and Gale Frostbane<br><small>Intergalactic Space Lynx and Saber Tooth Kitty</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/NexusFolf" target="_blank" title="Strobes and Gale Frostbane<br><small>Intergalactic Space Lynx and Saber Tooth Kitty</small>">Strobes and Gale Frostbane<br><small>Intergalactic Space Lynx and Saber Tooth Kitty</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_veloxgruffhusky.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Leon_the_Fox" target="_blank" title="Velox the Gruffhusky<br><small>Gruffhusky</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Leon_the_Fox" target="_blank" title="Velox the Gruffhusky<br><small>Gruffhusky</small>">Velox the Gruffhusky<br><small>Gruffhusky</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_vinh.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/vinhtonfirefox" target="_blank" title="Vinh<br><small>Red Panda</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/vinhtonfirefox" target="_blank" title="Vinh<br><small>Red Panda</small>">Vinh<br><small>Red Panda</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_zarafa.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/Zarafagiraffe" target="_blank" title="Zarafa<br><small>Giraffe</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/Zarafagiraffe" target="_blank" title="Zarafa<br><small>Giraffe</small>">Zarafa<br><small>Giraffe</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_ziggy.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="https://twitter.com/ZigZaggyZagg" target="_blank" title="Ziggy<br><small>Raccoon Thing</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="https://twitter.com/ZigZaggyZagg" target="_blank" title="Ziggy<br><small>Raccoon Thing</small>">Ziggy<br><small>Raccoon Thing</small></a></h3><div class="clear"></div></div></div>
-<div class="chunk-bucket one_third" style="background-image:url(/wp-content/uploads/dancer_mystery.jpg);"><div class="bucket-wrap"><a class="bucket-lynx" href="#" title="Mystery Dancer<br><small>To be unveiled at auction</small>" style="background-image:url();"></a><h3 class="bucket-title"><a href="#" title="Mystery Dancer<br><small>To be unveiled at auction</small>">Mystery Dancer<br><small>To be unveiled at auction</small></a></h3><div class="clear"></div></div></div>
-<div class="clear"></div></div></div></div>
+Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auction and the dance on time. There will be a period of time between the auction and the dance to give all suiters time to prepare and enjoy the con. They will also be allowed to break to the headless lounge during the dance to cool off and hydrate. It really shouldn't be any different then if they were attending the dance normally, except they'll have an escort with them to dance with.
+
+</div>
+</div>
+
+
+{::comment}
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
+## Location &amp; Times
+
+The Auction & Dance happen at the <a href="/map/" target="_blank">main stage</a>
+
+- **Auction** - {{ page.times.auction }}
+- **Dance** - {{ page.times.dance }}
+
+<a class="button" href="https://twitter.com/bldanceauction" target="_blank" rel="noopener noreferrer">Twitter Updates</a>
+
+</div>
+</div>
+
+
+
+
+<div class="one_full bg-two">
+<div class="page-wrapper">
+
+## Bidders
+
+Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Should you be the winning bidder, you will be allowed to dance in a completely platonic manner with your fabulous fursuiter(s) for the first hour of the dance ( {{ page.times.dance }} ).
+
+**Rules for bidders**: You must be at least 18 years old to place a bid and you are only allowed to win up to 2 fursuiters or 1 fursuit group. All Bids Final. Payment is taken right after the Fursuit Dance Auction (Cash, credit card, or PayPal).
+
+<div class="clear">
+</div>
+</div>
+
+
+
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
+## The Dancers
+
+COMING SOON!
+
+</div>
+</div>
+{:/comment}
