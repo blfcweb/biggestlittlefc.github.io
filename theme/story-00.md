@@ -7,7 +7,9 @@ layout: empty
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
 <div id="screenplay" class="us-letter dpi100">
 
-<div class="textright"><a class="button" href="/theme/00-prologue.pdf" target="_blank">Download Episode</a></div>
+<div class="textright">
+<a class="button" href="/theme/00-prologue.pdf" target="_blank">Download Episode</a>
+</div>
 
 <div id="script" class="us-letter dpi100">
 <div class="page title-page">
