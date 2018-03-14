@@ -16,8 +16,8 @@
     text-align: left;
     width: 100%;
     -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
-	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
-	box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;    
@@ -129,4 +129,42 @@
 
 #screenplay .page span.italic { font-style: italic; }
 #screenplay .page span.bold { font-weight: bold; }
-#screenplay .page span.underline { text-decoration: underline; 
+#screenplay .page span.underline { text-decoration: underline; }
+
+
+
+@media screen and (max-width: 1024px) {
+    #screenplay.us-letter.dpi100 {width: 100%;}
+}
+
+@media screen and (max-width: 768px) {
+    #screenplay.dpi100 .page {
+        padding: 100px 50px 100px 110px;
+    }
+
+    #screenplay.dpi100 .title-page p.contact {
+        bottom: 70px;
+        right: 50px;
+    }
+    #screenplay .title-page h1, #screenplay .title-page p.credit, #screenplay .title-page p.author, #screenplay .title-page p.authors, #screenplay .title-page p.source, #screenplay.dpi100 .title-page p.contact, #screenplay.dpi100 .title-page p.copyright {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #screenplay.dpi100 .page {
+        padding: 60px 20px 60px 20px;
+    }
+    #screenplay .page div.dialogue {
+        width: 82%;
+    }
+    #screenplay .title-page h1 {
+        margin-top: 20%;
+    }
+    #screenplay.us-letter.dpi100 .page.title-page {
+        height: auto;
+    }
+    #screenplay.us-letter.dpi100 .page {
+        min-height: 560px;
+    }
+}
