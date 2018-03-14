@@ -7,6 +7,8 @@ layout: empty
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
 <div id="screenplay" class="us-letter dpi100">
 
+<div class="textright"><a class="button" href="/theme/00-prologue.pdf" target="_blank">Download Episode</a></div>
+
 <div id="script" class="us-letter dpi100">
 <div class="page title-page">
 <h1>
@@ -22,21 +24,6 @@ layout: empty
 <p class="contact">www.goblfc.org
 </p>
 <p class="copyright">Copyright (c) 2018 R.A.A.A.R.
-</p>
-</div>
-<div class="page title-page">
-<p>
-<span class="bold">Episode characters (in order of appearance):
-</span>
-<br>- Diego
-<br>- Karen
-<br>- Rojo ("Ro-ho")
-<br>- Hermes
-<br>- Dash
-<br>- Clover
-<br>- Baz 
-<br>- Sahny ("Sunny")
-<br>- Thistle
 </p>
 </div>
 <div class="page">
