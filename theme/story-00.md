@@ -192,12 +192,18 @@ layout: empty
 <p>Awww yeeeeah! Bought 'em soon as you put 'em up!</p>
 </div> 
 <p>Clover lugs the large stockpot over to the table, and he spoons a helping of spaghetti onto each of the three plates.</p>
-<p>Clover 
-<br>Sahny, can you get thistle on video?</p>
+
+<div class="dialogue">
+<h4>CLOVER</h4>
+<p>Sahny, can you get thistle on video?</p>
+</div>
 <p>Sahny, having already sat and started on their food, puts their fork down and gives a playful groan as they dig out their phone. Clover sits down and looks to Baz who is still sketching away. Clover nudges her with his elbow. Baz looks up at Clover with a scowl and sets her sketchbook aside before starting into her dinner.</p>
-<p>Baz 
-<br>(under her breath)
-<br>Never nudge a busy artist.</p>
+<div class="dialogue">
+<h4>BAZ</h4>
+<p class="parenthetical">(under her breath)</p>
+<p>Never nudge a busy artist.</p>
+</div>
+
 <p>Sahny sets their phone down on an empty spot on the table facing the other three. THISTLE, a white shepherd mix with large, youthful eyes, appears on the screen, frantically waving at everyone.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
