@@ -32,7 +32,7 @@ Come show off your Fursuit and provide a recreational evening on the dance floor
 </div>
 </div>
 
-<div class="one_full bg-three">
+<div class="one-full bg-three">
 <div class="page-wrapper">
 
 ## What We're Looking For
@@ -67,7 +67,7 @@ The Auction & Dance happen at the <a href="/map/" target="_blank">main stage</a>
 
 
 
-<div class="one_full bg-two">
+<div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## Bidders
