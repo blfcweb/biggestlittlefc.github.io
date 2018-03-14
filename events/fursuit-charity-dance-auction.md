@@ -7,7 +7,7 @@ times:
   dance:   "TBD"
 ---
 
-<div class="one-full bg-three">
+<div class="one-full bg-one">
 <div class="page-wrapper">
 
 ## About
@@ -20,7 +20,7 @@ Expect music, dancing, showcasing our fursuiters available for auction and most 
 
 
 
-<div class="one-full bg-one textcenter">
+<div class="one-full bg-two textcenter">
 <div class="page-wrapper">
 
 ## Dance Auction Application
@@ -32,7 +32,7 @@ Come show off your Fursuit and provide a recreational evening on the dance floor
 </div>
 </div>
 
-<div class="one_full">
+<div class="one_full bg-three">
 <div class="page-wrapper">
 
 ## What We're Looking For
@@ -83,7 +83,7 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
 
 
 
-<div class="one-full bg-one">
+<div class="one-full bg-three">
 <div class="page-wrapper">
 
 ## The Dancers
