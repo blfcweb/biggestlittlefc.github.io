@@ -8,7 +8,7 @@ layout: empty
 <div id="screenplay" class="us-letter dpi100">
 
 <div class="textright">
-<a class="button" href="/theme/00-prologue.pdf" target="_blank">Download Episode</a>
+<a class="button" href="/theme/00-prologue-v2.pdf" target="_blank">Download Episode</a>
 </div>
 
 <div id="script" class="us-letter dpi100">
@@ -148,7 +148,6 @@ layout: empty
 <p>SAHNY, a hyena, jumps up, rubbing a hand through dyed-red, unkempt hair, a big smile of astonishment on their face.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p class="parenthetical">(sarcastically)</p>
 <p>Oh! Wow! You're finally keeping the door unlocked! Glad I didn't break it open it again.</p>
 </div>
 <div class="dialogue">
