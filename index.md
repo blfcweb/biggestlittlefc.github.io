@@ -21,6 +21,7 @@ status: LIVE
 <a class="button" href="https://api.goblfc.org/schedule.php" target="_blank">Schedule</a>
 <a class="button" href="https://www.goblfc.org/program.pdf" target="_blank">Program</a>
 <a class="button" href="https://www.goblfc.org/theme/story-thursday">Theme Story</a>
+<a class="button" href="https://www.youtube.com/c/BiggestlittlefurconOrg/live">Live Stream</a>
 
 </div>
 </div>
