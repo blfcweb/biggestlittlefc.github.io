@@ -25,7 +25,7 @@ status: LIVE
 <div id="home-stage2" class="big-chunk textcenter">
 <div id="home-stage-content">
 
-<img src="/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
+<img src="//goblfc.org/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
 
 </div>
 </div>
@@ -33,10 +33,14 @@ status: LIVE
 </div>
 
 <style>
+#home-btn-bar {
+	padding: 10px 0;
+	margin-top: 50px;
+}
 #curtain-wrap {
 	position: relative;
 }
-#home-curtain-left, #home-curtain-right {
+#home-curtain-left, #home-curtain-right, #home-curtain-top {
 	position: absolute;
 }
 #home-stage-content img {
