@@ -33,4 +33,11 @@ status: LIVE
 #home-stage-content img {
 	height: auto;
 }
+#home-curtain-top {
+	top: 10px;
+}
+#home-curtain-left, #home-curtain-right {
+	width: 23vw;
+	height: 80vh;
+}
 </style>
