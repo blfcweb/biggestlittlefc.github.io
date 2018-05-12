@@ -27,6 +27,10 @@ status: LIVE
 
 <img src="//goblfc.org/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
 
+<h1>Welcome to BLFC 2018</h1>
+
+<p>Please, enjoy your con!</p>
+
 </div>
 </div>
 
