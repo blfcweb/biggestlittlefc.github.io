@@ -10,7 +10,7 @@ status: LIVE
 <div id="home-curtain-left"></div>
 <div id="home-curtain-right"></div>
 
-<div id="home-stage" class="big-chunk textcenter">
+<div id="home-stage2" class="big-chunk textcenter">
 <div id="home-stage-content">
 
 <img src="/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical | Now Showing">
@@ -24,3 +24,12 @@ status: LIVE
 
 </div>
 </div>
+
+<style>
+#home-curtain-left, #home-curtain-right {
+	position: absolute;
+}
+#home-stage-content img {
+	height: auto;
+}
+</style>
